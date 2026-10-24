@@ -32,11 +32,10 @@ The original event assets contain **19 dialogue/source rows** with synthetic
 - one `strandedinthelake` row;
 - one `bandrehearsal` row.
 
-The ID-based `CustomLocalizationParser` cannot target these rows. The
-first 18 have Korean translations recorded, but the native text export
+The ID-based `CustomLocalizationParser` cannot target these rows. All
+19 have Korean translations recorded, but the native text export
 intentionally omits them and lists them under `requires_asset_patch`
-in `build/MonsterCampKR/manifest.json`. The remaining
-`bandrehearsal` row is part of unfinished source coverage.
+in `build/MonsterCampKR/manifest.json`.
 
 If all translatable text is to display in the game, investigate a safe
 mod-packaged asset override for these rows. Do **not** modify installed
