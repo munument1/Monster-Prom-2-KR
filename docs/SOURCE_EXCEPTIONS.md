@@ -63,6 +63,22 @@ Proof of full in-game localization would require controlled installation and
 reversibility tests, a valid mod registration path, actual branch rendering
 for these 19 rows, and font/layout verification.
 
+## Historical numeral-style warnings (151 rows)
+
+The coverage audit reports 151 non-fatal numeral-format differences in older
+translation files. On 2026-10-24, all 151 warnings were compared against the
+source English and Korean wording: **no confirmed numerical meaning errors**
+were found. They were classified as legitimate Korean numeral wording or
+contextual adaptations, not as 151 untranslated/missing lines. Examples include
+`4 out of 5` -> `다섯 명 중 네 명`, `#3` -> `세 번째`, and the deliberately
+localized `2 kool 4 skool` pun. Conversely, spelling an English number as
+an Arabic digit can also trigger the warning without changing its meaning.
+
+Do not auto-rewrite all 151 warnings to pass a digit-only comparison. Future
+edits should preserve numerical meaning, game counters and variables, and be
+reviewed one row at a time. New translation batches remain subject to the
+stricter digit-counter check.
+
 ## Validation boundary
 
 Catalog JSON, variable/numeric equivalence checks, and in-memory Unity
