@@ -38,7 +38,7 @@
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_SUC_13/col-3": "그건 적법 절차를 완전히 무시하는 거잖아! 공정한 재판도 없이 유니콘을 감옥에 보낼 순 없어!",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_SUC_14/col-3": "보낼 수 있고, 실제로 그렇게 한다. 나중에 알고 보니 그 유니콘들은 전부 위조지폐 제작 혐의로 수배 중이었다!",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_SUC_15/col-3": "널 의심해서 미안해, %CURRENTPLAYERNAME%. 오늘 유니콘도 범죄를 저지를 수 있고, 정의의 심판대에 세우기 위해서라면 어떤 수단을 써도 된다는 걸 배웠어.",
-  "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_SUC_16/col-3": "그리고 넌 네 위조지폐 사업을 도왔던 유니콘들을 전부 팔아넘기는 게 친구를 사귀기에 아주 좋은 방법이라는 걸 배웠다. 친구들이 유니콘만 아니라면 말이지! +2FUN과 +1SMARTS를 얻는다.",
+  "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_SUC_16/col-3": "그리고 넌 네 위조지폐 사업을 도왔던 유니콘들을 전부 팔아넘기는 게 친구를 사귀기에 아주 좋은 방법이라는 걸 배웠다. 친구들이 유니콘만 아니라면 말이지! 재미 +2와 지능 +1을 얻는다.",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_FAIL_1/col-3": "봤지, 얘들아? 이런 발상의 전환이야말로 유니콘의 하루를 완전히 망치는 비결이지! 숲으로 출발!",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_FAIL_2/col-3": "넌 버진 애틀랜틱 항공권을 산더미처럼 인쇄해 숲속 공터 한가운데 쌓아 두고, 다른 일행과 근처 덤불에 몸을 숨긴다.",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_FAIL_3/col-3": "뭔가 이상한데. 유니콘이 왜 버진 항공사에 끌린다는 거야? 비행기가 발명되기 훨씬 전부터 유니콘이 있었잖아?",
@@ -55,7 +55,7 @@
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_FAIL_14/col-3": "공터로 고개를 돌리자 유니콘이 아닌 다른 숲속 동물들이 항공권을 앞다퉈 낚아채고 있다.",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_FAIL_15/col-3": "동물들은 항공권을 쓰려고 공항으로 몰려가지만, 산짐승이거나 코카인을 밀수하려 했다는 이유로 교통안전청에 곧바로 붙잡힌다.",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_FAIL_16/col-3": "안 돼! 이렇게 무더기로 잡혀가면 숲 생태계가 더 엉망이 되잖아! 어떻게 이럴 수가 있어, %CURRENTPLAYERNAME%?!",
-  "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_FAIL_17/col-3": "답은 간단하다. 네가 멍청해서다. -2SMARTS와 -1CHARM을 잃는다.",
+  "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_1_FAIL_17/col-3": "답은 간단하다. 네가 멍청해서다. 지능 -2와 매력 -1을 잃는다.",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_SUC_1/col-3": "맘에 들어! 악마의 계약을 협상할 때도 이런 교묘한 언어유희가 아주 유용하지!",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_SUC_2/col-3": "좋아! 내가 사업계획서를 써 볼게!",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_SUC_3/col-3": "...모두가 잠시 말을 잃는다.",
@@ -82,7 +82,7 @@
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_SUC_24/col-3": "...언젠가는 'OK, 주머(Zoomer)'라는 말까지 하게 될 만큼 새로운 세대를 겨냥하겠다고 장담한다.",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_SUC_25/col-3": "그 덕분에 기업가치가 십억 달러를 훌쩍 넘어서는 건 식은 죽 먹기다!",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_SUC_26/col-3": "그런데 첫 이사회에서 투자자들에게 연설하려는 순간, 그들 모두가... 회의실도, 프로그래머들도, 사옥 전체도...",
-  "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_SUC_27/col-3": "...한 마리의 장엄한 유니콘으로 변한다. 데미안은 곧바로 그물로 잡아 버린다. 네 천재적인 전략이 +2CHARM과 +1BOLDNESS까지 '낚아' 준 셈이다.",
+  "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_SUC_27/col-3": "...한 마리의 장엄한 유니콘으로 변한다. 데미안은 곧바로 그물로 잡아 버린다. 네 천재적인 전략이 매력 +2와 대담함 +1까지 '낚아' 준 셈이다.",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_FAIL_1/col-3": "좋아! 내가 사업계획서를 써 볼게!",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_FAIL_2/col-3": "...모두가 잠시 말을 잃는다.",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_FAIL_3/col-3": "왜? 나도 사업 감각이 있다고! 안 그러면 그렇게 멋진 칼을 잔뜩 살 돈이 어디서 났겠어?",
@@ -104,5 +104,5 @@
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_FAIL_19/col-3": "그러자 투자자들이 동시에 가면을 벗는다. 그들의 진짜 정체는 다름 아닌...",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_FAIL_20/col-3": "...유니콘이었다.",
   "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_FAIL_21/col-3": "녀석들은 아름다운 무지갯빛 갈기를 흩날리며 네 돈과 자존심을 모조리 빼앗아 간다. 나중에 알고 보니 녀석들은 네 스타트업을 다른 가난한 유니콘들을 죽이는 서비스로 바꿔 놓았다.",
-  "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_FAIL_22/col-3": "자본주의는 정말 개같다. -2BOLDNESS와 -1FUN을 잃는다."
+  "english_camp_events_maingame/animaltrapunicorn/animaltrapunicorn_OUT_2_FAIL_22/col-3": "자본주의는 정말 개같다. 대담함 -2와 재미 -1을 잃는다."
 }

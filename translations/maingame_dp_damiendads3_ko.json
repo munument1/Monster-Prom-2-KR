@@ -16,7 +16,7 @@
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_PRE_15/col-3": "여기서 보기엔 뇌에 뭔가 문제가 생긴 것 같군!",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_PRE_16/col-3": "쿨 조시, 네가 여기 있어 정말 다행이구나! 데미안이 네가 얼마나 훌륭한 신경외과 의사인지 문자로 자주 알려 주거든!",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_PRE_17/col-3": "맞아요, 제가 자주 하는 말이죠! 네 실력이 얼마나 자랑스러운지 말이에요! 신경외과 의사로서의 실력! 넌 신경외과 의사잖아, 쿨 조시!",
-  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_PRE_18/col-3": "아, 씨발. 쿨 조시는 신경외과 의사일지 몰라도 %CURRENTPLAYERNAME%는 절대 아니거든. 빨리 머리를 굴려야 해.",
+  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_PRE_18/col-3": "아, 씨발. 쿨 조시는 신경외과 의사일지 몰라도 %CURRENTPLAYERNAME%은 절대 아니거든. 빨리 머리를 굴려야 해.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_CHO_1/col-3": "좋은 신경외과 의사는 생명을 구하지만, 훌륭한 신경외과 의사는 일과 사생활을 구분할 줄 알지. 그냥 거절하자.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_CHO_2/col-3": "좋은 뇌수술은 재즈와 같아. 메스를 들고 즉흥 연주하듯 해 보는 거지, 친구!",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_SUC_1/col-3": "...와, 대단하구나.",
@@ -32,7 +32,7 @@
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_SUC_11/col-3": "넌 오페라를 보며 멋진 저녁을 보냈어. 이제는 죽었을지도 모르는 카코데몬의 앞선 비명에 비하면 모두의 노랫소리가 훨씬 더 아름답게 들렸지.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_SUC_12/col-3": "공연이 끝나자 지옥의 왕들이 널 출연진 전원에게 소개해 줬고, 무대에 서 볼 기회까지 줬어.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_SUC_13/col-3": "데미안이 네 손을 잡았어... 가짜로 사귄다는 연기를 계속하려고 그랬을 수도 있지만...",
-  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_SUC_14/col-3": "아니면 정말 잡고 싶어서 그랬을지도 몰라. 넌 후자이길 바라며 대담함 +2BOLDNESS와 매력 +1CHARM을 얻었어.",
+  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_SUC_14/col-3": "아니면 정말 잡고 싶어서 그랬을지도 몰라. 넌 후자이길 바라며 대담함 +2와 매력 +1을 얻었어.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_FAIL_1/col-3": "데미안을 우선시하는 건 기특하구나. 하지만 저 카코데몬은 우리 보병대의 귀중한 일원이니 살려야만 해. 지금 당장 당직 중인 신경외과 의사 친구들에게 연락하렴!",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_FAIL_2/col-3": "그래, 그렇지! 학회나 직장에서 사귄 그 수많은 신경외과 의사 친구들 말이야! 넌 유명하고 상도 많이 받은 신경외과 의사니까 당연히 많이 알잖니, 쿨 조시!",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_FAIL_3/col-3": "젠장. 머릿속 인맥 목록을 뒤져 보지만 뇌수술을 할 수 있는 친구는 하나도 없어. 다만 즉석에서 말도 안 되는 헛소리를 지어내는 데 능한 두 사람은 알고 있지...",
@@ -55,7 +55,7 @@
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_FAIL_20/col-3": "전 그런 게 아니...!",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_FAIL_21/col-3": "아들아, 우리한테 거짓말할 필요는 없단다...",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_FAIL_22/col-3": "안 했어요! 아니, 했어요! 쿨 조시랑 사귄다는 게 거짓말이었어요! 얘는 %CURRENTPLAYERNAMECAPS%고, 난 %HIMHER%랑 절대 사귀지 않을 거예요!",
-  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_FAIL_23/col-3": "잘 풀리는 듯했지만... 결국 망했네. 데미안과 아빠들이 솔직함에 관해 이야기를 나누고 있어... 너를 개패서 지상으로 쫓아낸 다음 말이지. 대담함 -2BOLDNESS와 재미 -1FUN을 잃었어.",
+  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_1_FAIL_23/col-3": "잘 풀리는 듯했지만... 결국 망했네. 데미안과 아빠들이 솔직함에 관해 이야기를 나누고 있어... 너를 개패서 지상으로 쫓아낸 다음 말이지. 대담함 -2와 재미 -1을 잃었어.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_SUC_1/col-3": "넌 최고의 의료 전문가다운 표정을 지으며 의자 위로 올라섰어. 그리고 콘트라베이스 연주자와 스카 밴드 출신이 아닌 트럼펫 연주자를 찾는다고 외쳤지.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_SUC_2/col-3": "그러자 곧바로 대여섯 명이 벌떡 일어나 자신이 그 조건에 딱 맞는다고 주장했어.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_SUC_3/col-3": "하지만 그들의 체커보드 무늬 반스 신발을 보자마자 트럼펫 연주자 몇 명은 거짓말쟁이라는 걸 알아챘어. 분명 스카 밴드 소속이야.",
@@ -76,7 +76,7 @@
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_SUC_18/col-3": "데미안, 짝을 참 잘 골랐구나. 쿨 조시는 저 딱딱한 편도체를 가지고도 잼 세션을 벌일 줄 아는 진짜 재즈쟁이네.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_SUC_19/col-3": "그래! 물론 넌 방금 말이 도대체 무슨 뜻인지는 몰라. 하지만 스탠과 루시엔이 널 좋아한다는 뜻인 건 확실하잖아. 네겐 그게 전부지.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_SUC_20/col-3": "너와 데미안은 사랑에 빠진 연기를 성공적으로 해낸 두 사람처럼 애정 어린 윙크를 주고받았어... 그러다 진짜 사랑에 빠지게 될지도 모르는 두 사람처럼?!",
-  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_SUC_21/col-3": "이 획기적인 줄거리 아이디어 덕분에 매력 +2CHARM과 대담함 +1BOLDNESS를 얻었어.",
+  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_SUC_21/col-3": "이 획기적인 줄거리 아이디어 덕분에 매력 +2와 대담함 +1을 얻었어.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_FAIL_1/col-3": "넌 최고의 의료 전문가다운 표정을 지으며 의자 위로 올라섰어. 그리고 콘트라베이스 연주자와 스카 밴드 출신이 아닌 트럼펫 연주자를 찾는다고 외쳤지.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_FAIL_2/col-3": "그러자 곧바로 대여섯 명이 벌떡 일어나 자신이 그 조건에 딱 맞는다고 주장했어.",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_FAIL_3/col-3": "하지만 그들의 체커보드 무늬 반스 신발을 보자마자 트럼펫 연주자 몇 명은 거짓말쟁이라는 걸 알아챘어. 분명 스카 밴드 소속이야.",
@@ -96,5 +96,5 @@
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_FAIL_17/col-3": "하지만 애초에 애인을 두고 바람을 피우는 것도 나쁜 짓이잖니, 데미안!",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_FAIL_18/col-3": "으아아아아악!!!! 얘는 쿨 조시가 아니라고요!",
   "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_FAIL_19/col-3": "얘는 %CURRENTPLAYERNAMECAPS%예요! 그리고 우린 '%CURRENTPLAYERNAMECAPS% + DAMIEN 4EVER'가 아니에요! 이렇게 수술을 망쳤으니 '%CURRENTPLAYERNAMECAPS% + DAMIEN 4 NEVER'가 맞겠네요!",
-  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_FAIL_20/col-3": "으윽, 아프네. 방금 네가 망친 뇌수술을 받은 카코데몬보다는 덜 아프겠지만, 어쨌든 매력 -2CHARM과 대담함 -1BOLDNESS를 잃었어."
+  "english_camp_events_maingame/dp_damiendads3/dp_damiendads3_OUT_2_FAIL_20/col-3": "으윽, 아프네. 방금 네가 망친 뇌수술을 받은 카코데몬보다는 덜 아프겠지만, 어쨌든 매력 -2와 대담함 -1을 잃었어."
 }

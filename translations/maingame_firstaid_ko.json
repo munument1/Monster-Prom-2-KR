@@ -34,7 +34,7 @@
   "english_camp_events_maingame/firstaid/firstaid_OUT_1_SUC_11/col-3": "그때 문이 열리더니, 네가 크레이그리스트에서 따로 고용한 수상쩍은 외과 의사들이 들어와.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_1_SUC_12/col-3": "의사들은 곧바로 데미안의 상처를 모조리 꿰매고, 다른 남자를 인정사정없이 찔러 대. 그 남자는 너무 행복한 나머지 피를 흘리다 죽어 버려!",
   "english_camp_events_maingame/firstaid/firstaid_OUT_1_SUC_13/col-3": "의사들은 경찰이 오기 전에 남자의 장기를 재빨리 전부 챙겨 달아나. 마음이 좀 찜찜하지만, 그래도 그 장기들은 필요한 사람들에게 돌아가겠지...",
-  "english_camp_events_maingame/firstaid/firstaid_OUT_1_SUC_14/col-3": "데미안의 상처들이 그랬던 것처럼. +2SMARTS와 +1BOLDNESS를 얻었어.",
+  "english_camp_events_maingame/firstaid/firstaid_OUT_1_SUC_14/col-3": "데미안의 상처들이 그랬던 것처럼. 지능 +2와 대담함 +1을 얻었어.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_1_FAIL_1/col-3": "평소 같으면 이렇게 대놓고 미친 소리는 개소리라고 했겠지만, 피를 너무 흘려서 그런지 그럴듯하게 들리네. 해 보자고.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_1_FAIL_2/col-3": "그 한마디면 충분해! 넌 woundtransplantfinder.com에 접속해 이식받을 만한 사람들을 찾아봐.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_1_FAIL_3/col-3": "데미안이 네 어깨너머로 화면을 들여다봐. 그의 피가 네 몸에도 확실히 묻고 있어. 너무 섹시해! 데미안은 실망스럽다는 듯 고개를 저어.",
@@ -45,7 +45,7 @@
   "english_camp_events_maingame/firstaid/firstaid_OUT_1_FAIL_8/col-3": "넌 인간관계에서 선을 좀 제대로 그을 줄 알아야겠어. 이런 공의존 관계는 전혀 매력적이지 않다고.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_1_FAIL_9/col-3": "네가 스스로를 찌를 거면 네 마음속 깊은 곳에서 진심으로 원해서, 네 뜻대로 찔러야지. 나 때문에 찌르지 마. 존나 역겨우니까.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_1_FAIL_10/col-3": "그래, 내 입버릇처럼 말이지. \"날 한 번 찌르면 네 잘못. 네 몸을 찌르면... 대체 왜 그러는 건데? 아프잖아.\"",
-  "english_camp_events_maingame/firstaid/firstaid_OUT_1_FAIL_11/col-3": "확실히 아프지. 하지만 네가 스스로를 돌아보며 고쳐야 할 게 많다는 사실을 깨닫는 고통보다는 덜해. 물론 그 전에 이 칼자국부터 전부 꿰매야겠지만. -2BOLDNESS와 -1SMARTS를 잃었어.",
+  "english_camp_events_maingame/firstaid/firstaid_OUT_1_FAIL_11/col-3": "확실히 아프지. 하지만 네가 스스로를 돌아보며 고쳐야 할 게 많다는 사실을 깨닫는 고통보다는 덜해. 물론 그 전에 이 칼자국부터 전부 꿰매야겠지만. 대담함 -2와 지능 -1을 잃었어.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_1/col-3": "그게 상처를 치료하는 똑똑한 방법인지는 모르겠는데... 뭐, 내가 뭘 알겠어? 몸에서 피가 거의 다 빠진 놈일 뿐인데. 코치는 어떻게 생각해?",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_2/col-3": "난 아무 말도 안 할 거야! 소중한 배움의 기회니까!",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_3/col-3": "아, 그래. 좋아. 근데 지금 존나 아프고 다른 방법을 시도해야 할 것 같은데, 안 그래?",
@@ -64,9 +64,9 @@
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_16/col-3": "그럼 이제 안 죽는다는 거야? 으, 이미 가는 길인데 취소하면 진짜 짜증 나. 이러면 앱 평점이 작살 난다고.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_17/col-3": "...실망시켜서 미안하다고 해야 하나?",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_18/col-3": "용서해 줄게. 누구나 실수는 하는 법이니까!",
-  "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_19/col-3": "그래, 나도 %CURRENTPLAYERNAME%가 틀린 줄 알았거든. 하지만 아무것도 안 하는 게 상처 치료에 정말 좋은 방법이었나 봐!",
+  "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_19/col-3": "그래, 나도 %CURRENTPLAYERNAME%이 틀린 줄 알았거든. 하지만 아무것도 안 하는 게 상처 치료에 정말 좋은 방법이었나 봐!",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_20/col-3": "아니야! 이번에 왜 효과가 있었는지 나도 전혀 모르겠어! 제발 다시는 이러지 마!",
-  "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_21/col-3": "뭐 어때. 사랑과 상처 제거에선 무슨 짓이든 용서되는 법이니까. +2BOLDNESS와 +1CHARM을 얻었어.",
+  "english_camp_events_maingame/firstaid/firstaid_OUT_2_SUC_21/col-3": "뭐 어때. 사랑과 상처 제거에선 무슨 짓이든 용서되는 법이니까. 대담함 +2와 매력 +1을 얻었어.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_FAIL_1/col-3": "피를 너무 흘려서 판단력이 나간 건지도 모르겠지만, 존나 끝내주는 생각인데!",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_FAIL_2/col-3": "상처들이란 원래 관심받는 데 환장했잖아. 맨날 \"으아앙, 내 몸에 구멍이 났어! 덮어 줘! 소독해 줘!\" 하면서. 존나 유난 떠는 순결주의자 새끼들, 안 그래?",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_FAIL_3/col-3": "이런. 너희에게 배움의 기회를 주고 싶은 마음과, 상처를 방치하게 둘 수 없다는 마음 사이에서 갈등되는구나!",
@@ -84,5 +84,5 @@
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_FAIL_15/col-3": "데미안, 아예 관심을 못 받는 것보단 나쁜 관심이라도 받는 게 낫거든. 이젠 상처들과 서로 으르렁거리는 관계가 됐으니, 널 엿 먹이려고 무슨 짓이든 할 거야.",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_FAIL_16/col-3": "술까지 마시고 욕도 배우기 시작했어!",
   "english_camp_events_maingame/firstaid/firstaid_OUT_2_FAIL_17/col-3": "안 돼! 씨발! 이러다 내 상처들이 나보다 더 하드코어해지겠잖아! 이럴 순 없어!",
-  "english_camp_events_maingame/firstaid/firstaid_OUT_2_FAIL_18/col-3": "데미안은 상처들을 데리고 가족 상담사를 찾아가려고 허겁지겁 달아나. 코치는 널 앉혀 놓고 '엄하게 사랑하기'는 올바른 의학적 치료법이 아니라며 장황한 강의를 해. -2CHARM과 -1CREATIVITY를 잃었어."
+  "english_camp_events_maingame/firstaid/firstaid_OUT_2_FAIL_18/col-3": "데미안은 상처들을 데리고 가족 상담사를 찾아가려고 허겁지겁 달아나. 코치는 널 앉혀 놓고 '엄하게 사랑하기'는 올바른 의학적 치료법이 아니라며 장황한 강의를 해. 매력 -2와 창의력 -1을 잃었어."
 }

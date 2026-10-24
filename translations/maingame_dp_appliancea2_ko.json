@@ -37,7 +37,7 @@
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_SUC_17/col-3": "\"씨발!\" 암흑 오븐 아라비가 외쳐. 평범한 오븐 아라비가 정말 그대로 해 버렸거든. 효과는 굉장했고, 너희는 들 수 있을 만큼 커피를 챙겨!",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_SUC_18/col-3": "있잖아, 방금 난 내 자신의 중요한 일부를 파괴한 것 같아. 마치 내 어두운 모습에도 내 영혼의 핵심적인 조각이 담겨 있었던 것처럼...",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_SUC_19/col-3": "걱정하지 마, 자기야. 네 영혼이 낡으면 갈아 끼울 수 있는 재생 영혼을 수십 개나 갖고 있으니까. 그리고 이 셀카들 좀 봐!",
-  "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_SUC_20/col-3": "마일로의 셀카는 너희가 내린 '견딜 수 없을 만큼 암울한 다크 로스트' 커피보다도 끝내줘! 두 가지를 함께 즐긴 덕분에 넌 +2FUN과 +1CREATIVITY를 얻어.",
+  "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_SUC_20/col-3": "마일로의 셀카는 너희가 내린 '견딜 수 없을 만큼 암울한 다크 로스트' 커피보다도 끝내줘! 두 가지를 함께 즐긴 덕분에 넌 재미 +2와 창의력 +1을 얻어.",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_FAIL_1/col-3": "야, 좋지! 맛있는 걸 찾으러 차원을 넘나드는 건 내가 제일 좋아해! 베이글이 존재하는 차원이 여기밖에 없다는 건 알고 있었어?",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_FAIL_2/col-3": "나도 여러 존재의 차원을 여행하는 걸 즐기지. 사실 내가 이 차원 출신 마일로가 아니라는 건 알고 있었어?",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_FAIL_3/col-3": "난 브랜드라는 개념조차 없는 끔찍한 차원에서 왔거든. 이곳의 마일로를 파괴하고 그 자리를 빼앗았지!",
@@ -53,7 +53,7 @@
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_FAIL_13/col-3": "잠깐, 잠깐. 다들 진정해. 이 상황을 해결할 계획이 있어.",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_FAIL_14/col-3": "스포일러하고 싶진 않지만, %CURRENTPLAYERNAME%의 몸에 불을 붙여 횃불로 쓰는 계획이야. 사실 그게 계획의 전부지.",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_FAIL_15/col-3": "너만 빼고 모두가 헥스의 멋진 계획을 마음에 들어 해. 캠프로 돌아갈 차원문을 열려 하지만, 아까 부적을 내리꽂아 부러뜨린 상태야. 다수결에 밀린 넌 결국 산 채로 불태워져.",
-  "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_FAIL_16/col-3": "친구들을 도우려 한 죗값이지 뭐. 넌 -2FUN과 -1CHARM을 잃어.",
+  "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_1_FAIL_16/col-3": "친구들을 도우려 한 죗값이지 뭐. 넌 재미 -2와 매력 -1을 잃어.",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_SUC_1/col-3": "좋은 생각이야! 딱 하나 문제가 있다면... '세계 쓴맛 대회' 같은 건 존재하지 않는다는 거지.",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_SUC_2/col-3": "인스타그램도 예전엔 그런 소리를 들었어... 인스타그램의 발명가 베벌리 인스타그램이 나타나기 전까진 말이야!",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_SUC_3/col-3": "그러니까 우리더러... 세계 쓴맛 대회를 직접 열자는 거야?",
@@ -73,7 +73,7 @@
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_SUC_17/col-3": "안녀어엉, 프렌치 로스트. 네 커피 찌꺼기를 채취해서 맛있는 커피 한 잔 내려도 될까?",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_SUC_18/col-3": "\"이제 내 이름은 프렌치 로스트가 아니야.\" 커피 찌꺼기가 분노에 차서 말해. \"베지터다.\"",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_SUC_19/col-3": "완벽해.",
-  "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_SUC_20/col-3": "너희는 베지터의 커피 찌꺼기를 몽땅 가져와. 마일로는 '카페인 의식'을 마흔 시간 동안 치른 끝에 완벽한 에스프레소 세 잔을 내려 줘. 그만한 가치가 있었어. 넌 +2SMARTS와 +1CREATIVITY를 얻어.",
+  "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_SUC_20/col-3": "너희는 베지터의 커피 찌꺼기를 몽땅 가져와. 마일로는 '카페인 의식'을 마흔 시간 동안 치른 끝에 완벽한 에스프레소 세 잔을 내려 줘. 그만한 가치가 있었어. 넌 지능 +2와 창의력 +1을 얻어.",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_FAIL_1/col-3": "좋은 생각이야! 딱 하나 문제가 있다면... '세계 쓴맛 대회' 같은 건 존재하지 않는다는 거지.",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_FAIL_2/col-3": "인스타그램도 예전엔 그런 소리를 들었어... 인스타그램의 발명가 베벌리 인스타그램이 나타나기 전까진 말이야!",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_FAIL_3/col-3": "그러니까 우리더러... 세계 쓴맛 대회를 직접 열자는 거야?",
@@ -95,5 +95,5 @@
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_FAIL_19/col-3": "결국 가장 쓰디쓴 로스트는... 실망이라는 사실을 알아냈구나.",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_FAIL_20/col-3": "하지만 실망은 마실 수 없잖아!",
   "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_FAIL_21/col-3": "그래서 훨씬 더 쓴맛이 나는 거지.",
-  "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_FAIL_22/col-3": "실망을 마시는 건 불가능해 보이지만, 그게 아라비가 네 간을 쥐어짜서 실망을 추출하려는 시도를 막진 못해. 넌 -2FUN과 -1CREATIVITY를 잃어."
+  "english_camp_events_maingame/dp_appliancea2/dp_appliancea2_OUT_2_FAIL_22/col-3": "실망을 마시는 건 불가능해 보이지만, 그게 아라비가 네 간을 쥐어짜서 실망을 추출하려는 시도를 막진 못해. 넌 재미 -2와 창의력 -1을 잃어."
 }

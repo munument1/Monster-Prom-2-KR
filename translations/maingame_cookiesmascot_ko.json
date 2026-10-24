@@ -37,7 +37,7 @@
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_SUC_16/col-3": "'닥쳐라, 필멸자들아! 생각해 보니 페이드랄트는 그 기이한 '마스코트' 임무를 받아들이기로 했다. 모든 필멸자는 몬스터 스카우트 쿠키에 무릎 꿇어라!'",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_SUC_17/col-3": "역대. 최고. 마스코트야.",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_SUC_18/col-3": "페이드랄트는 정식으로 몬스터 스카우트 쿠키의 마스코트가 된다. 원초적이고 사악한 힘으로 젊은이들을 세뇌하자 쿠키 판매량이 무려 12%나 오른다!",
-  "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_SUC_19/col-3": "친구들은 네 마케팅 솜씨에 감탄하고, 페이드랄트는 이제 너를 가장 충성스러운 추종자로 여긴다! 신은 네 헌신에 대한 보상으로 +2 FUN과 +1 BOLDNESS를 내려 준다.",
+  "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_SUC_19/col-3": "친구들은 네 마케팅 솜씨에 감탄하고, 페이드랄트는 이제 너를 가장 충성스러운 추종자로 여긴다! 신은 네 헌신에 대한 보상으로 재미 +2와 대담함 +1을 내려 준다.",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_FAIL_1/col-3": "더 나은 아이디어가 없으니 너희는 모두 숲으로 가서 곰 덫을 설치한다. 쿠키를 미끼로 놓고, 귀엽고 상품성 높은 마스코트가 걸리길 바란다!",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_FAIL_2/col-3": "몇 시간 뒤 돌아와 보니... 동물 한 마리가 덫에 걸려 있다! 색도 화려하고 만화에서 튀어나온 듯한 동물이다! 설마 몬스터 스카우트 쿠키의 운명적인 마스코트일까?!",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_FAIL_3/col-3": "'히이잉!' 녀석이 끔찍하게 쉰 목소리로 말한다. '나야, 헤로인 말 해피 해피! 콜록! 콜록! 얘들아, 썩어 가는 내 발굽 좀 보렴! 콜록!'",
@@ -53,7 +53,7 @@
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_FAIL_13/col-3": "으으! 완전 시간 낭비였어. 가자, 캘. %CURRENTPLAYERNAME%, 이 난장판은 네 아이디어였으니까 헤로인 말은 네가 처리할 거지?",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_FAIL_14/col-3": "친구들은 너를 해피 해피와 단둘이 남겨 둔 채 떠난다. '하! 콜록! 쟤들이 가서 다행이다. 분위기 깨는 놈들이잖아. 어때, 꼬마야? 우리 신나게 좀 놀까?!'",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_FAIL_15/col-3": "'헤로인 성분 감기약 한 병이 아직 남아 있어! 유통기한이 쉰두 해나 지났지. 같이 마시자! 아니, 차라리 정맥에 주사하면 더 좋겠네! 콜록!'",
-  "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_FAIL_16/col-3": "으으으, 됐거든. 너는 해피 해피를 재활 치료 시설로 데려간다. 하루를 통째로 날리는 바람에... 쿠키를 단 한 개도 못 팔았잖아, 바보야! -2 FUN과 -1 BOLDNESS를 잃는다.",
+  "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_1_FAIL_16/col-3": "으으으, 됐거든. 너는 해피 해피를 재활 치료 시설로 데려간다. 하루를 통째로 날리는 바람에... 쿠키를 단 한 개도 못 팔았잖아, 바보야! 재미 -2와 대담함 -1을 잃는다.",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_SUC_1/col-3": "%CURRENTPLAYERNAME% 친구의 말씀에는 깊은 통찰이 담겨 있군요! 전 세계 인구의 절반 이상이 주요 종교를 믿고 있으니, 종교에서 마스코트의 영감을 찾을 수 있을 게 분명해요!",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_SUC_2/col-3": "너는 성경을 집어 들어 마스코트로 쓸 만한 존재를 대충 훑어본다. 곧바로 완벽한 아이디어가 눈에 띈다... '에덴동산의 뱀'이다! 젠장, 어쩌면 신이 정말 존재할지도 몰라!",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_SUC_3/col-3": "뱀은 저희 쿠키의 훌륭한 마스코트 후보예요! 필멸자들이 탐욕스러운 음식에 손대도록 유혹하는 데 능숙하다는 사실이 이미 증명됐으니까요!",
@@ -71,7 +71,7 @@
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_SUC_15/col-3": "너희는 스네이크에게 몬스터 스카우트 쿠키의 마스코트가 되어 달라고 제안한다... 그러자 승낙한다!",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_SUC_16/col-3": "스네이크는 마스코트가 되고... 놀랍게도 최고의 판매원까지 된다! 두 사람을 꼬드겨 낙원에서 쫓겨나게 할 수 있다면 뭐든 팔 수 있는 법이다.",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_SUC_17/col-3": "'자아, 젊은이들아아아.' 스네이크가 십 대들 무리에게 쉭쉭거린다. '이 금단의 쿠키를 사아아아! 신께서 친히 이 세속적 쾌락을 맛보지 말라고 금하셨다고!'",
-  "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_SUC_18/col-3": "십 대라면 누구나 신에게 반항하고 싶어 하니까... 쿠키가 불티나게 팔린다! 너는 쿠키 판매 배지와 친구들의 인정, 그리고 +2 CHARM과 +1 BOLDNESS를 얻는다.",
+  "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_SUC_18/col-3": "십 대라면 누구나 신에게 반항하고 싶어 하니까... 쿠키가 불티나게 팔린다! 너는 쿠키 판매 배지와 친구들의 인정, 그리고 매력 +2와 대담함 +1을 얻는다.",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_FAIL_1/col-3": "%CURRENTPLAYERNAME% 친구의 말씀에는 깊은 통찰이 담겨 있군요! 전 세계 인구의 절반 이상이 주요 종교를 믿고 있으니, 종교에서 마스코트의 영감을 찾을 수 있을 게 분명해요!",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_FAIL_2/col-3": "너는 성경을 집어 들어 마스코트로 쓸 만한 존재를 대충 훑어본다. 곧바로 완벽한 아이디어가 눈에 띈다... 묵시록의 네 기사 중 하나인 '기근'이다!",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_FAIL_3/col-3": "너는 친구들에게 아이디어를 설명한다. '기근'을 마스코트로 삼으면 굶주림이 얼마나 끔찍한지 사람들에게 일깨워 줄 수 있다! 그러면 쿠키가 먹고 싶어질 테니까!",
@@ -88,5 +88,5 @@
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_FAIL_14/col-3": "저런 개자식! 우리 쿠키를 전부 날려 버렸잖아. 기근이 이렇게까지 개같은 놈일 줄 누가 알았겠어?!",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_FAIL_15/col-3": "다시 실패했다고 코치님께 말씀드려야겠군요. 객관적으로 보아 코치님이 저희의 쿠키 판매 능력을 믿으신 건 틀린 판단이었어요. 그 사실이 저를 정말, 정말, 정말 슬프게 만드는군요.",
   "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_FAIL_16/col-3": "으으. 정말 고맙다, %CURRENTPLAYERNAME%. 또 하나의 천재적인 아이디어였네, 그치?",
-  "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_FAIL_17/col-3": "친구들은 널 싫어하고, 쿠키는 하나도 못 팔았고, 어쩐지... 영양실조에 걸린 기분까지 든다. 영양분 부족으로 -2 CHARM과 -1 BOLDNESS를 잃는다."
+  "english_camp_events_maingame/cookiesmascot/cookiesmascot_OUT_2_FAIL_17/col-3": "친구들은 널 싫어하고, 쿠키는 하나도 못 팔았고, 어쩐지... 영양실조에 걸린 기분까지 든다. 영양분 부족으로 매력 -2와 대담함 -1을 잃는다."
 }

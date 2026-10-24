@@ -33,7 +33,7 @@
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_SUC_17/col-3": "그런데 혹시 '더그'라고 불러도 될까요?",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_SUC_18/col-3": "'그건 이마누엘 칸트를 '매니 K'라고 부르는 것과 같지.' 더글러스가 말했어.",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_SUC_19/col-3": "과연 그렇군요! 벌써 도덕적 추론에 대해 많은 걸 배우고 있습니다! 안녕히 계십시오, 더글러스! 매일 찾아오겠습니다!",
-  "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_SUC_20/col-3": "캘은 정말 약속대로 매일 찾아갔고, 더글러스에게 받은 교훈 덕분에 원래도 다정했던 녀석이 더욱 사랑스러워졌어. 너는 그저 매력 +2CHARM과 지능 +1SMARTS를 얻은 걸로 만족했지.",
+  "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_SUC_20/col-3": "캘은 정말 약속대로 매일 찾아갔고, 더글러스에게 받은 교훈 덕분에 원래도 다정했던 녀석이 더욱 사랑스러워졌어. 너는 그저 매력 +2와 지능 +1을 얻은 걸로 만족했지.",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_FAIL_1/col-3": "하지만 이렇게 갑자기 칸트의 위대한 도덕 철학 저서 500권을 어디서 구한다는 말입니까?",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_FAIL_2/col-3": "아, 넌 이미 가지고 있어. 《순수이성비판》의 마지막 장에 이렇게 쓰여 있거든. '참고로 가장 위대한 정언명령은 밖에 나가서 《순수이성비판》을 499권 더 구입하라는 것이다.'",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_FAIL_3/col-3": "%CURRENTPLAYERNAME% 친구, 소비주의로 도덕성을 표현해 주셔서 정말 다행입니다! 무척 현대적이군요! 자, 책들을 묻으러 갑시다.",
@@ -53,7 +53,7 @@
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_FAIL_17/col-3": "세상에. 이제 공식적으로 제가 피에 굶주린 해적 무리보다도 덜 도덕적인 존재가 되었군요! 도덕의 나침반 계획으로 밝혀낸 거라곤 제 자신의 부도덕함뿐입니다!",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_FAIL_18/col-3": "게다가 상황은 더욱 나빠졌습니다. 그 유쾌한 해적단이 제 나침반의 도덕적 북극이 되어 버렸거든요! 이리저리 떠돌아다니니 나침반은 길을 찾는 도구로 전혀 쓸 수 없게 되겠군요.",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_FAIL_19/col-3": "뭐... 여기에도 교훈이 있을지 모릅니다! 이마누엘 칸트라면 이렇게 말했겠지요... 사실 칸트가 뭐라고 했을지는 모르겠습니다. 그 책들을 해적들에게 전부 도둑맞았거든요.",
-  "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_FAIL_20/col-3": "해적들이 또 뭘 훔쳐 갔는지 알아? 네 재미 -2FUN과 대담함 -1BOLDNESS도 말이야.",
+  "english_camp_events_maingame/moralcompass/moralcompass_OUT_1_FAIL_20/col-3": "해적들이 또 뭘 훔쳐 갔는지 알아? 네 재미 -2와 대담함 -1도 말이야.",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_SUC_1/col-3": "아, 그렇지요! 세계 카르마 순위표! 도덕적으로 올바른 정도를 숫자로 검증할 수 있다는 점이 정말 마음에 듭니다!",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_SUC_2/col-3": "올해 기록에 따르면 현재 순위표 1위는 미국 미시간주 디트로이트에 사는 파멜라 블런지라는 분입니다.",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_SUC_3/col-3": "와, 순위표에 집 주소까지 전부 나와 있군요. 이렇게 운 좋게 사생활을 침해할 수 있다니!",
@@ -73,7 +73,7 @@
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_SUC_17/col-3": "'물론이죠!' 팸이 말했어. '팬을 위해서라면 뭐든지요!'",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_SUC_18/col-3": "훌륭합니다! 그럼 이 강력한 자석을 입에 물고 영원히 계셔 주십시오. 안녕히 계세요!",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_SUC_19/col-3": "너희는 팸의 입에 자석을 물려 놓고 떠났어. 그날부터 나침반은 언제나 '옳은' 방향을 가리켰지.",
-  "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_SUC_20/col-3": "...아니면 적어도 꺼야 할 불이 난 방향은 가리켰어. 뭐 어때, 창의력 +2CREATIVITY와 대담함 +1BOLDNESS를 얻었으니까.",
+  "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_SUC_20/col-3": "...아니면 적어도 꺼야 할 불이 난 방향은 가리켰어. 뭐 어때, 창의력 +2와 대담함 +1을 얻었으니까.",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_FAIL_1/col-3": "아, 그렇지요! 세계 카르마 순위표! 도덕적으로 올바른 정도를 숫자로 검증할 수 있다는 점이 정말 마음에 듭니다!",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_FAIL_2/col-3": "올해 기록에 따르면 현재 순위표 1위는 미국 미시간주 앤아버에 사는 데릭 스플로이트라는 분입니다.",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_FAIL_3/col-3": "와, 순위표에 집 주소까지 전부 나와 있군요. 이렇게 운 좋게 사생활을 침해할 수 있다니!",
@@ -87,5 +87,5 @@
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_FAIL_11/col-3": "'아니.' 데릭은 노인들을 괴롭히며 대답했어. '이젠 좋은 카르마가 너무 많아서 내가 무슨 짓을 하든 나쁜 일이 절대로 안 생겨! 존나 최고지!'",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_FAIL_12/col-3": "용납할 수 없습니다! 이 악당! 당신이 그런 짓을 하고도 무사히 넘어가게 둘 수는 없습니다!",
   "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_FAIL_13/col-3": "'어이쿠.' 데릭이 움찔하며 말했어. '카르마 최다 보유자한테 악당이라고 욕했어? 유감이지만 카르마 5000점 감점이야. 10k점으로 올리기 전에 썩 꺼져.'",
-  "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_FAIL_14/col-3": "캘큘레스터는 로봇이어서 카르마를 얻지도 잃지도 못해. 하지만 넌 얼마든지 가능하지. 실내에 있는데도 자동차에 치이고 새한테 똥까지 맞았어. 매력 -2CHARM과 재미 -1FUN을 잃었지."
+  "english_camp_events_maingame/moralcompass/moralcompass_OUT_2_FAIL_14/col-3": "캘큘레스터는 로봇이어서 카르마를 얻지도 잃지도 못해. 하지만 넌 얼마든지 가능하지. 실내에 있는데도 자동차에 치이고 새한테 똥까지 맞았어. 매력 -2와 재미 -1을 잃었지."
 }

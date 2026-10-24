@@ -40,7 +40,7 @@
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_SUC_20/col-3": "젠장, 맞는 말이다! 내가 여기서 뭘 하고 있지? 사랑하는 할머니와 시간을 보내야 하는데! 나는 정말 못난 뱀파이어 손자야!",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_SUC_21/col-3": "드미트리는 감정이 북받쳐 피어난 연기 한 줌 속으로 사라진다. 조이와 너만 남는다.",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_SUC_22/col-3": "난... 방금 무슨 일이 벌어진 건지 전혀 모르겠어. 그래도... 고맙다고 해야 하나?",
-  "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_SUC_23/col-3": "반 친구 한 명과 뒹굴기 위해 마주친 사소한 문제 하나를 해결하겠다고 평생을 바쳐 잡학 지식을 쌓았어... 충분히 값어치 있었지! +2SMARTS와 +1CHARM을 얻었어.",
+  "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_SUC_23/col-3": "반 친구 한 명과 뒹굴기 위해 마주친 사소한 문제 하나를 해결하겠다고 평생을 바쳐 잡학 지식을 쌓았어... 충분히 값어치 있었지! 지능 +2와 매력 +1을 얻었어.",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_FAIL_1/col-3": "너는 곰 탈을 쓴 호랑이 수인과 곰 탈을 쓴 곰 중 누가 더 위험한지 차분히 코치에게 묻는다.",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_FAIL_2/col-3": "세상에! 곰도 곰 탈을 쓸 수 있다니, 그리고 그랬을 때 얼마나 위험해질지 생각조차 못 했구나!",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_FAIL_3/col-3": "아무래도 여러 생물의 상대적인 위험도를 충분히 고민하지 않았던 모양이야...",
@@ -58,7 +58,7 @@
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_FAIL_15/col-3": "다들 여기서 나가! 너도야, 드미트리. 분위기 다 깨졌어. 지금은 하나도 고뇌스럽거나 감정적으로 약해진 기분이 아니라고!",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_FAIL_16/col-3": "하지만 조이, 이제야 내가 깨달은 건...",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_FAIL_17/col-3": "닥쳐! 인센디움 엉덩이구멍!",
-  "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_FAIL_18/col-3": "으악! 조이에게는 모두의 똥구멍에 불을 붙이는 전용 마법까지 있었단 말이야?! 게다가 어떤 동물이 위험한지 코치와 합의조차 못 했어! -2FUN과 -1SMARTS를 잃었어.",
+  "english_camp_events_maingame/bearattackj/bearattackj_OUT_1_FAIL_18/col-3": "으악! 조이에게는 모두의 똥구멍에 불을 붙이는 전용 마법까지 있었단 말이야?! 게다가 어떤 동물이 위험한지 코치와 합의조차 못 했어! 재미 -2와 지능 -1을 잃었어.",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_SUC_1/col-3": "드미트리가 곰이라고? 설마, 그럴 리가.",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_SUC_2/col-3": "아니, 완전히 곰 맞아요. 코치가 곰 탈을 입은 호랑이 수인일 수 있다면, 드미트리라고 섹시한 뱀파이어 탈을 쓴 곰이 아니란 법은 없잖아요?",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_SUC_3/col-3": "... 너희 둘 덕분에 눈을 떴구나. 곰들이 내 생각보다 훨씬 더 교활해졌어!",
@@ -81,7 +81,7 @@
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_SUC_20/col-3": "음, 내가 틀렸던 모양이구나. 너희 둘은 곰의 습격에 제대로 대처할 준비가 돼 있었어! 방금 그 곰도 아주 잘 처리했잖니!",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_SUC_21/col-3": "하던 일로 돌아가렴... 그게 뭐였든 간에. 기억해! 곰이 선물이라고 입안을 들여다보진 마라. 아니, 애초에 어떤 곰이든 입안을 들여다보지 마!",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_SUC_22/col-3": "솔직히 내가 고를 전술은 아니었지만... 네 파격적인 방식이라면 앞으로 내 모험에도 함께할 만하겠어. 어쩌면... 특별 출연자로.",
-  "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_SUC_23/col-3": "특별 출연 자리라고? 엄청 섹시한 연애 상대에게만 허락되는 자리잖아! 게다가 영어로는 'guest-star spot'을 줄여 'G-스팟'이라고 할 수도 있고! 완전 꿀인데! +2CHARM과 +1BOLDNESS를 얻었어.",
+  "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_SUC_23/col-3": "특별 출연 자리라고? 엄청 섹시한 연애 상대에게만 허락되는 자리잖아! 게다가 영어로는 'guest-star spot'을 줄여 'G-스팟'이라고 할 수도 있고! 완전 꿀인데! 매력 +2와 대담함 +1을 얻었어.",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_FAIL_1/col-3": "그래, 나도 알아! 저 녀석은 틀림없이 곰이 변장한 거야. 그래서 계속 경고하려 했잖니!",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_FAIL_2/col-3": "뭐라고? 난 절대로 곰이 아니야. 굳이 따지자면 난 트윙크라고!",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_FAIL_3/col-3": "트윙크라기엔 나이가 한참 많잖아. 잘 쳐줘야 트웡크지.",
@@ -100,5 +100,5 @@
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_FAIL_16/col-3": "오, 여신님. 그때 그 녀석이 곰이었다면... 아니야. 아니야, 말도 안 돼. 하지만 만약...",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_FAIL_17/col-3": "코치, 곰과 곰 안전에 대해 아시는 걸 전부 가르쳐 주세요. 당장요.",
   "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_FAIL_18/col-3": "기꺼이! 결국 네가 알아줄 줄 알았다! 어서 와, 보여 줄 안내 책자가 산더미처럼 있단다!",
-  "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_FAIL_19/col-3": "조이는 코치에게 곰에 관해 배울 수 있는 건 전부 배우겠다며 달려간다... 덕분에 실제 곰은 네가 혼자 상대해야 한다. 그런데 어떻게 상대해야 할지 전혀 모르겠어. 코치의 수업을 진지하게 들을걸! -2BOLDNESS와 -1FUN을 잃었어."
+  "english_camp_events_maingame/bearattackj/bearattackj_OUT_2_FAIL_19/col-3": "조이는 코치에게 곰에 관해 배울 수 있는 건 전부 배우겠다며 달려간다... 덕분에 실제 곰은 네가 혼자 상대해야 한다. 그런데 어떻게 상대해야 할지 전혀 모르겠어. 코치의 수업을 진지하게 들을걸! 대담함 -2와 재미 -1을 잃었어."
 }

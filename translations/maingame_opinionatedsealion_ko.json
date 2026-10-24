@@ -33,7 +33,7 @@
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_SUC_15/col-3": "바다사자는 고통에 찬 비명을 지르더니, 일상적으로 인종차별 발언을 해대는 물고기 떼로 폭발해 버린다.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_SUC_16/col-3": "좋은 작전이었어, %CURRENTPLAYERNAME%. 젠장, 속이 다 시원하네.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_SUC_17/col-3": "근데... 저 물고기들은 어떻게든 해야 하지 않을까?",
-  "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_SUC_18/col-3": "너는 물고기들에겐 마주 보는 엄지손가락이 없으니 트위터를 못 쓸 테고, 따라서 괜찮을 거라고 말해 준다. 너희는 다시 책을 펼치고, +2SMARTS와 +1CREATIVITY를 얻는다!",
+  "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_SUC_18/col-3": "너는 물고기들에겐 마주 보는 엄지손가락이 없으니 트위터를 못 쓸 테고, 따라서 괜찮을 거라고 말해 준다. 너희는 다시 책을 펼치고, 지능 +2와 창의력 +1을 얻는다!",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_FAIL_1/col-3": "네 생각을 밝히고 바다사자가 너의 무식함에 발끈하기를 기다린다... 하지만 아무리 기다려도 화내지 않는다. 오히려 훌륭한 취향이라며 칭찬한다.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_FAIL_2/col-3": "'마침내!' 바다사자가 말한다. '독립 영화감독 시절 제 초기작을 알아주는 분을 만났군요!'",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_FAIL_3/col-3": "잠깐... 뭐라고?",
@@ -48,7 +48,7 @@
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_FAIL_12/col-3": "너는 반사적으로 두 손바닥 사이에 모기를 끼워 잡아 죽인다... 그리고 아주 큰 박수 소리까지 내고 만다.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_FAIL_13/col-3": "잠깐, %CURRENTPLAYERNAME%... 너 지금 이 개소리에 박수 치는 거야?",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_FAIL_14/col-3": "하마터면 영화로 인종차별이나 하는 놈이랑 하루 종일 독서 데이트를 할 뻔했다니 믿을 수가 없네!",
-  "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_FAIL_15/col-3": "조이는 덜 오글거리는 곳에서 책을 읽겠다며 씩씩거리며 떠난다. 너만 이 망할 바다사자와 남겨지고, 녀석은 감독 해설까지 곁들인 확장판을 틀어 준다. 그 바람에 -2FUN과 -1CHARM을 잃는다.",
+  "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_1_FAIL_15/col-3": "조이는 덜 오글거리는 곳에서 책을 읽겠다며 씩씩거리며 떠난다. 너만 이 망할 바다사자와 남겨지고, 녀석은 감독 해설까지 곁들인 확장판을 틀어 준다. 그 바람에 재미 -2와 매력 -1을 잃는다.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_SUC_1/col-3": "너는 조이에게 작전을 귀띔한다. 조이는 미심쩍은 표정이다.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_SUC_2/col-3": "진심이야? 그게 전부라고? 그걸로 될 거라고 확신해?",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_SUC_3/col-3": "'어디 한번 해 보시죠.' 바다사자가 말한다. '저 정도는 얼마든지 받아낼 수 있으니까요!'",
@@ -67,7 +67,7 @@
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_SUC_16/col-3": "그 마지막 한 방은 이 망할 바다사자에겐 너무나도 치명적이었다. 녀석은 지극히 모욕당했다는 소리와 함께 일상적으로 인종차별 발언을 해대는 물고기 여러 마리로 폭발한다. 물고기들은 헤엄쳐 달아난다.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_SUC_17/col-3": "좋은 작전이었어, %CURRENTPLAYERNAME%. 젠장, 속이 다 시원하네.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_SUC_18/col-3": "근데... 저 물고기들은 어떻게든 해야 하지 않을까?",
-  "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_SUC_19/col-3": "너는 물고기들에겐 마주 보는 엄지손가락이 없으니 트위터를 못 쓸 테고, 따라서 괜찮을 거라고 말해 준다. 너희는 다시 책을 펼치고, +2SMARTS와 +1CREATIVITY를 얻는다!",
+  "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_SUC_19/col-3": "너는 물고기들에겐 마주 보는 엄지손가락이 없으니 트위터를 못 쓸 테고, 따라서 괜찮을 거라고 말해 준다. 너희는 다시 책을 펼치고, 지능 +2와 창의력 +1을 얻는다!",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_FAIL_1/col-3": "'제가 바라는 건 단 하나,' 바다사자가 잘난 체하며 말한다. '서로 예의를 지키면서 의견을 주고받는 것뿐입니다.'",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_FAIL_2/col-3": "'그 여자도 그렇게 말했지!' 네가 신나서 외친다.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_FAIL_3/col-3": "'...뭐라고요?' 바다사자가 묻는다.",
@@ -84,5 +84,5 @@
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_FAIL_14/col-3": "너는 애원하듯 조이에게 손을 뻗는다. '...그 여자도 그렇게 말했지.' 네가 절망에 빠져 속삭인다.",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_FAIL_15/col-3": "됐어. 나 드미트리랑 한판 싸우고, 어쩌면 격렬하게 키스도 하고 올래. 적어도 걘 날 진지하게 대해 주거든!",
   "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_FAIL_16/col-3": "'하!' 바다사자가 말한다. '여자들이란, 안 그렇습니까?'",
-  "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_FAIL_17/col-3": "'그 여자도 그렇게 말했지.' 너는 슬프게 중얼거리며 조이가 떠나는 모습을 바라본다. 캠프 의무실에서 이 증상을 치료할 수 있었지만, 그 대가로 -2CHARM과 -1FUN을 잃는다."
+  "english_camp_events_maingame/opinionatedsealion/opinionatedsealion_OUT_2_FAIL_17/col-3": "'그 여자도 그렇게 말했지.' 너는 슬프게 중얼거리며 조이가 떠나는 모습을 바라본다. 캠프 의무실에서 이 증상을 치료할 수 있었지만, 그 대가로 매력 -2와 재미 -1을 잃는다."
 }

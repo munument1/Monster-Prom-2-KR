@@ -34,7 +34,7 @@
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_SUC_13/col-3": "아냐, 아냐, 아니야. 그건 섹시한 암소 의상 안에 들어 있는 마일로와 %CURRENTPLAYERNAME%의 휴대폰이야. 널 속여서 충전 좀 시키려고 했던 거지...",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_SUC_14/col-3": "\"...내 넘치는 대물 에너지로 말이지?\" 제우스가 씨익 웃는다. \"그럼 진작 말을 하지 그랬어? 휴대폰이랑 떡 치는 거야 얼마든지 해 주지!\"",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_SUC_15/col-3": "신들의 왕은 너희 둘의 휴대폰을 아주 거칠게 따먹기 시작한다. 아무래도 이런 일을 꽤 자주 하는 모양이다.",
-  "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_SUC_16/col-3": "모든 일이 끝나고 제우스가 적당한 핑계를 대며 사라진 뒤, 너희에게는 완전히 충전된 휴대폰 두 대와 이어폰 단자의 새로운 용도에 대한 깊은 깨달음이 남는다! +2FUN과 +1SMARTS를 얻는다.",
+  "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_SUC_16/col-3": "모든 일이 끝나고 제우스가 적당한 핑계를 대며 사라진 뒤, 너희에게는 완전히 충전된 휴대폰 두 대와 이어폰 단자의 새로운 용도에 대한 깊은 깨달음이 남는다! 재미 +2와 지능 +1을 얻는다.",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_FAIL_1/col-3": "그 계획에는 별문제 없어 보이는데. 다만... 섹시한 암소 의상은 어디서 구하지?",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_FAIL_2/col-3": "아, 그건 걱정 마. '밀키 쿠튀르'라는 스타트업에서 내 채널에 소개해 달라며 하나 보내 줬거든. 내 브랜드 이미지에 아주 잘 맞는 건 아니지만 지금은 딱이네.",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_FAIL_3/col-3": "마일로의 섹시한 암소 의상은 휴대폰들에 완벽하게 들어맞는다. 스판덱스를 창의적으로 활용한 덕도 있지만, 패션 업계의 사이즈 기준이 범죄 수준인 덕도 있다.",
@@ -51,7 +51,7 @@
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_FAIL_14/col-3": "너희는 황당해서 말릴 생각조차 못 한다. 두 휴대폰이 휴대폰다운 욕정을 실컷 채우고 나자, 야생 휴대폰은 네 휴대폰과 눈이 맞아 모로코로 사랑의 도피를 떠난다. 넌 휴대폰을 잃었다.",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_FAIL_15/col-3": "어쩜 이렇게 애틋한 사랑일까! 어쩜 이렇게 황당한 상황일까! 그런데 난 하나도 기록하지 못했어! 아, 인생은 어쩜 이토록 달콤하게 잔인할 수 있을까.",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_FAIL_16/col-3": "와, 이건 완전 대박 콘텐츠였는데. 당장 내 타임라인에 올려야... 아, 맞다, 내 폰 아직도 방전됐잖아!",
-  "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_FAIL_17/col-3": "결국 네가 이룬 일이라곤 더 젊고 섹시한 휴대폰에게 네 휴대폰을 빼앗긴 것뿐이다. 모로코에서 날아오는 엽서도 전혀 위로가 되지 않는다. -2FUN과 -1CHARM을 잃는다.",
+  "english_camp_events_maingame/phonecharger/phonecharger_OUT_1_FAIL_17/col-3": "결국 네가 이룬 일이라곤 더 젊고 섹시한 휴대폰에게 네 휴대폰을 빼앗긴 것뿐이다. 모로코에서 날아오는 엽서도 전혀 위로가 되지 않는다. 재미 -2와 매력 -1을 잃는다.",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_SUC_1/col-3": "넌 생명력을 잃은 휴대폰들 앞에 서서 깊이 숨을 들이마시고, 생애 최고의 연설을 준비한다...",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_SUC_2/col-3": "내가 할게. 지금까지 수백만 명의 젊은이들에게 영감을 줬잖아. 계획적 진부화 덕분에 이 휴대폰들은 그 사람들보다 훨씬 어리니까 효과가 더 좋겠지!",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_SUC_3/col-3": "자, 어디 보자... 무엇부터 시작할까... 그래...",
@@ -68,7 +68,7 @@
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_SUC_14/col-3": "\"참으로 훌륭합니다, 고귀한 영웅이여.\" 휴대폰이 노래하듯 높은 목소리로 말한다. \"예언대로 진정한 사랑의 입맞춤이 잠든 저를 깨웠군요.\"",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_SUC_15/col-3": "사랑해, 내 휴대폰. 내 목숨보다도 널 사랑해. 뭐, 내 직업은 말 그대로 사람을 죽이는 거니까 어려운 일도 아니지만. 그래도 난 널 정말로, 무조건적으로...",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_SUC_16/col-3": "으아아, 너무 가려워! 얼른 사진 찍고 캠프로 돌아가자고!",
-  "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_SUC_17/col-3": "아, 맞다! 달리아는 이 모든 시간 동안 독옻나무를 붙들고 있었잖아. 넌 죽어라 사진을 찍고, 달리아는 배지를 따고, 마일로는 인스타에서 좋아요를 백만 개쯤 받는다. 그리고 넌 +2CREATIVITY와 +1BOLDNESS를 얻는다!",
+  "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_SUC_17/col-3": "아, 맞다! 달리아는 이 모든 시간 동안 독옻나무를 붙들고 있었잖아. 넌 죽어라 사진을 찍고, 달리아는 배지를 따고, 마일로는 인스타에서 좋아요를 백만 개쯤 받는다. 그리고 넌 창의력 +2와 대담함 +1을 얻는다!",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_FAIL_1/col-3": "넌 생명력을 잃은 휴대폰들 앞에 서서 가슴을 쫙 펴고 생애 최고의 연설을 시작한다.",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_FAIL_2/col-3": "너는 스스로를 믿고 절대 포기하지 말라고, 내면 깊숙이 잠든 힘을 찾아내라고 휴대폰들에게 호소한다.",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_FAIL_3/col-3": "%CURRENTPLAYERNAME% 말이 맞아! 휴대폰은 원하는 무엇이든 될 수 있어! 계산기, 손전등, 신용카드까지! 그런데 최고급 신용카드의 특징이 뭔지 알아? 한도가 없다는 거지!",
@@ -86,5 +86,5 @@
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_FAIL_15/col-3": "하지만 이미 늦었다. 두 휴대폰은 꿈꾸던 직업을 찾아 석양 속으로 신나게 떠나 버렸다.",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_FAIL_16/col-3": "정말 아름다운 석양인데... 기록할 방법이 전혀 없네. 세상 누구도 이런 최악의 고통을 겪어 본 적 없을 거야.",
   "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_FAIL_17/col-3": "아냐, 분명히 이 가려움이 더 끔찍해!",
-  "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_FAIL_18/col-3": "둘 다 틀렸다. 가장 끔찍한 고통은 친구들을 실망시켰다는 사실을 아는 데서 오는 고통이다. -2CHARM과 -1FUN을 잃는다."
+  "english_camp_events_maingame/phonecharger/phonecharger_OUT_2_FAIL_18/col-3": "둘 다 틀렸다. 가장 끔찍한 고통은 친구들을 실망시켰다는 사실을 아는 데서 오는 고통이다. 매력 -2와 재미 -1을 잃는다."
 }

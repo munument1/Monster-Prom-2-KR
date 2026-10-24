@@ -31,7 +31,7 @@
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_SUC_10/col-3": "세상에, 이거 대박이야! %CURRENTPLAYERNAME%, 내 물건을 전부 되찾아 줬잖아! 봐, 내가 처음 썼던 마법책이야! 여행 에피소드 때 페이스 차에 두고 내린 립밤도 있고!",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_SUC_11/col-3": "그리고... 세상에, 여신님! 내 플리트우드 맥 티셔츠! 여기 있잖아!! 좋았어! 스티비의 강력한 마녀 축복이 온몸으로 전해져.",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_SUC_12/col-3": "정말 고마워, %CURRENTPLAYERNAME%. 집착 심한 지네 인간 전 애인 때문에 난리였는데도 침착하게 도와줬잖아. 너 꽤 멋진데?",
-  "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_SUC_13/col-3": "시장님이 '암시장 변태 소탕 작전'에서 세운 공적을 기려 +3 SMARTS를 수여한다. 게다가 조이를 정말 행복하게 해 줬잖아. 야호!",
+  "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_SUC_13/col-3": "시장님이 '암시장 변태 소탕 작전'에서 세운 공적을 기려 지능 +3을 수여한다. 게다가 조이를 정말 행복하게 해 줬잖아. 야호!",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_FAIL_1/col-3": "넌 조이의 꿈을 이뤄 줄 거야... 공급과 수요라는 어둠의 힘으로! 조이 관련 물품을 거래하는 불법 암시장을 곧바로 열기 시작한다.",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_FAIL_2/col-3": "몇 시간 뒤, 암시장이 성업 중이다. 판매 상품은 말 그대로 전부 조이가 한때 소유했거나 손을 댄 물건이다. 존나 소름 끼친다!",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_FAIL_3/col-3": "끔찍하게도 인기마저 높다. 마녀 집회에는 열성 팬이 꽤 많고, 중고 마녀 용품을 원하는 마법 생물도 잔뜩 있었던 것이다.",
@@ -46,7 +46,7 @@
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_FAIL_12/col-3": "모두 꼼짝 마, 변태들아! 이건 진짜 개수작이잖아. 경찰과 함께 시장을 싹 털러 왔어. 잠입 수사 수고했어, 드와이어 요원!",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_FAIL_13/col-3": "\"임무 완료!\" 조이의 잠입 요원이 말한다. \"시키신 대로 티셔츠를 되찾았습니다! %CURRENTPLAYERNAME%에게 당신이 쓴 휴지 한 장만 주면 되더군요!\"",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_FAIL_14/col-3": "으아아악! %CURRENTPLAYERNAME%, 이런 건 절대 안 돼. 저 변태들한텐 이럴 줄 알았지만... 너도 그럴 줄 알았어야 했나 봐. 으.",
-  "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_FAIL_15/col-3": "넌 설명하려 하지만 이미 늦었다. 넌 변태처럼 보인다. 솔직히 말해... 진짜로 좀 변태이기도 하고. 변태력이 뿜어져 나오는 바람에 -3 SMARTS를 잃는다.",
+  "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_1_FAIL_15/col-3": "넌 설명하려 하지만 이미 늦었다. 넌 변태처럼 보인다. 솔직히 말해... 진짜로 좀 변태이기도 하고. 변태력이 뿜어져 나오는 바람에 지능 -3을 잃는다.",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_SUC_1/col-3": "앰버 경보라고? 공공 응급 서비스를 낭비하는 것 같지만... 악사락스가 주둥이로 커피를 빨아 마시는 걸 보는 것보단 낫겠지. 가자.",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_SUC_2/col-3": "너와 조이는 경찰서로 가서 티셔츠 실종 신고서를 접수한다! 티셔츠의 특징은 이렇다. 소중한 빈티지, 헤비메탈 공연장과 태우는 세이지 허브 냄새가 남.",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_SUC_3/col-3": "경찰들이 심각한 표정을 짓는다. \"플리트우드 맥 티셔츠라고 하셨습니까? 게다가 빈티지라고요?! 중대한 사건입니다! 최정예 형사를 배정하겠습니다!\"",
@@ -61,7 +61,7 @@
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_SUC_12/col-3": "으! 내가 마법 차원문을 열 줄 아는 건 알지? 네 인간 감옥 따위로 날 가둘 순 없어, 맥부티!",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_SUC_13/col-3": "\"그 얘긴 판사한테 하게, 벌레 친구.\"",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_SUC_14/col-3": "하! 티셔츠도 되찾고 전 애인이 수갑을 찬 채 끌려가는 모습도 봤네. 오늘은 공식적으로 최고의 날이야... 전부 네 덕분이지, %CURRENTPLAYERNAME%.",
-  "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_SUC_15/col-3": "젠장, 조이 진짜 너무 귀여워. 조이는 남은 하루 내내 티셔츠를 입고 다닌다. 알고 보니 스티비 닉스가 정말 축복한 물건이었어! 그 축복 덕분에 +3 BOLDNESS를 얻는다.",
+  "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_SUC_15/col-3": "젠장, 조이 진짜 너무 귀여워. 조이는 남은 하루 내내 티셔츠를 입고 다닌다. 알고 보니 스티비 닉스가 정말 축복한 물건이었어! 그 축복 덕분에 대담함 +3을 얻는다.",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_FAIL_1/col-3": "앰버 경보라고? 공공 응급 서비스를 낭비하는 것 같지만... 악사락스가 주둥이로 커피를 빨아 마시는 걸 보는 것보단 낫겠지. 가자.",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_FAIL_2/col-3": "너와 조이는 경찰서로 가서 티셔츠 실종 신고서를 접수한다! 티셔츠의 특징은 이렇다. 소중한 빈티지, 헤비메탈 공연장과 태우는 세이지 허브 냄새가 남.",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_FAIL_3/col-3": "경찰들이 심각한 표정을 짓는다. \"플리트우드 맥 티셔츠라고 하셨습니까? 게다가 빈티지라고요?! 중대한 사건입니다! 최정예 형사를 배정하겠습니다!\"",
@@ -77,5 +77,5 @@
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_FAIL_13/col-3": "\"저 개자식 말이 맞네!\" 맥부티 형사가 말한다. \"영장 없이는 티셔츠의 머리카락 한 올도 건드릴 수 없어. 미안하네, 조이. 내 손도 묶였군.\"",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_FAIL_14/col-3": "그럼 첫 변론 기일에 보자, 자기.",
   "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_FAIL_15/col-3": "정말 씨발 악몽이네. %CURRENTPLAYERNAME%, 네 아이디어는 왜 항상 상황을 더 망치는데? 저주를 걸기 전에 당장 꺼져.",
-  "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_FAIL_16/col-3": "조이는 네게 화가 났고, 넌 -3 BOLDNESS를 잃었다. 가장 끔찍한 건... 쓸데없는 티셔츠 추적 소동에 납세자의 돈까지 날려 버렸다는 거다. 부끄러운 줄 알아라!"
+  "english_camp_events_maingame/bp_joyex1/bp_joyex1_OUT_2_FAIL_16/col-3": "조이는 네게 화가 났고, 넌 대담함 -3을 잃었다. 가장 끔찍한 건... 쓸데없는 티셔츠 추적 소동에 납세자의 돈까지 날려 버렸다는 거다. 부끄러운 줄 알아라!"
 }

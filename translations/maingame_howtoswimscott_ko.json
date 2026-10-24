@@ -39,7 +39,7 @@
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_SUC_15/col-3": "만세!",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_SUC_16/col-3": "봤지, 캘큘레스터? 처음부터 이게 %CURRENTPLAYERNAME%의 계획이었던 게 분명해!",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_SUC_17/col-3": "물론이죠. 친구 여러분과 함께 있을 때는 일반적인 논리가 통하지 않는다는 사실을 자꾸 잊는군요! 제 순진함을 용서해 주세요.",
-  "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_SUC_18/col-3": "넌 스스로가 너무 대견해서 스콧이 몸을 털며 너희 셋에게 물을 잔뜩 튀겨도 전혀 신경 쓰이지 않아. +2SMARTS와 +1FUN을 얻었어.",
+  "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_SUC_18/col-3": "넌 스스로가 너무 대견해서 스콧이 몸을 털며 너희 셋에게 물을 잔뜩 튀겨도 전혀 신경 쓰이지 않아. 지능 +2와 재미 +1을 얻었어.",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_FAIL_1/col-3": "이성적으로는 거의 말이 되지 않는 조언입니다만, 이 친구들과 함께할 때는 합리성이 성공을 예측하는 믿을 만한 기준이 아니라는 사실을 깨달았습니다.",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_FAIL_2/col-3": "글쎄, 캘. 수영이 중국어 관화랑 무슨 관계가 있겠어?",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_FAIL_3/col-3": "넌 달리아의 양어깨를 붙잡고 지식이 곧 힘이라는 사실을 아주 차근차근 설명해.",
@@ -53,7 +53,7 @@
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_FAIL_11/col-3": "아니에요, 스콧 씨! 다시 생각해 보니 이 계획은 애초부터 잘못됐던 것 같습니다. 제 계산에 따르면 수영과 중국어 말하기 사이에는 공통점이 전혀 없어요.",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_FAIL_12/col-3": "오히려 갈리시아어로 말하는 것과 훨씬 더 비슷합니다!",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_FAIL_13/col-3": "생각해 보니 그쪽이 훨씬 말이 되네! 부끄러운 줄 알아, %CURRENTPLAYERNAME%! 수영을 제대로 알지도 못하면서 스콧을 위험에 빠뜨리다니!",
-  "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_FAIL_14/col-3": "달리아와 캘큘레스터는 네 도움 없이 스콧에게 갈리시아어를 가르쳐 해안으로 돌아오게 해. 'Eche o que hai'라더니, 넌 -2CHARM과 -1SMARTS를 잃어.",
+  "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_1_FAIL_14/col-3": "달리아와 캘큘레스터는 네 도움 없이 스콧에게 갈리시아어를 가르쳐 해안으로 돌아오게 해. 'Eche o que hai'라더니, 넌 매력 -2와 지능 -1을 잃어.",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_SUC_1/col-3": "해 보는데... 안 돼! 기억하는 것도 수영이랑 비슷해? 나 수영하는 법을 까먹었다니까, 얘들아!",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_SUC_2/col-3": "네, 스콧 씨. 알고 있습니다. 기억을 되살릴 수 있도록 지난주에 있었던 일을 생생한 홀로그램으로 재현해 드리겠습니다.",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_SUC_3/col-3": "<INITIATING MEMORY HOLOGRAM. PLEASE STAND BY. PROJECTION BEGINS NOW.> (기억 홀로그램 가동 중. 잠시 기다려 주세요. 지금 투영을 시작합니다.)",
@@ -77,7 +77,7 @@
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_SUC_21/col-3": "...캘큘레스터는 할 말을 잃어.",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_SUC_22/col-3": "다들 잘했어.",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_SUC_23/col-3": "감사합니다!",
-  "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_SUC_24/col-3": "너희는 다 함께 피자를 먹으러 가. 캘큘레스터는 멸치 피자의 수학적 표현을 주문하고, 넌 +2BOLDNESS와 +1FUN이 듬뿍 올라간 피자를 주문해!",
+  "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_SUC_24/col-3": "너희는 다 함께 피자를 먹으러 가. 캘큘레스터는 멸치 피자의 수학적 표현을 주문하고, 넌 대담함 +2와 재미 +1이 듬뿍 올라간 피자를 주문해!",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_FAIL_1/col-3": "해 보는데... 안 돼! 기억하는 것도 수영이랑 비슷해? 나 수영하는 법을 까먹었다니까, 얘들아!",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_FAIL_2/col-3": "네, 스콧 씨. 알고 있습니다. 기억을 되살릴 수 있도록 지난주에 있었던 일을 생생한 홀로그램으로 재현해 드리겠습니다.",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_FAIL_3/col-3": "<INITIATING MEMORY HOLOGRAM. PLEASE STAND BY. PROJECTION BEGINS NOW.> (기억 홀로그램 가동 중. 잠시 기다려 주세요. 지금 투영을 시작합니다.)",
@@ -91,5 +91,5 @@
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_FAIL_11/col-3": "지난주엔 네가 나한테 그 전주에 뭘 했는지 기억해 보라고 했고, 그러자 캘큘레스터가 그때 있었던 일을 보여 줬는데, 거기서도 네가 그 전주에 뭘 했는지 기억해 보라고...",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_FAIL_12/col-3": "<ERROR. ERROR. SCENARIO TOO DUMB. INFINITE RECURSION. STACK OVERFLOW.> (오류! 오류! 상황이 지나치게 멍청합니다. 무한 재귀 발생. 스택 오버플로!)",
   "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_FAIL_13/col-3": "캘큘레스터에게서 연기가 피어오르더니 그대로 쓰러져. 그의 손 하나가 호수에 빠지면서 호수 전체에 전기가 흐르고 스콧은 해안까지 로켓처럼 튕겨 나가.",
-  "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_FAIL_14/col-3": "와, 해냈네! 네가 스콧을 구했어! 하지만 정신을 차린 캘이 자기가 죽인 물고기가 얼마나 많은지 확인하자 전혀 기뻐하지 않아. 캘을 고장 낸 대가로 넌 -2CREATIVITY와 -1CHARM을 잃어."
+  "english_camp_events_maingame/howtoswimscott/howtoswimscott_OUT_2_FAIL_14/col-3": "와, 해냈네! 네가 스콧을 구했어! 하지만 정신을 차린 캘이 자기가 죽인 물고기가 얼마나 많은지 확인하자 전혀 기뻐하지 않아. 캘을 고장 낸 대가로 넌 창의력 -2와 매력 -1을 잃어."
 }

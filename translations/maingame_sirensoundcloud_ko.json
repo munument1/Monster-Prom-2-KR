@@ -39,7 +39,7 @@
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_SUC_16/col-3": "\"잠깐!\" 세이렌이 비명을 질렀어. \"아직 내 신곡 '혐오 발언은 나쁘지만 이 노래에서 내가 부를 그 말 하나는 예외야!'를 못 들었잖아!\"",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_SUC_17/col-3": "하지만 다행히도 이미 늦었어. 스콧은 이제 완전히 자기 꿈을 쫓기로 결심했거든! 넌 마일로의 도움을 받아 스콧이 천문학계에 발을 들이는 데 필요한 모든 걸 가르쳤어...",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_SUC_18/col-3": "망원경을 먹어도 되는 때는 언제인지(절대 안 됨), 별이 몇 개나 있는지(열두 개보다는 많음), 별을 '우주 사탕'이라고 불러도 되는지(뭐, 안 될 건 없지) 같은 것들 말이야.",
-  "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_SUC_19/col-3": "다 끝났을 무렵 스콧은 세이렌의 노래를 완전히 잊어버렸고, 너도 천문학에 관한 소중한 사실들을 배웠어! +2SMARTS와 +1CREATIVITY를 얻었어.",
+  "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_SUC_19/col-3": "다 끝났을 무렵 스콧은 세이렌의 노래를 완전히 잊어버렸고, 너도 천문학에 관한 소중한 사실들을 배웠어! 지능 +2와 창의력 +1을 얻었어.",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_FAIL_1/col-3": "내 꿈을 따라가라고? 좋아! 저 세이렌을 따라가는 것보다 훨씬 멋진걸!",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_FAIL_2/col-3": "정말? 잘됐다! 자기실현에 대한 막연한 선언이 생존에 엄청난 도움이 된다고 난 늘 말했는데, 코치님은 도통 듣질 않으시거든!",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_FAIL_3/col-3": "(사실 그 얘길 인스타그램에만 올렸고 코치님은 인스타그램 계정도 없으시지만, 그렇다고 나를 팔로우하지 않을 핑계가 되진 않지.)",
@@ -51,7 +51,7 @@
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_FAIL_9/col-3": "안 돼! 잠깐만!",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_FAIL_10/col-3": "\"개인적으로는 말이야.\" 세이렌이 감미롭게 노래했어. \"스콧이 정말 훌륭한 선택을 했다고 생각해. 그리고 물 밖에서 사는 놈들에 대한 인종차별은 언론에서 너무 부당하게 욕먹고 있다고 생각하지.\"",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_FAIL_11/col-3": "더 얘기해 줘!",
-  "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_FAIL_12/col-3": "세이렌은 정말로 한참을, 그것도 엄청나게 큰 소리로 떠들어대며 호수를 모두에게 최악의 장소로 만들어 버렸어. 마일로는 널 쳐다보지도 않아. -2CHARM과 -1BOLDNESS를 잃었어.",
+  "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_1_FAIL_12/col-3": "세이렌은 정말로 한참을, 그것도 엄청나게 큰 소리로 떠들어대며 호수를 모두에게 최악의 장소로 만들어 버렸어. 마일로는 널 쳐다보지도 않아. 매력 -2와 대담함 -1을 잃었어.",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_SUC_1/col-3": "기막힌 생각이야! 멋진 장치나 고차원적인 말장난에 매달릴 필요가 뭐 있어? 그냥 빙글빙글 도는 물건 하나만 던지면 되는데!",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_SUC_2/col-3": "넌 프리스비를 던졌어! 진짜 잘 던졌어! 엄청 멀리 날아갔어!",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_SUC_3/col-3": "방금 프리스비를 던진 거야?! 진짜 잘 던지고 엄청 멀리 날려 보낸 거야?!",
@@ -64,7 +64,7 @@
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_SUC_10/col-3": "그런 자세, 정말 존경스러워. 나도 뽐내는 걸 직업으로 삼은 사람이잖아. 내 앞에서 섹시해 보이려고 그토록 열심히 준비한 모습에 박수를 보내고 싶어.",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_SUC_11/col-3": "좋아하는 사람 앞에서 프리스비 던질 기회가 올지도 모른다는 이유만으로 평생 매일 프리스비를 들고 다니는 걸 두고 누군가는 '한심하다'고 하겠지.",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_SUC_12/col-3": "... 하지만 난 그걸 '자기 브랜드를 끝까지 밀어붙이는 것'이라고 불러. 나도 혹시 뽐낼 기회가 생길까 봐 들고 다니는 물건이 얼마나 많은지 알면 놀랄걸!",
-  "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_SUC_13/col-3": "마일로는 남은 오후 내내 그 물건들을 하나하나 보여 줬어. 칼갈이, 맛있는 카베르네 와인, 인간의 이해를 초월하는 강령술 마도서까지 있었지! +2SMARTS와 +1FUN을 얻었어.",
+  "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_SUC_13/col-3": "마일로는 남은 오후 내내 그 물건들을 하나하나 보여 줬어. 칼갈이, 맛있는 카베르네 와인, 인간의 이해를 초월하는 강령술 마도서까지 있었지! 지능 +2와 재미 +1을 얻었어.",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_FAIL_1/col-3": "훌륭한 생각이야! 멋진 장치나 고차원적인 말장난이 다 무슨 소용이야? 그냥 빙글빙글 도는 물건을 던지면 그만인데!",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_FAIL_2/col-3": "넌 프리스비를 던졌어! 하지만 프리스비를 엄청 못 던져! 형편없는 투척이었어. 진짜 완전 꽝이야!",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_FAIL_3/col-3": "%CURRENTPLAYERNAME%, 지금 뭐 하는 거야? 프리스비를 호수 한가운데로 던져 버렸잖아! 물살에 떠밀려 세이렌이 앉은 바위까지 가 버렸다고!",
@@ -75,5 +75,5 @@
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_FAIL_8/col-3": "이제 스콧이 죽으면 내가 호수에서 녀석 영혼을 건져 올려야 하잖아! 심지어 저 세이렌의 20피트 안까지 접근해야 한다고! 최악이야!",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_FAIL_9/col-3": "넌 뭐라고 답하고 싶었지만, 네 형편없는 투척 실력을 떠올리느라 바빴어. 와, 진짜 못 던졌지. 그야말로 못함 그 자체. 백만 배로 못함.",
   "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_FAIL_10/col-3": "다행히 스콧은 몇 번 헤엄치자마자 수영하는 법을 잊어버리고 둥둥 떠서 다시 호숫가로 돌아왔어.",
-  "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_FAIL_11/col-3": "덜 다행인 건, 네가 얼마나 프리스비를 못 던지는지 모두가 영원히 기억할 거란 사실이야. 왕실급으로 못함. 무한대로 못함. 미래까지 못함. 우우. 넌 -2CHARM과 -1FUN을 잃었어."
+  "english_camp_events_maingame/sirensoundcloud/sirensoundcloud_OUT_2_FAIL_11/col-3": "덜 다행인 건, 네가 얼마나 프리스비를 못 던지는지 모두가 영원히 기억할 거란 사실이야. 왕실급으로 못함. 무한대로 못함. 미래까지 못함. 우우. 넌 매력 -2와 재미 -1을 잃었어."
 }

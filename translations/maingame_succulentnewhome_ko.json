@@ -32,7 +32,7 @@
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_SUC_15/col-3": "약한 산들바람이 숲속 빈터를 스치고 지나가자, 버커루 본사이의 잎이 눈치채기 어려울 만큼 살짝 끄덕인다.",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_SUC_16/col-3": "있잖아요, %CURRENTPLAYERNAME% 친구? 제 생각엔 우리 말이 정말 통하고 있는 것 같아요!",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_SUC_17/col-3": "너는 미심쩍지만... 잠시 후 캘큘레스터와 함께 버키를 확인하러 돌아와 보니, 그 아이가 지내는 숲속 빈터에는 수상한 질산염 판매상의 시체가 널브러져 있다!",
-  "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_SUC_18/col-3": "건전한 식물 사회를 만드는 데 기여한 보상으로 +2CHARM과 +1BOLDNESS를 얻는다.",
+  "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_SUC_18/col-3": "건전한 식물 사회를 만드는 데 기여한 보상으로 매력 +2와 대담함 +1을 얻는다.",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_FAIL_1/col-3": "너는 버커루 본사이에게 마약을 하지 말라며 한참 동안 이야기한다. 버키는 아무 대답도 반응도 하지 않지만, 사춘기라서 그런 거겠지 싶다.",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_FAIL_2/col-3": "마약의 위험성을 알리는 유익한 홍보물까지 남겨 두고 이야기를 마치자, 너와 캘큘레스터는 한결 마음이 놓인다.",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_FAIL_3/col-3": "떠나보내는 건 어렵지만, 우리 작은 본사이가 건강한 선택을 할 준비를 마쳤다고 생각하니 마음이 훨씬 편해졌어요.",
@@ -46,7 +46,7 @@
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_FAIL_11/col-3": "그 대신 발견한 건 버키의 새 문신 사진뿐이다. 몸통 맨 아래에 새겨진, 식물판 엉덩이 위 문신이다.",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_FAIL_12/col-3": "저게 뭐죠?! 문신인가요? 뭐라고 쓰여 있는 거죠?",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_FAIL_13/col-3": "... 'AGAB'요? 적어도 그건 다행이네요. '언제나 관대하고 자애롭게'라는 뜻이겠죠?",
-  "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_FAIL_14/col-3": "이런 식으로 알게 해 주고 싶진 않았지만, 너는 그게 사실 '정원사는 전부 개자식'이라는 뜻이라고 알려 준다. 캘큘레스터의 모니터에 떠오른 배신감 어린 표정을 보고 -2FUN과 -1BOLDNESS를 잃는다.",
+  "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_1_FAIL_14/col-3": "이런 식으로 알게 해 주고 싶진 않았지만, 너는 그게 사실 '정원사는 전부 개자식'이라는 뜻이라고 알려 준다. 캘큘레스터의 모니터에 떠오른 배신감 어린 표정을 보고 재미 -2와 대담함 -1을 잃는다.",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_SUC_1/col-3": "물론이죠! 식물들은 털을 무척 좋아하고, 털이 있는 존재를 부러워한답니다! 식물에 관해 널리 알려진 사실이에요!",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_SUC_2/col-3": "...하지만 이런 숲 한복판에서 부분 가발을 어디서 구하지? 아주 늙은 주머니쥐한테서 훔쳐야 하나, 아니면...",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_SUC_3/col-3": "부분 가발을 찾으시는 거라면, 제가 항상 가지고 다니는 가발이 아주 많이 있답니다!",
@@ -67,7 +67,7 @@
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_SUC_18/col-3": "말해 봐, 친구. 대체 비결이 뭐야?",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_SUC_19/col-3": "버커루 본사이는 그저 스스로 움직이지도 못하고 마법도 쓸 줄 모르는 평범한 식물로서 가만히 있는 것으로 대답한다.",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_SUC_20/col-3": "씨발, 존나 심오하네! 내가 너한테 배울 게 많겠어, 멋쟁이 친구!",
-  "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_SUC_21/col-3": "옷이 날개라지만, 식물은 결국 가발이 완성하는 법이다. 너의 파격적인 식물 변신은 +2CREATIVITY와 +1SMARTS를 안겨 준다.",
+  "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_SUC_21/col-3": "옷이 날개라지만, 식물은 결국 가발이 완성하는 법이다. 너의 파격적인 식물 변신은 창의력 +2와 지능 +1을 안겨 준다.",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_FAIL_1/col-3": "물론이죠! 식물들은 털을 무척 좋아하고, 털이 있는 존재를 부러워한답니다! 식물에 관해 널리 알려진 사실이에요!",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_FAIL_2/col-3": "...하지만 이런 숲 한복판에서 부분 가발을 어디서 구하지? 아주 늙은 주머니쥐한테서 훔쳐야 하나, 아니면...",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_FAIL_3/col-3": "부분 가발을 찾으시는 거라면, 제가 항상 가지고 다니는 가발이 아주 많이 있답니다!",
@@ -86,5 +86,5 @@
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_FAIL_16/col-3": "그래서 너는 어떤 범죄가 취향이야, 친구? 할머니들 등쳐 먹기? 애들한테 마약 팔기? 할머니들을 협박해서 애들한테 마약 팔게 만들기?",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_FAIL_17/col-3": "하하, 나 좀 봐! 이제 막 만난 사이인데 사적인 질문을 퍼붓고 있잖아! 일단 가벼운 잡담부터 해 볼까?",
   "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_FAIL_18/col-3": "그래서 말인데... 우리 똑같은 문신 하나씩 새길래?",
-  "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_FAIL_19/col-3": "정신을 차려 보니 버커루 본사이의 줄기에는 'FART'라는 문신이 새겨져 있고, 너는 -2CHARM과 -1CREATIVITY를 잃었다."
+  "english_camp_events_maingame/succulentnewhome/succulentnewhome_OUT_2_FAIL_19/col-3": "정신을 차려 보니 버커루 본사이의 줄기에는 'FART'라는 문신이 새겨져 있고, 너는 매력 -2와 창의력 -1을 잃었다."
 }

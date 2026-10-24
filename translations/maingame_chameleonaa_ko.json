@@ -35,7 +35,7 @@
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_SUC_11/col-3": "\"그렇게 해도 완전한 문장은 못 말했어. 미치도록 끔찍한 심연의 언어로 단어 하나씩만 내뱉었지!\"",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_SUC_12/col-3": "\"잘했어, 아라비. 이제 넌 괴물만 '썰어 버리는' 게 아니라 멋까지 '찢는' 법을 배우고 있구나!\"",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_SUC_13/col-3": "잠깐... 머리에도 마법을 걸 수 있어요? 그러면 어떤 능력치 보너스를 얻는데요?",
-  "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_SUC_14/col-3": "아라비와 할머니는 끝내주는 헤어스타일의 능력치 상승 효과에 관해 깊이 있는 대화를 나눈다. 나중엔 너에게도 +2BOLDNESS와 +1FUN을 주는 머리 모양까지 가르쳐 준다!",
+  "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_SUC_14/col-3": "아라비와 할머니는 끝내주는 헤어스타일의 능력치 상승 효과에 관해 깊이 있는 대화를 나눈다. 나중엔 너에게도 대담함 +2와 재미 +1을 주는 머리 모양까지 가르쳐 준다!",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_FAIL_1/col-3": "진짜 괜찮겠어? 헥스는 머리카락처럼 안 생겼는데.",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_FAIL_2/col-3": "완벽하게 통할 거야. 날 믿어. 요즘 노인들은 머리카락이 대체 뭔지도 몰라. 네 말을 믿을 수밖에 없다고.",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_FAIL_3/col-3": "사실이지. 나처럼 유행에 밝은 베이비부머이자 변장의 달인도 '드레드호크'와 '워터폴 브레이드'를 구별하기 어렵거든... '포트나이트 밈록스' 얘기는 꺼내지도 마!",
@@ -56,7 +56,7 @@
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_FAIL_18/col-3": "맘대로 하세요! 할머니의 멍청한 업그레이드 따윈 필요 없거든요! 그냥 나가서 마법 아이템을 더 구하면 돼요. 저주가 걸렸든 말든 상관없어! 할머니는 내 인생의 보스가 아니라고요!",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_FAIL_19/col-3": "저주를 더 얻겠다고?! 나 하나뿐이라며! 취소해, 아라비! 당장 취소하란 말이야!!!",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_FAIL_20/col-3": "와, 일이 순식간에 커졌다. 이게 네 아이디어였다는 걸 아라비가 떠올리기 전에 슬쩍 빠져나가는 게 좋겠다.",
-  "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_FAIL_21/col-3": "불행히도 넌 플로지 지도교사처럼 변장의 달인이 아니다. 아라비는 금세 널 찾아내 목을 조르고, 플로지는 쓰레기통 뒤에서 그 광경을 구경한다. -2FUN과 -1BOLDNESS를 잃는다.",
+  "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_1_FAIL_21/col-3": "불행히도 넌 플로지 지도교사처럼 변장의 달인이 아니다. 아라비는 금세 널 찾아내 목을 조르고, 플로지는 쓰레기통 뒤에서 그 광경을 구경한다. 재미 -2와 대담함 -1을 잃는다.",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_SUC_1/col-3": "이야, 그야말로 상자 밖에서 생각하는 발상이군! (난 골판지 상자 안에 숨으라고 제안하려 했는데.)",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_SUC_2/col-3": "%CURRENTPLAYERNAME%, 네가 그렇게 멋진 마법 주문을 숨겨 두고 있는 줄 몰랐어!",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_SUC_3/col-3": "그래, 뭐... 멋진 마법 주문이지...",
@@ -78,7 +78,7 @@
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_SUC_19/col-3": "씨발, 성공했어! 에휴, 우리 불쌍한 할머니... '와이파이'니 '공유기'니... 요즘 노인들은 현대 마법 주문을 영 이해 못 한다니까.",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_SUC_20/col-3": "좀 미안하긴 하지만 더 큰 선을 위해서였어. 내가 저주에 걸렸다고 잔소리하시는 걸 피했으니까.",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_SUC_21/col-3": "잠깐, 좋은 생각이 있어! 베이글이나 좀 먹으면서 할머니 속인 죄책감을 잊는 건 어때?",
-  "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_SUC_22/col-3": "아라비를 속인 게 조금 찜찜하지만, 베이글이 죄책감을 잊게 해 준다는 헥스의 말은 맞았다. 만세, 오늘도 배운 게 하나도 없네! +2CREATIVITY와 +1CHARM을 얻는다.",
+  "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_SUC_22/col-3": "아라비를 속인 게 조금 찜찜하지만, 베이글이 죄책감을 잊게 해 준다는 헥스의 말은 맞았다. 만세, 오늘도 배운 게 하나도 없네! 창의력 +2와 매력 +1을 얻는다.",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_FAIL_1/col-3": "잠깐... 아라비의 할머니가 자기 감각을 믿지 못하도록 속이겠다고?",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_FAIL_2/col-3": "그거 일종의... 가스라이팅 아니야?",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_FAIL_3/col-3": "가스라이팅이 뭐야? 불 붙이는 기술 같은 건가? 데미안이 시켰어?",
@@ -93,5 +93,5 @@
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_FAIL_12/col-3": "아아... 이제 무슨 상황인지 알겠다. 플로지 지도교사가 가스라이팅을 가르쳐 주려고 가스라이팅에 관해 널 가스라이팅하고 있는 거다! 너는 그 교활함에 감탄하며 축하해 준다.",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_FAIL_13/col-3": "뭐라고? 아라비의 할머니를 가스라이팅하자고 한 건 너잖아. 그런데 이젠 플로지 지도교사한테 가스라이팅한다고 뒤집어씌워?",
   "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_FAIL_14/col-3": "바로 그게 전형적인 가스라이팅 수법이야. 역겨워 죽겠네.",
-  "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_FAIL_15/col-3": "잠깐! 아니야! 가스라이팅하는 건 네가 아니라고! 저 사람이야! 저 사람이라고! 네가 울부짖는 사이 아라비와 헥스, 플로지는 고개를 절레절레 흔들며 떠나고, -2CHARM과 -1SMARTS도 함께 떠난다."
+  "english_camp_events_maingame/chameleonaa/chameleonaa_OUT_2_FAIL_15/col-3": "잠깐! 아니야! 가스라이팅하는 건 네가 아니라고! 저 사람이야! 저 사람이라고! 네가 울부짖는 사이 아라비와 헥스, 플로지는 고개를 절레절레 흔들며 떠나고, 매력 -2와 지능 -1도 함께 떠난다."
 }

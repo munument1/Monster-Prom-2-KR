@@ -36,7 +36,7 @@
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_SUC_16/col-3": "그럼 제가 금속판을 붙여서 구해 줬던 동물들도 결국 전부 무사하겠군요!",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_SUC_17/col-3": "...(침묵)",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_SUC_18/col-3": "있잖아, 그래. 그냥 그렇다고 치자.",
-  "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_SUC_19/col-3": "좋아, 이걸로 해결! 캘도 행복하고 조이도 행복하다. 그리고 네가 경범죄를 저지르거나 쓰레기통을 뒤질 때마다 라쿤 신이 흐뭇하게 미소 짓는 게 느껴진다. +2CHARM과 +1SMARTS를 얻는다.",
+  "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_SUC_19/col-3": "좋아, 이걸로 해결! 캘도 행복하고 조이도 행복하다. 그리고 네가 경범죄를 저지르거나 쓰레기통을 뒤질 때마다 라쿤 신이 흐뭇하게 미소 짓는 게 느껴진다. 매력 +2와 지능 +1을 얻는다.",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_FAIL_1/col-3": "너는 죽어 가는 라쿤의 두개골 밑부분에 USB 케이블을 꽂고 반대쪽을 휴대전화에 연결한다.",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_FAIL_2/col-3": "라쿤의 의식을 내려받는 건 생각보다 간단하다. 뭐, 이건 비디오게임이고 누가 그런 걸 신경 쓰겠어...",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_FAIL_3/col-3": "하지만 클라우드에 올리려는 순간, 의식이 갑자기 사라지고 만다. 대체 어디로 간 거지?",
@@ -50,7 +50,7 @@
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_FAIL_11/col-3": "'이 살덩이 감옥에서 풀어 줘서 고맙다, 딸딸이충들아. 이제 남들 재활용 쓰레기통이나 뒤지고 거기서 찾은 걸 전부 4chan에 올릴 거야. 잘 있어!'",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_FAIL_12/col-3": "이런. 숲의 정령한테 도와 달라고 부르는 일은 이번이 마지막이겠네. 아마 너한테 도움을 청하는 것도 마지막일 거고, %CURRENTPLAYERNAME%.",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_FAIL_13/col-3": "젠장. 라쿤의 정신은 인터넷 대부분을 뒤덮을 만큼 팽창해 각종 댓글창을 최저질 개소리 게시물로 도배하고, 모두의 샌드위치를 훔쳐 간다.",
-  "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_FAIL_14/col-3": "인터넷이 원래도 엉망이었으니 전보다 아주 조금 더 나빠진 정도다. 하지만 이 사태에 일조했다는 죄책감으로 -2BOLDNESS와 -1FUN을 잃는다.",
+  "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_1_FAIL_14/col-3": "인터넷이 원래도 엉망이었으니 전보다 아주 조금 더 나빠진 정도다. 하지만 이 사태에 일조했다는 죄책감으로 대담함 -2와 재미 -1을 잃는다.",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_SUC_1/col-3": "휴, 항상 라쿤 손인형을 챙겨 다니길 잘했어! 평소엔 섹스할 때만 쓰지만, 지금도 거의 그만큼 괜찮은 용도네.",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_SUC_2/col-3": "너는 슬쩍 손인형 안에 손을 집어넣고 '완전히 멀쩡한 라쿤' 소리를 내기 시작한다. 캘큘레스터는 패닉에서 벗어나 너를 호기심 어린 눈으로 바라본다.",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_SUC_3/col-3": "제 호기심 처리 서브루틴이 활성화됐어요, %CURRENTPLAYERNAME% 친구. 왜 그 가짜 라쿤을 주먹으로 관통하고 계신가요?",
@@ -67,7 +67,7 @@
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_SUC_14/col-3": "하지만 그건 조이가 틀렸다. 너의 익살맞은 재롱이 너무나도 유쾌해서 웃음의 힘으로 다친 라쿤의 상처를 치유한 것이다!",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_SUC_15/col-3": "(게다가 라쿤이라면 쓰레기가 가득한 통에 접근하려고 죽음 직전에서 기어 돌아오는 짓까지 포함해 '무슨 짓이든' 할 테니까.)",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_SUC_16/col-3": "와, 이게 통할 이유가 전혀 없었는데 생각보다 훨씬 잘됐네.",
-  "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_SUC_17/col-3": "봤지? 마땅히 해야 할 일 따윈 좆도 신경 쓰지 않고 손인형 갖고 놀기만 하면 엄청난 일이 벌어진다니까. 너는 +2CHARM과 +1FUN을 얻는다.",
+  "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_SUC_17/col-3": "봤지? 마땅히 해야 할 일 따윈 좆도 신경 쓰지 않고 손인형 갖고 놀기만 하면 엄청난 일이 벌어진다니까. 너는 매력 +2와 재미 +1을 얻는다.",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_FAIL_1/col-3": "와! 손인형이다! 제일 똑똑한 친구 둘에게 네가 방금 라쿤 수술을 해냈다고 믿게 만들 수 있는 완벽한 방법이지!",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_FAIL_2/col-3": "안타깝게도 평소 들고 다니던 라쿤 손인형은 집에 두고 왔다. 캠프 친구들이 널 괴짜로 볼까 봐 걱정됐거든.",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_FAIL_3/col-3": "서둘러야 한다. 나쁜 소식은 라쿤이 이미 죽었다는 것. 좋은 소식은 친구들이 지금 다른 데 정신이 팔려 있다는 것이다.",
@@ -83,5 +83,5 @@
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_FAIL_13/col-3": "제발요, %CURRENTPLAYERNAME% 친구. 당장 속임수를 멈추지 않으시면, 친구가 좋은 사람이 아니라는 결론을 내릴 수밖에 없어요.",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_FAIL_14/col-3": "하지만 포기할 때를 아는 사람이었다면 애초에 죽은 라쿤 엉덩이에 손을 집어넣지도 않았겠지. (아, 맞다. 라쿤은 이제 완전히 죽었다.)",
   "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_FAIL_15/col-3": "너는 기발함과 설득력, 기본적인 양심의 부족함을 끈기로 메울 수 있을 거라 기대하며 며칠 동안이나 연기를 이어 간다.",
-  "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_FAIL_16/col-3": "나쁜 소식은 며칠이 지나도 네 '완전히 살아 있는 라쿤' 연기가 조금도 그럴듯해지지 않는다는 것. 더 나쁜 소식은 그 탓에 자위하기가 대단히 어색해졌다는 것이다. 너는 -2FUN과 -1BOLDNESS를 잃는다."
+  "english_camp_events_maingame/helpinginjuredanimal/helpinginjuredanimal_OUT_2_FAIL_16/col-3": "나쁜 소식은 며칠이 지나도 네 '완전히 살아 있는 라쿤' 연기가 조금도 그럴듯해지지 않는다는 것. 더 나쁜 소식은 그 탓에 자위하기가 대단히 어색해졌다는 것이다. 너는 재미 -2와 대담함 -1을 잃는다."
 }

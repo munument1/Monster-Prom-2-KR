@@ -80,7 +80,7 @@
   "english_camp_events_lovelog/lovelog_failure4/lovelog_failure4_PRE_5/col-3": "불과 몇 분 만에 답장이 도착했어. \"사랑하는 %CURRENTPLAYERNAME%에게. 엄마야. 아직 네 편지는 안 읽었어. 클럽에서 춤추느라 인생 최고의 시간을 보내는 중이거든. 엄마 기다리지 마. 겨드랑이에 난 발진은 또 곪기 전에 꼭 씻고. 뽀뽀!\"",
   "english_camp_events_lovelog/lovelog_failure4/lovelog_failure4_PRE_6/col-3": "제기랄, 넌 친엄마보다도 한심하잖아! 게다가 그 발진도 완전히 잊고 있었어! 대담함 -2, 재미 -2를 잃는다.",
   "english_camp_events_lovelog/lovelog_failure5/lovelog_failure5_PRE_1/col-3": "아무도 네 곁에 앉지 않는다.",
-  "english_camp_events_lovelog/lovelog_failure5/lovelog_failure5_PRE_2/col-3": "다음 날이 되자 %CURRENTPLAYERNAME%가 캠프파이어에 참석했다는 사실조차 기억하는 사람이 없어.",
+  "english_camp_events_lovelog/lovelog_failure5/lovelog_failure5_PRE_2/col-3": "다음 날이 되자 %CURRENTPLAYERNAME%이 캠프파이어에 참석했다는 사실조차 기억하는 사람이 없어.",
   "english_camp_events_lovelog/lovelog_failure5/lovelog_failure5_PRE_3/col-3": "네 존재감이 너무도 희미했던 나머지, 사실은 트렌치코트 안에 들어간 오리 세 마리와 소개팅하느라 캠프파이어에 빠졌다는 소문까지 퍼졌어.",
   "english_camp_events_lovelog/lovelog_failure5/lovelog_failure5_PRE_4/col-3": "차라리 진짜 그랬으면 좋았겠다 싶어. 밤새 혼자 앉아 있었던 것보단 훨씬 낫잖아. 매력 -2, 창의력 -2를 잃는다.",
   "english_camp_events_lovelog/lovelog_failure6/lovelog_failure6_PRE_1/col-3": "아무도 네 곁에 앉지 않는다.",
@@ -99,7 +99,7 @@
   "english_camp_events_lovelog/lovelog_failure8/lovelog_failure8_PRE_4/col-3": "안타깝게도 로그레타는 굵직한 삼나무 가지와 눈이 맞아 널 차 버리고 계산서까지 떠넘겨. 젠장, 통나무한테 차이다니! 대담함 -2, 매력 -2를 잃는다.",
   "english_camp_events_lovelog/lovelog_failure9/lovelog_failure9_PRE_1/col-3": "아무도 네 곁에 앉지 않는다.",
   "english_camp_events_lovelog/lovelog_failure9/lovelog_failure9_PRE_2/col-3": "그날 밤, 2층짜리 관광버스 한 대가 네 통나무 앞에 멈춰 서.",
-  "english_camp_events_lovelog/lovelog_failure9/lovelog_failure9_PRE_3/col-3": "관광 가이드가 말해. \"오른쪽을 보시면 %CURRENTPLAYERNAME%가 보입니다. 스푸키 캠프의 완벽한 거절과 치욕을 상징하는 살아 있는 기념물이죠.\"",
+  "english_camp_events_lovelog/lovelog_failure9/lovelog_failure9_PRE_3/col-3": "관광 가이드가 말해. \"오른쪽을 보시면 %CURRENTPLAYERNAME%이 보입니다. 스푸키 캠프의 완벽한 거절과 치욕을 상징하는 살아 있는 기념물이죠.\"",
   "english_camp_events_lovelog/lovelog_failure9/lovelog_failure9_PRE_4/col-3": "넌 수많은 관광객의 일회용 카메라에 찍혔지만, 지능 -2, 재미 -2를 잃는다.",
   "english_camp_events_lovelog/lovelog_failure10/lovelog_failure10_PRE_1/col-3": "아무도 네 곁에 앉지 않는다.",
   "english_camp_events_lovelog/lovelog_failure10/lovelog_failure10_PRE_2/col-3": "...그러다 그날 밤 늦게 프리랜서 기자가 옆에 앉더니 새 잡지의 특집 기사를 위해 인터뷰해도 되겠냐고 묻는 거야!",
@@ -248,5 +248,5 @@
   "english_camp_events_lovelog/lovelog_success11/lovelog_success11_PRE_10/col-3": "%LOVELOG_FIRSTPLAYER%는 깜짝 놀랐어! 그러다 %LOVELOG_FIRSTPLAYER_HESHE% %LOVELOG_FIRSTPLAYER_VERB_LAUGHS_LAUGH% 웃으며 %LOVELOG_FIRSTPLAYER_VERB_SAYS_SAY% 말하지. \"아, %CURRENTPLAYERNAME%, 너 정말 다정하다! 나도 늘 네게 이런 말을 하고 싶었어. '%LOVELOGCOMPLIMENT%'!\"",
   "english_camp_events_lovelog/lovelog_success11/lovelog_success11_PRE_11/col-3": "우와! 여기 분위기가 아주 후끈후끈해졌어! 이렇게 매력적인 연애 상대들이 넘쳐나는 캠프에서 가장 흥미로운 사랑이 친구를 향한 네 사랑이라니, 누가 상상이나 했겠어?",
   "english_camp_events_lovelog/lovelog_success11/lovelog_success11_PRE_12/col-3": "%LOVELOG_FIRSTPLAYER%는 네 사랑스러운 칭찬 덕분에 %LOVELOG_FIRSTPLAYER_FINALSTATCHANGES%를 얻고, 넌 칭찬을 해 줬으니 %LOVELOG_FINALSTATCHANGES%를 얻어!",
-  "english_camp_events_lovelog/lovelog_success11/lovelog_success11_PRE_13/col-3": "%CURRENTPLAYERNAME%와 %LOVELOG_FIRSTPLAYER%: 마지막까지 서로에게 이렇게 말해 줄 두 사람. '%LOVELOGCOMPLIMENT%'!"
+  "english_camp_events_lovelog/lovelog_success11/lovelog_success11_PRE_13/col-3": "%CURRENTPLAYERNAME%과 %LOVELOG_FIRSTPLAYER%: 마지막까지 서로에게 이렇게 말해 줄 두 사람. '%LOVELOGCOMPLIMENT%'!"
 }

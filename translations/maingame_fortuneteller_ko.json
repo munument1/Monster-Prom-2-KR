@@ -33,7 +33,7 @@
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_SUC_10/col-3": "아! 발언을 잘못 해석해서 죄송해요...",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_SUC_11/col-3": "...카우보이 양반.",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_SUC_12/col-3": "오, 씨발! 알고 보니 캘큘레스터는 서부 개척 시대의 은어에 엄청난 열정을 품고 있었다! 그는 몇 시간 동안 너희 모두에게 카우보이처럼 욕하는 법을 가르친다.",
-  "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_SUC_13/col-3": "너는 데미안을 '비열한 비스킷 처먹는 양배추 도둑놈'이라고 불렀는데도 녀석이 너를 칼로 찌르지 않는다! +9000GUMPTION, +2FUN, +1BOLDNESS를 얻는다!",
+  "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_SUC_13/col-3": "너는 데미안을 '비열한 비스킷 처먹는 양배추 도둑놈'이라고 불렀는데도 녀석이 너를 칼로 찌르지 않는다! +9000GUMPTION, 재미 +2, 대담함 +1을 얻는다!",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_FAIL_1/col-3": "'그 질문을 얼마나 자주 받는지 알면 놀랄 거다.' 점쟁이가 말한다. '좋다. 스무 해 뒤 가장 인기 있을 유행어는...'",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_FAIL_2/col-3": "'블럼프키스, 감자 악수, 스와프트다.'",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_FAIL_3/col-3": "'블럼프키스'가 뭐야? 혹시... 나쁜 뜻이야?",
@@ -51,7 +51,7 @@
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_FAIL_15/col-3": "아예 쓰지 않았는데 나중에 그 단어들이 유행해 버리면? 넌 안 썼다는 이유로 멋없는 사람이 되잖아!",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_FAIL_16/col-3": "점쟁이는 너에게 지식을 선물했지만, 그건 저주받은 선물이었다. 이 단어들의 뜻을 알아내기 전까지 넌 영원히 불행할 것이다.",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_FAIL_17/col-3": "네 살점 몇 파운드와 피의 의식 한 번, 그리고 셀 수 없이 많은 유튜브 강좌를 희생한 끝에 넌 마침내 그토록 갈망하던 진실을 알아낸다.",
-  "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_FAIL_18/col-3": "'스와프트'는 '스와프트의 뜻을 알아내는 데 지나치게 집착하는 멍청이'를 뜻하는 은어였다. 젠장. 너는 -2CHARM과 -1FUN을 잃는다.",
+  "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_1_FAIL_18/col-3": "'스와프트'는 '스와프트의 뜻을 알아내는 데 지나치게 집착하는 멍청이'를 뜻하는 은어였다. 젠장. 너는 매력 -2와 재미 -1을 잃는다.",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_SUC_1/col-3": "점쟁이의 생기 없는 눈은 감정을 드러낼 수 없지만, 그 나무 얼굴에 놀란 표정이 스친 것 같은 기분이 든다.",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_SUC_2/col-3": "'내가... 네가 할 질문을 말하라고? 그건...'",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_SUC_3/col-3": "점쟁이 상자가 바닥에 고정된 채 요동친다. 틈새에서 연기가 뭉게뭉게 솟아오른다. 마침내 움직임이 멈춘다.",
@@ -66,7 +66,7 @@
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_SUC_12/col-3": "씨발 좋았어! 내가 또 이겼다!",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_SUC_13/col-3": "그럼 %CURRENTPLAYERNAME%은(는)요? %HESHE% %VERB_WAS_WERE% 무슨 질문을 하려고 했나요? %HESHE% %VERB_WAS_WERE% 무슨 질문을 할지 물어보는 질문은 빼고요.",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_SUC_14/col-3": "'%CURRENTPLAYERNAME%은(는) 소박한 욕망을 품은 소박한 괴물이지. %HESHE%은(는) 이번 이벤트에서 %HESHE%이(가) 성공할지만 궁금했을 뿐이다. 그리고 그 답은...'",
-  "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_SUC_15/col-3": "'그렇다! 바로 지금! 게다가 %HESHE%은(는) +2FUN과 +1SMARTS까지 얻을 것이다!'",
+  "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_SUC_15/col-3": "'그렇다! 바로 지금! 게다가 %HESHE%은(는) 재미 +2와 지능 +1까지 얻을 것이다!'",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_FAIL_1/col-3": "점쟁이의 생기 없는 눈은 감정을 드러낼 수 없지만, 그 나무 얼굴에 놀란 표정이 스친 것 같은 기분이 든다.",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_FAIL_2/col-3": "'내가... 네가 할 질문을 말하라고? 그건...'",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_FAIL_3/col-3": "점쟁이 상자가 바닥에 고정된 채 요동친다. 틈새에서 연기가 뭉게뭉게 솟아오른다. 마침내 움직임이 멈춘다.",
@@ -88,5 +88,5 @@
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_FAIL_19/col-3": "...(정적)",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_FAIL_20/col-3": "...아아아아, 그렇구나아아.",
   "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_FAIL_21/col-3": "친구들이 핑계를 대며 네게서 슬금슬금 멀어지자, 너는 그런 발진은 없다고 항변한다! 하지만 나중에 확인해 보니, 완전 있었다.",
-  "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_FAIL_22/col-3": "정말 환상적인 발견 방법이네! 너는 -2CHARM과 -1BOLDNESS를 잃는다."
+  "english_camp_events_maingame/fortuneteller/fortuneteller_OUT_2_FAIL_22/col-3": "정말 환상적인 발견 방법이네! 너는 매력 -2와 대담함 -1을 잃는다."
 }

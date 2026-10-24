@@ -14,7 +14,7 @@
   "english_camp_events_maingame/howtostartafire/howtostartafire_PRE_13/col-3": "아니. 안 돼. 캠프가 이미 소송을 너무 많이 당했어. 수업 취소다. 안녕!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_PRE_14/col-3": "잠깐만요, 코치! 돌아와요! 돌로 하는 거랑 막대기로 하는 거 가르쳐 줘요! 낙엽으로도 불을 붙일 수 있나요? 바람은? 다람쥐는? 꼭 알아야 한다고요!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_PRE_15/col-3": "안됐네, 이 순한 맛 살사 한 병아. 코치가 없으면 숲속에서 불을 피우는 비법은 영영 못 배울 거야.",
-  "english_camp_events_maingame/howtostartafire/howtostartafire_PRE_16/col-3": "...물론 %CURRENTPLAYERNAME%가 %HESHE% %VERB_ISN'T_AREN'T% 우리한테 말하지 않은 비법을 알고 있다면 얘기가 다르겠지만...",
+  "english_camp_events_maingame/howtostartafire/howtostartafire_PRE_16/col-3": "...물론 %CURRENTPLAYERNAME%이 %HESHE% %VERB_ISN'T_AREN'T% 우리한테 말하지 않은 비법을 알고 있다면 얘기가 다르겠지만...",
   "english_camp_events_maingame/howtostartafire/howtostartafire_PRE_17/col-3": "데미안과 달리아가 네게 불 피우는 법을 물어보는 날이 올 줄은 꿈에도 몰랐다. 하지만 준비는 되어 있다. 너는 둘에게 이렇게 말한다...",
   "english_camp_events_maingame/howtostartafire/howtostartafire_CHO_1/col-3": "올림픽을 개최하자. 그러면 누군가 성화를 가져다줄 거야.",
   "english_camp_events_maingame/howtostartafire/howtostartafire_CHO_2/col-3": "해고당해. 말 그대로 '파이어드(fired)'가 되는 거지.",
@@ -34,7 +34,7 @@
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_SUC_14/col-3": "기다렸다는 듯 배달원이 상자를 하나 더 꺼낸다. 그 상자에는 불이 붙어 있다.",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_SUC_15/col-3": "우리 계획이 정확히 의도대로 성공했군! 친구들과 함께 전통적인 여름 캠프의 추억을 쌓는 건 정말 최고야!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_SUC_16/col-3": "내 말 들려?! 정말 최고라고!!!!",
-  "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_SUC_17/col-3": "데미안은 아무 말도 듣지 못한다. 불로 온갖 문제를 일으키느라 바쁘기 때문이다. 결국 캠프에서도 참으로 다행스럽게 별로 중요하지 않은 곳에 불을 지르고, 다 함께 마시멜로를 구워 먹는다! +2BOLDNESS와 +1FUN을 얻는다.",
+  "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_SUC_17/col-3": "데미안은 아무 말도 듣지 못한다. 불로 온갖 문제를 일으키느라 바쁘기 때문이다. 결국 캠프에서도 참으로 다행스럽게 별로 중요하지 않은 곳에 불을 지르고, 다 함께 마시멜로를 구워 먹는다! 대담함 +2와 재미 +1을 얻는다.",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_FAIL_1/col-3": "좋아! 난 올림픽이 너무 좋아! 특히 근대 오종이 최고야. 무려 다섯 가지 스포츠가 하나로 합쳐진 유일한 종목이잖아!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_FAIL_2/col-3": "내가 좋아하는 종목은 리듬 방화, 싱크로나이즈드 주먹질, 그리고 하키야!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_FAIL_3/col-3": "그럼 뭘 기다려? 올림픽 조직위원회가 평생 본 적 없는 최고의 유치 신청서를 만들자고!!!",
@@ -50,7 +50,7 @@
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_FAIL_13/col-3": "'불을 피우는 최고의 방법은 올림픽 성화 봉송 주자가 된 다음 성화를 훔쳐 달아나는 거라는 건 누구나 아는 사실이지! 난 천재야!'",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_FAIL_14/col-3": "안 돼! 씨발! 천재는 우리거든! 천재들? 천재 요정들? ...아무튼 우리가 더 똑똑하다고!!!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_FAIL_15/col-3": "'그렇게 똑똑하다면 말이지.' 잡으려 해도 이미 너무 멀리 달아난 성화 주자가 낄낄 웃는다. '왜 수십 년 동안 올림픽 성화 절도 계획을 짠 사람은 너희가 아닌데?!'",
-  "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_FAIL_16/col-3": "반박할 수 없는 말이다. 주자는 근처 숲으로 가서 끝내주는 산불을 일으키지만, 너희 중 누구도 초대받지 못한다. 맥 빠진다. -2FUN과 -1CREATIVITY를 잃는다.",
+  "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_1_FAIL_16/col-3": "반박할 수 없는 말이다. 주자는 근처 숲으로 가서 끝내주는 산불을 일으키지만, 너희 중 누구도 초대받지 못한다. 맥 빠진다. 재미 -2와 창의력 -1을 잃는다.",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_SUC_1/col-3": "해고... 당하라고?",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_SUC_2/col-3": "하지만... 해고당하려면 먼저 취직해야 하잖아! 미친 짓이야! 그렇게 미친놈이 어디 있어!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_SUC_3/col-3": "그런 미친놈이 바로 너다. 너는 말솜씨를 발휘해 숲속 맥도날드에서 여름 아르바이트 자리를 얻고, 숲속 감자튀김을 만들고 맥흙버거 패티를 뒤집는다.",
@@ -66,7 +66,7 @@
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_SUC_13/col-3": "이러니까 내가 너희한테 불 피우는 법을 가르쳐 주기 싫었던 거야!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_SUC_14/col-3": "약 오르지, 코치! 네가 가르쳐 준 건 하나도 없는데 문제는 똑같이 일으켰잖아!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_SUC_15/col-3": "뭐, 오늘 우리 모두 소중한 교훈을 얻은 모양이군!",
-  "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_SUC_16/col-3": "너만 빼고! 넌 맥도날드에 난동을 부리고 자기 몸에 불을 붙였을 뿐이다! 그래도 +2BOLDNESS와 +1CREATIVITY를 얻는다.",
+  "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_SUC_16/col-3": "너만 빼고! 넌 맥도날드에 난동을 부리고 자기 몸에 불을 붙였을 뿐이다! 그래도 대담함 +2와 창의력 +1을 얻는다.",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_FAIL_1/col-3": "해고... 당하라고?",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_FAIL_2/col-3": "하지만... 해고당하려면 먼저 취직해야 하잖아! 그런 미친놈이 어디 있어!",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_FAIL_3/col-3": "위대한 데미안 라베이도 감당 못 할 정도로 미친 일이 있다는 거야?",
@@ -78,5 +78,5 @@
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_FAIL_9/col-3": "모두 가정을 꾸리고 집을 산다. 주택담보대출을 갚으려면 삭막한 사무실에서 갈수록 더 긴 시간을 일해야 한다.",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_FAIL_10/col-3": "어느덧 사십 년이 흘렀다. 너는 인생을 돌아보며 어디서부터 잘못됐는지 고민한다. 세월은 다 어디로 간 거지? 무엇이 널 이 길로 몰아넣었을까?",
   "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_FAIL_11/col-3": "내가 알려 줄게. 동급생을 꼬셔 보겠다고 네가 던진 지랄맞은 말장난 하나를 모두가 너무 진지하게 받아들여서, 이 회차 플레이를 통째로 망친 거야. 참 고맙다.",
-  "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_FAIL_12/col-3": "몬스터들이랑 계속 쪽쪽거려야 하니까, 방금까지의 일은 전부 없던 일로 치자. 하지만 이 고생의 대가로 -2SMARTS와 -1CREATIVITY만큼은 확실히 잃겠어."
+  "english_camp_events_maingame/howtostartafire/howtostartafire_OUT_2_FAIL_12/col-3": "몬스터들이랑 계속 쪽쪽거려야 하니까, 방금까지의 일은 전부 없던 일로 치자. 하지만 이 고생의 대가로 지능 -2와 창의력 -1만큼은 확실히 잃겠어."
 }

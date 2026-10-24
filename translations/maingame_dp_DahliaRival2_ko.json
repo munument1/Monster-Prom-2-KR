@@ -9,8 +9,8 @@
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_8/col-3": "대회 전에 연습 좀 하고 싶었어. 완벽하게 다듬어야 할 게 몇 가지 있거든. 내 메모를 다시 살펴보자.",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_9/col-3": "\"1. 피터 파파야와 싸운다.\"",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_10/col-3": "\"2. 피터 파파야를 쓰러뜨린다. 참고: 쓰러뜨리는 순간 엄청 멋진 승리 대사를 외쳐서 장면을 한층 더 화려하게 만든다.\"",
-  "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_11/col-3": "\"3. 피터 파파야의 내장을 꺼낸다. 참고: 죽은 뒤에 꺼낼까, 살아서 끔찍한 고통을 느낄 때 꺼낼까? %CURRENTPLAYERNAME%와 상의할 것.\"",
-  "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_12/col-3": "\"4. 특기 겸 캐릭터 성장 서사 대회에서 우승한다. 여름을 정복한다. %CURRENTPLAYERNAME%와 하이파이브를 하고, 손바닥이 닿은 채 공중에서 화면을 멈춘다. 끝.\"",
+  "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_11/col-3": "\"3. 피터 파파야의 내장을 꺼낸다. 참고: 죽은 뒤에 꺼낼까, 살아서 끔찍한 고통을 느낄 때 꺼낼까? %CURRENTPLAYERNAME%과 상의할 것.\"",
+  "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_12/col-3": "\"4. 특기 겸 캐릭터 성장 서사 대회에서 우승한다. 여름을 정복한다. %CURRENTPLAYERNAME%과 하이파이브를 하고, 손바닥이 닿은 채 공중에서 화면을 멈춘다. 끝.\"",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_13/col-3": "넌 피터 파파야가 살아 있을 때 내장을 뽑아야 전체 장면의 충격이 더 커질 거라고 조언한다.",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_14/col-3": "좋아, 받아 적을게. '충격 효과...' 완벽해. 고마워.",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_PRE_15/col-3": "또 중요한 게 승리 대사야. 정말 중요하지. 마지막 일격을 더 끝내주게 만들 수도 있고, 완전히 망칠 수도 있거든.",
@@ -80,7 +80,7 @@
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_1_FAIL_12/col-3": "내가 생각이 너무 많나 봐. 그냥 '카우아붕가!'처럼 간단한 걸 외칠까?",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_1_FAIL_13/col-3": "넌 한마디 하고 싶지만, 아무래도 달리아가 널 자기 책사 자리에서 해고한 모양이다.",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_1_FAIL_14/col-3": "넌 변명하려 하지만 달리아가 '카우아붕가!' 하고 소리친다. 마무리 대사로는 별로라고 생각하지만, 이제 떠나라는 신호인 건 알겠다.",
-  "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_1_FAIL_15/col-3": "넌 워낙 빨리 도망치는 바람에 -2FUN과 -1SMARTS를 흘리고 만다.",
+  "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_1_FAIL_15/col-3": "넌 워낙 빨리 도망치는 바람에 재미 -2와 지능 -1을 흘리고 만다.",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_2_SUC_1/col-3": "와, %CURRENTPLAYERNAME%! 넌 내장을 뽑기 전에 외칠 승리 대사를 만드는 데 타고난 재능이 있구나.",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_2_SUC_2/col-3": "정말 그렇다. 넌 대학에 가면 아예 이걸 전공할까 진지하게 고민한다.",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_2_SUC_3/col-3": "좋아, 준비는 끝난 것 같아. 남은 문제는 피터 파파야가 '특기 겸 캐릭터 성장 서사 대회'에서 우리와 최후의 결전을 벌이게 된다는 사실조차 모른다는 거지.",
@@ -138,5 +138,5 @@
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_2_FAIL_14/col-3": "내가 생각이 너무 많나 봐. 그냥 '카우아붕가!'처럼 간단한 걸 외칠까?",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_2_FAIL_15/col-3": "넌 한마디 하고 싶지만, 아무래도 달리아가 널 자기 책사 자리에서 해고한 모양이다.",
   "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_2_FAIL_16/col-3": "넌 변명하려 하지만 달리아가 '카우아붕가!' 하고 소리친다. 마무리 대사로는 별로라고 생각하지만, 이제 떠나라는 신호인 건 알겠다.",
-  "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_2_FAIL_17/col-3": "넌 워낙 빨리 도망치는 바람에 -2FUN과 -1SMARTS를 흘리고 만다."
+  "english_camp_events_maingame/dp_DahliaRival2/dp_DahliaRival2_OUT_2_FAIL_17/col-3": "넌 워낙 빨리 도망치는 바람에 재미 -2와 지능 -1을 흘리고 만다."
 }

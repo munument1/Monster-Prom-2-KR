@@ -39,7 +39,7 @@
   "english_camp_events_maingame/slashercar/slashercar_OUT_1_SUC_15/col-3": "너는 환하게 빛나는 자동차의 헤드라이트를 깊이 응시한다. 지금까지는 네가 주도권을 쥐었지만, 이제 엔진이 포효하고... 그래, 이 차도 네가 자기 안에 들어오길 원하고 있다.",
   "english_camp_events_maingame/slashercar/slashercar_OUT_1_SUC_16/col-3": "네 바이브가 살해당할 준비나 해! 내가... 아, 젠장, 도망치잖아! 다른 놈들 죽이느라 한눈팔지만 않았어도!",
   "english_camp_events_maingame/slashercar/slashercar_OUT_1_SUC_17/col-3": "너희는 살인 미수 현장(그리고 여러 실제 살인 현장)을 벗어나 자동차로 질주한다. 머리카락과 와이파이 안테나가 바람에 휘날린다.",
-  "english_camp_events_maingame/slashercar/slashercar_OUT_1_SUC_18/col-3": "아무도 입을 열지 않는다. 그러면 바이브가 죽으니까. 하지만 모두 네 전희 기술을 직접 경험하면 어떨지 궁금해한다는 걸 알 수 있다! 넌 자동차의 전화번호와 +2FUN, +1BOLDNESS를 얻는다.",
+  "english_camp_events_maingame/slashercar/slashercar_OUT_1_SUC_18/col-3": "아무도 입을 열지 않는다. 그러면 바이브가 죽으니까. 하지만 모두 네 전희 기술을 직접 경험하면 어떨지 궁금해한다는 걸 알 수 있다! 넌 자동차의 전화번호와 재미 +2, 대담함 +1을 얻는다.",
   "english_camp_events_maingame/slashercar/slashercar_OUT_1_FAIL_1/col-3": "뭐라도 해야 해! 빨리, 다들 이 차를 더 심하게 협박하도록 도와줘!",
   "english_camp_events_maingame/slashercar/slashercar_OUT_1_FAIL_2/col-3": "너는 미소 지으며 고개를 젓는다. \"협박으로 해결할 문제는 아니야.\" 너는 친구들에게 말한다. \"이 차의 엔진을 진짜 달아오르게 할 방법을 알거든. 무슨 뜻인지 알지?\"",
   "english_camp_events_maingame/slashercar/slashercar_OUT_1_FAIL_3/col-3": "무슨 뜻인지는 모르겠습니다만, 평소 당신의 행동으로 미루어 성적인 무언가라고 추측됩니다!",
@@ -57,7 +57,7 @@
   "english_camp_events_maingame/slashercar/slashercar_OUT_1_FAIL_15/col-3": "내가 죽이려던 걸 가로채 줘서 고맙다, 재수 없는 놈아.",
   "english_camp_events_maingame/slashercar/slashercar_OUT_1_FAIL_16/col-3": "제리는 시무룩하게 너를 칼로 찌른다. 영 마음이 내키지 않는 눈치다.",
   "english_camp_events_maingame/slashercar/slashercar_OUT_1_FAIL_17/col-3": "으으, 저만큼 멋진 바이브를 다시 가꾸려면 몇 주는 걸릴 텐데. 아보카도가 얼마나 많이 필요할지 몰라.",
-  "english_camp_events_maingame/slashercar/slashercar_OUT_1_FAIL_18/col-3": "다른 친구들도 널 보고 실망한 모양이지만, 넌 네가 무슨 말을 하고 있는지도 알아들을 수 없다. 휘발유를 엄청나게 마셨거든. -2BOLDNESS와 -1CREATIVITY를 잃는다.",
+  "english_camp_events_maingame/slashercar/slashercar_OUT_1_FAIL_18/col-3": "다른 친구들도 널 보고 실망한 모양이지만, 넌 네가 무슨 말을 하고 있는지도 알아들을 수 없다. 휘발유를 엄청나게 마셨거든. 대담함 -2와 창의력 -1을 잃는다.",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_SUC_1/col-3": "그래. 그래! 넌 평생 이 순간만을 기다려 왔다.",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_SUC_2/col-3": "어떻게 할까? 셋을 토템 기둥처럼 어깨에 층층이 태울까? 아니면 오직 이빨과 끓어오르는 엉덩이 욕망의 힘만으로 마차를 끌까?",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_SUC_3/col-3": "아니... 아니야... 역시 고전적인 방법이 제일이지. 아무 말 없이 네발로 엎드린 뒤 셋에게 등에 올라타라고 손짓한다.",
@@ -73,7 +73,7 @@
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_SUC_13/col-3": "저기, 어, %CURRENTPLAYERNAME%, 싫다면 거절해도 되는데... 네 입에 이 재갈 좀 물려도 돼? 우리 아빠들이 캠프에서 특별한 사람을 만나면 쓰라고 챙겨 주셨어.",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_SUC_14/col-3": "저도 입에 넣으실 수 있는 비트가 있습니다. 무슨 뜻인지 아시겠다면 말입니다!",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_SUC_15/col-3": "아, 실례했습니다! 이렇게 흔들리다 보니 제 발정 서브루틴이 작동해 버린 모양입니다!",
-  "english_camp_events_maingame/slashercar/slashercar_OUT_2_SUC_16/col-3": "너도 마찬가지다. 다만 네겐 서브루틴이 아니라 아예 메인 루틴이지. 캠프로 돌아왔을 때쯤 넌 +2BOLDNESS와 +1FUN을 얻는다.",
+  "english_camp_events_maingame/slashercar/slashercar_OUT_2_SUC_16/col-3": "너도 마찬가지다. 다만 네겐 서브루틴이 아니라 아예 메인 루틴이지. 캠프로 돌아왔을 때쯤 넌 대담함 +2와 재미 +1을 얻는다.",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_FAIL_1/col-3": "그래. 그래! 넌 평생 이 순간만을 기다려 왔다.",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_FAIL_2/col-3": "어떻게 할까? 셋을 토템 기둥처럼 어깨에 층층이 태울까? 아니면 오직 이빨과 끓어오르는 엉덩이 욕망의 힘만으로 마차를 끌까?",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_FAIL_3/col-3": "아니... 아니야... 역시 고전적인 방법이 제일이지. 아무 말 없이 네발로 엎드린 뒤 셋에게 등에 올라타라고 손짓한다.",
@@ -93,5 +93,5 @@
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_FAIL_17/col-3": "어머, 정말 실망스럽네. 다른 방법은 없어?",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_FAIL_18/col-3": "사실 제가 진짜 자동차로 변해서 여러분을 태우고 떠날 수 있습니다. 아까도 자원하려 했지만 잘난 체하는 것처럼 보이고 싶지 않았거든요...",
   "english_camp_events_maingame/slashercar/slashercar_OUT_2_FAIL_19/col-3": "캘큘레스터는 빨간 페라리로 변신해 데미안과 마일로를 태우고 떠난다. 너도 소리쳐 부르고 싶지만 자동차다운 행동이 아니니 맡은 역할에 끝까지 충실하기로 한다.",
-  "english_camp_events_maingame/slashercar/slashercar_OUT_2_FAIL_20/col-3": "넌 결국 기어서 자동차 정비소까지 가지만, 그 바가지 씌우는 개자식이 수리비로 -2BOLDNESS와 -1CHARM을 청구한다."
+  "english_camp_events_maingame/slashercar/slashercar_OUT_2_FAIL_20/col-3": "넌 결국 기어서 자동차 정비소까지 가지만, 그 바가지 씌우는 개자식이 수리비로 대담함 -2와 매력 -1을 청구한다."
 }

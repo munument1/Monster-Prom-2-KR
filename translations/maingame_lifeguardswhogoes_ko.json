@@ -42,7 +42,7 @@
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_SUC_17/col-3": "좋아! 자! 두 사람 모두 우려스러울 정도로 똑같이 낮은 점수를 받았네. 그럼 둘 다 아라비를 구하러 가야겠어.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_SUC_18/col-3": "젠장, 완다. 저 친구 말이 맞아. 테스트는 거짓말 안 하잖아. 물론 그 테스트가 사실은 변장한 곰이었던 적도 있지만, 그건 특수한 경우고.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_SUC_19/col-3": "아라아알았어. 빨리 끝내자. 나한테는 엉덩이 깔고 앉아 있을 아주 중요한 일이 남았거든.",
-  "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_SUC_20/col-3": "두 안전요원은 불쾌할 만큼 손쉽게 아라비를 구해 낸다. 이 모든 호들갑이 애초에 필요 없었던 것만 같다! 그래도 너는 +2SMARTS와 +1CREATIVITY를 얻는다.",
+  "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_SUC_20/col-3": "두 안전요원은 불쾌할 만큼 손쉽게 아라비를 구해 낸다. 이 모든 호들갑이 애초에 필요 없었던 것만 같다! 그래도 너는 지능 +2와 창의력 +1을 얻는다.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_FAIL_1/col-3": "넌 이미 '당신은 원주율의 몇 번째 자리 숫자일까요?'와 '고추 테스트(도용 금지)' 같은 전설적인 테스트를 수없이 만든 작가다. 하지만 이번엔 최고의 걸작이 탄생할 거다.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_FAIL_2/col-3": "질문 몇 개를 후다닥 적고, 야릇한 움짤도 몇 장 끼워 넣으니 테스트 완성이다.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_FAIL_3/col-3": "대애애박, 저거 온라인 테스트야?",
@@ -62,7 +62,7 @@
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_FAIL_17/col-3": "자, 구했어. 물을 다시 채우기도 전에 호수 물고기 절반쯤은 죽겠지만. 만족스럽길 바라.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_FAIL_18/col-3": "난 만족해! 보석이 잔뜩 박힌 해골을 찾았거든! 영면 같은 건 좆 까라 그래. 난 부자야!",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_FAIL_19/col-3": "...물론 %CURRENTPLAYERNAME%, 네 덕분은 아니야. 내가 그 물고기 괴물이랑 싸울 때 넌 어디 있었는데? 뭍에서 벌벌 떨며 온라인 테스트나 만들고 있었잖아. 한심해.",
-  "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_FAIL_20/col-3": "조이는 호수에 물을 거의 다 돌려놓지만, 남은 물로 하루 종일 널 따라다니는 비구름을 만든다. 이번 실패로 -2CHARM과 -1FUN을 잃었다는 사실은 온라인 테스트를 하지 않아도 알겠다.",
+  "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_1_FAIL_20/col-3": "조이는 호수에 물을 거의 다 돌려놓지만, 남은 물로 하루 종일 널 따라다니는 비구름을 만든다. 이번 실패로 매력 -2와 재미 -1을 잃었다는 사실은 온라인 테스트를 하지 않아도 알겠다.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_SUC_1/col-3": "야! 그거 완전 끝내주는 생각인데!",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_SUC_2/col-3": "안전요원 학교에선 이런 시합을 절대로 못 하게 했을걸!",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_SUC_3/col-3": "맞아! 무엇보다 우린 안전요원 학교를 다닌 적도 없거든!",
@@ -81,7 +81,7 @@
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_SUC_16/col-3": "...뭐가 비겼다는 건데?",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_SUC_17/col-3": "와, 이건 정말 믿기지 않을 만큼 쓸데없었네.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_SUC_18/col-3": "쓸데없긴! 내 검 끝은 아주 뾰족했거든! 내가 기습 반격을 하면서 그 물고기 인간들을 찔러 버린 검 말이야! 처음부터 이게 내 작전이었다고!",
-  "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_SUC_19/col-3": "아라비는 너무 기쁜 나머지 전리품 일부를 너와 나눈다! 조이도 네가 저 얼간이들을 속여서 제 일을 하게 만든 걸 나름 대단하게 생각한다. 그것도 두 번씩이나. 전부 합하면 +2FUN과 +1BOLDNESS 정도는 받을 만하지 않을까?",
+  "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_SUC_19/col-3": "아라비는 너무 기쁜 나머지 전리품 일부를 너와 나눈다! 조이도 네가 저 얼간이들을 속여서 제 일을 하게 만든 걸 나름 대단하게 생각한다. 그것도 두 번씩이나. 전부 합하면 재미 +2와 대담함 +1 정도는 받을 만하지 않을까?",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_FAIL_1/col-3": "야! 그거 완전 끝내주는 생각인데!",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_FAIL_2/col-3": "그으으래... 그러니까 결국 쟤를 구하게 되는 사람은... 쟤를 구하는 데 제일 형편없는 사람이라는 거네!",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_FAIL_3/col-3": "잠깐... 그거 좀 위험한 거 아냐?",
@@ -100,5 +100,5 @@
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_FAIL_16/col-3": "축하해, %CURRENTPLAYERNAME%. 네가 수중 고문을 경쟁 종목으로 만들어 냈네. 이 일을 네게 맡기면 안 되는 거였는데.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_FAIL_17/col-3": "하아... 보레아스 인벡툼이든 뭐든.",
   "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_FAIL_18/col-3": "조이가 손을 휘두르자 호수 전체가 얼음 괴물로 변해, 아라비와 낄낄거리는 두 안전요원을 해변에 조심스럽게 내려놓는다.",
-  "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_FAIL_19/col-3": "얼음 괴물은 다시 물로 녹아내리기 직전에... 너에게 가운데손가락까지 치켜든다? 싸가지 없기는! 너는 -2CHARM과 -1CREATIVITY를 잃는다."
+  "english_camp_events_maingame/lifeguardswhogoes/lifeguardswhogoes_OUT_2_FAIL_19/col-3": "얼음 괴물은 다시 물로 녹아내리기 직전에... 너에게 가운데손가락까지 치켜든다? 싸가지 없기는! 너는 매력 -2와 창의력 -1을 잃는다."
 }

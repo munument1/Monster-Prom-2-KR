@@ -39,7 +39,7 @@
   "english_camp_events_maingame/gig1/gig1_OUT_1_SUC_16/col-3": "\"이제 정말 홀가분하군. 마음도 가볍고 영혼도... 날아갈 것만 같아! 고맙네, 고마워, 죽음의 천사여! 그리고 쓸모없는 인턴인 자네에게도 감사하네!\"",
   "english_camp_events_maingame/gig1/gig1_OUT_1_SUC_17/col-3": "네가 행복하다니 나도 기뻐, 자기야. 이제 슬슬 출발해야겠어. 바로 다음에 가야 할 다른 일이 있다는 알림이 방금 떴거든.",
   "english_camp_events_maingame/gig1/gig1_OUT_1_SUC_18/col-3": "흠... 죄 없는 캠핑객 네 명으로 이루어진 가족을 천국에 데려다줘야 한대. 사인은 '추락하는 실내 자전거로 인한 두개내출혈'이네. 하! 완전 뜬금없어!",
-  "english_camp_events_maingame/gig1/gig1_OUT_1_SUC_19/col-3": "마일로가 네 인턴 활동을 극찬하는 추천서를 써 준다. 넌 그 편지를 먹어 치우고 +2 CREATIVITY와 +1 BOLDNESS를 얻는다. 존나 좋아.",
+  "english_camp_events_maingame/gig1/gig1_OUT_1_SUC_19/col-3": "마일로가 네 인턴 활동을 극찬하는 추천서를 써 준다. 넌 그 편지를 먹어 치우고 창의력 +2와 대담함 +1을 얻는다. 존나 좋아.",
   "english_camp_events_maingame/gig1/gig1_OUT_1_FAIL_1/col-3": "아, 우리 사랑스러운 인턴 말이 맞아! 이 크고 세련된 실내 자전거만 두고 가면 바로 지옥으로... 아니, 저승으로 출발할 수 있어!",
   "english_camp_events_maingame/gig1/gig1_OUT_1_FAIL_2/col-3": "솔직히 그걸 버리면 속이 시원하지 않겠어? 몸이 없다는 게 얼마나 좋은데. 운동이나 몸 관리에 신경 쓸 필요가 없어! 좋잖아?",
   "english_camp_events_maingame/gig1/gig1_OUT_1_FAIL_3/col-3": "\"흥! 그대들 둘 다 실내 자전거 안장에 제대로 앉아 본 적이 없다는 게 뻔히 보이는군. 이 신성한 기계는 육체의 몸매를 가꾸기 위한 게 아니야. 훨씬 중요한 뜻이 있지.\"",
@@ -52,7 +52,7 @@
   "english_camp_events_maingame/gig1/gig1_OUT_1_FAIL_10/col-3": "\"흥. 역시 네놈은 이해할 수 없겠지. 진정한 라이더의 심장이 없는, 무능하고 가련한 농노 녀석!\"",
   "english_camp_events_maingame/gig1/gig1_OUT_1_FAIL_11/col-3": "맞는 말이야. %CURRENTPLAYERNAME%에겐 시를 알아보는 안목이 전혀 없네... 그건 내 인턴에게 가장 중요한 자질인데 말이지. 넌 해고야, 이 안티야.",
   "english_camp_events_maingame/gig1/gig1_OUT_1_FAIL_12/col-3": "아야. 넌 수치심에 자리를 뜬다. 마일로의 기분을 상하게 했다는 생각에 가슴이 찢어진다. 인턴 경력도 날아갔으니 이력서까지 훨씬 초라해졌다.",
-  "english_camp_events_maingame/gig1/gig1_OUT_1_FAIL_13/col-3": "넌 관점을 넓히려고 실내 자전거 수업에 등록하지만 강사가 지나치게 활기차다. 넌 알레르기 반응을 일으키고 -2 CREATIVITY와 -1 BOLDNESS를 잃는다.",
+  "english_camp_events_maingame/gig1/gig1_OUT_1_FAIL_13/col-3": "넌 관점을 넓히려고 실내 자전거 수업에 등록하지만 강사가 지나치게 활기차다. 넌 알레르기 반응을 일으키고 창의력 -2와 대담함 -1을 잃는다.",
   "english_camp_events_maingame/gig1/gig1_OUT_2_SUC_1/col-3": "아, 우리 사랑스러운 인턴 말이 맞아! 볼링공만 잔뜩 든 이 커다란 여행 가방만 두고 가면 바로 지옥으로... 아니, 저승으로 출발할 수 있어!",
   "english_camp_events_maingame/gig1/gig1_OUT_2_SUC_2/col-3": "\"이런 맙소사! 절대 안 된다! 모르겠나? 내 볼링공들은 그 무엇보다 소중한 보물일세! 귀한 수집품들이라고! 절대 포기할 수 없어.\"",
   "english_camp_events_maingame/gig1/gig1_OUT_2_SUC_3/col-3": "하지만 가져가 봤자 소용없어. 저승에는 볼링장이 없거든. 1608년에 벌어진 '미끄러운 영혼들의 대난교 사건' 이후로 기름칠한 바닥을 전면 금지했어.",
@@ -69,7 +69,7 @@
   "english_camp_events_maingame/gig1/gig1_OUT_2_SUC_14/col-3": "\"이제 정말 홀가분하군. 마음도 가볍고 영혼도... 날아갈 것만 같아! 고맙네, 고마워, 죽음의 천사여! 그리고 쓸모없는 인턴인 자네에게도 감사하네!\"",
   "english_camp_events_maingame/gig1/gig1_OUT_2_SUC_15/col-3": "네가 행복하다니 나도 기뻐, 자기야. 이제 슬슬 출발해야겠어. 바로 다음에 가야 할 다른 일이 있다는 알림이 방금 떴거든.",
   "english_camp_events_maingame/gig1/gig1_OUT_2_SUC_16/col-3": "볼링 리그 전체 선수들을 천국으로 안내해야 한대. 사인은 방화에 이은 '볼링장 건물 붕괴'라네. 하! 완전 뜬금없어!",
-  "english_camp_events_maingame/gig1/gig1_OUT_2_SUC_17/col-3": "마일로가 빛나는 추천서를 써 주고, 사신 실습도 해 보라며 사람 한 명을 직접 죽이게 해 준다. 존나 좋아. 살인의 쾌감에 취한 넌 +2 CREATIVITY와 +1 FUN을 얻는다.",
+  "english_camp_events_maingame/gig1/gig1_OUT_2_SUC_17/col-3": "마일로가 빛나는 추천서를 써 주고, 사신 실습도 해 보라며 사람 한 명을 직접 죽이게 해 준다. 존나 좋아. 살인의 쾌감에 취한 넌 창의력 +2와 재미 +1을 얻는다.",
   "english_camp_events_maingame/gig1/gig1_OUT_2_FAIL_1/col-3": "아, 우리 사랑스러운 인턴 말이 맞아! 볼링공만 잔뜩 든 이 커다란 여행 가방만 두고 가면 바로 지옥으로... 아니, 저승으로 출발할 수 있어!",
   "english_camp_events_maingame/gig1/gig1_OUT_2_FAIL_2/col-3": "\"이런 맙소사! 절대 안 된다! 모르겠나? 내 볼링공들은 그 무엇보다 소중한 보물일세! 귀한 수집품들이라고! 절대 포기할 수 없어.\"",
   "english_camp_events_maingame/gig1/gig1_OUT_2_FAIL_3/col-3": "하지만 가져가 봤자 소용없어. 저승에는 볼링장이 없거든. 1608년에 벌어진 '미끄러운 영혼들의 대난교 사건' 이후로 기름칠한 바닥을 전면 금지했어.",
@@ -88,5 +88,5 @@
   "english_camp_events_maingame/gig1/gig1_OUT_2_FAIL_16/col-3": "\"흥. 고급 예술을 대하는 천민들의 태도에는 익숙하네. 참된 안목을 갖춘 귀족만이 이 볼링공들의 위대함을 알아볼 수 있는 법이지.\"",
   "english_camp_events_maingame/gig1/gig1_OUT_2_FAIL_17/col-3": "맞는 말이야. %CURRENTPLAYERNAME%에겐 시를 알아보는 안목이 전혀 없네... 그건 내 인턴에게 가장 중요한 자질인데 말이지. 넌 해고야, 이 안티야.",
   "english_camp_events_maingame/gig1/gig1_OUT_2_FAIL_18/col-3": "아야. 넌 수치심에 자리를 뜬다. 마일로의 기분을 상하게 했다는 생각에 가슴이 찢어진다. 인턴 경력도 날아갔으니 이력서까지 훨씬 초라해졌다.",
-  "english_camp_events_maingame/gig1/gig1_OUT_2_FAIL_19/col-3": "넌 상처받은 마음을 달래려 볼링을 치러 가지만, 울다가 실수로 볼링공을 천장에 던져 버린다. 볼링장이 손해배상으로 -2 CREATIVITY와 -1 FUN을 청구한다."
+  "english_camp_events_maingame/gig1/gig1_OUT_2_FAIL_19/col-3": "넌 상처받은 마음을 달래려 볼링을 치러 가지만, 울다가 실수로 볼링공을 천장에 던져 버린다. 볼링장이 손해배상으로 창의력 -2와 재미 -1을 청구한다."
 }

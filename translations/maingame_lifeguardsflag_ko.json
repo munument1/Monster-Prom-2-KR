@@ -38,7 +38,7 @@
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_SUC_15/col-3": "안녕하십니까! 이렇게 제 색상 팔레트를 임의로 바꾸니 제가 한층 더 '귀여워'졌습니까?",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_SUC_16/col-3": "당연하지, 자기! 저 깃발을 봐서 정말 다행이야. 안 그랬으면 우리 브랜드 이미지가 어떻게 됐을지 생각만 해도 끔찍해!",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_SUC_17/col-3": "예리한 눈을 가진 %CURRENTPLAYERNAME%에게 축복을. 널 보면 내 마음도 백기를 들고 항복하고 싶어져.",
-  "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_SUC_18/col-3": "여기서 깃발을 소재로 기막힌 말장난을 하려 했는데 마일로가 마지막 것까지 다 써 버렸어! 에라, +2BOLDNESS와 +1SMARTS나 받아.",
+  "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_SUC_18/col-3": "여기서 깃발을 소재로 기막힌 말장난을 하려 했는데 마일로가 마지막 것까지 다 써 버렸어! 에라, 대담함 +2와 지능 +1나 받아.",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_FAIL_1/col-3": "이런! 청록색 비상사태라고? 하지만 난 빨간 구급차인데!",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_FAIL_2/col-3": "진정해, 완다. 내가 해결할게. 깃발을 빨갛게 칠하면 빨간색 비상사태가 되겠지.",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_FAIL_3/col-3": "하지만 난 빨갛게 칠한 게 아니라고! 그냥 빨간 수영복을 입었을 뿐이야!",
@@ -56,7 +56,7 @@
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_FAIL_15/col-3": "갈매기 떼가 꽥꽥 울며 샌드위치를 약탈하는 소용돌이처럼 덮쳐 온다. 한 마리는 네 눈까지 문다.",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_FAIL_16/col-3": "사나운 갈매기 떼에게 공격당하다니 실망스럽지만, %CURRENTPLAYERNAME%의 패션 감각에 대한 실망감은 그보다 훨씬 커.",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_FAIL_17/col-3": "저는 갈매기들 때문에 너무 정신이 없어 다른 무엇에도 실망할 여유가 없습니다!",
-  "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_FAIL_18/col-3": "나중에 의무실에서 갈매기에게 입은 상처를 치료받던 넌 구조대 깃발의 색깔은 거의 전부 '이런, 갈매기 습격이다!'라는 뜻이라는 걸 알게 된다. 진작 알았어야지. -2FUN과 -1SMARTS를 잃는다.",
+  "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_1_FAIL_18/col-3": "나중에 의무실에서 갈매기에게 입은 상처를 치료받던 넌 구조대 깃발의 색깔은 거의 전부 '이런, 갈매기 습격이다!'라는 뜻이라는 걸 알게 된다. 진작 알았어야지. 재미 -2와 지능 -1을 잃는다.",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_SUC_1/col-3": "아, 마아아아아자! 바로 그 용도였지!",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_SUC_2/col-3": "이해할 수 없습니다. 어떤 색의 깃발이든 같은 역할을 할 수 있지 않습니까?",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_SUC_3/col-3": "아니지, 로봇 친구. 깃발마다 뜻이 달라. 빨간 깃발 두 개면 '수영 금지', 청록색이면 '주의: 깃대 있음'이라는 뜻이지.",
@@ -73,7 +73,7 @@
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_SUC_14/col-3": "우린 이미 보호받고 있어! 바로 이 깃발한테! 덕분에 깃대에 머리를 안 박거든!",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_SUC_15/col-3": "빛나라, 이 멍청하고 찬란한 다이아몬드들아, 빛나라! 난 아직 햇빛이 남아 우리 몸이 반짝일 때 호수로 들어갈래.",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_SUC_16/col-3": "저는 앞으로 몇 시간 동안 방금 대화에 담긴 비논리성을 분석하느라 고군분투하겠습니다! 제가 가장 즐기는 취미 중 하나니까요!",
-  "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_SUC_17/col-3": "한편 넌 좋아하는 사람과 가까워질 수 있는 일이라면 뭐든 한다. 애초에 자기 개성이라곤 없으니까. 그래도 +2CREATIVITY와 +1FUN은 있네!",
+  "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_SUC_17/col-3": "한편 넌 좋아하는 사람과 가까워질 수 있는 일이라면 뭐든 한다. 애초에 자기 개성이라곤 없으니까. 그래도 창의력 +2와 재미 +1은 있네!",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_FAIL_1/col-3": "아, 마아아아아자! 바로 그 용도였지!",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_FAIL_2/col-3": "이해할 수 없습니다. 어떤 색의 깃발이든 같은 역할을 할 수 있지 않습니까?",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_FAIL_3/col-3": "아니지, 로봇 친구. 깃발마다 뜻이 달라. 빨간 깃발 두 개면 '수영 금지', 청록색이면 '위험: 깃대 주의보'라는 뜻이지.",
@@ -92,5 +92,5 @@
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_FAIL_16/col-3": "이런! 부상을 입으신 모양입니다! 제가 의무실까지 모셔다드리겠습니다!",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_FAIL_17/col-3": "캘큘레스터가 널 다정하게 의무실 텐트까지 데려간다. 넌 텐트 입구의 지퍼를 열려고 몸을 숙이다가 그 빌어먹을 깃대에 또 머리를 박는다!",
   "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_FAIL_18/col-3": "충격에 넌 그대로 기절한다. 꿈속에선 사랑하는 사람과 아름다운 시골 저택에서 함께 살고 있다. 그런데 깃대에 머리를 박는다.",
-  "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_FAIL_19/col-3": "넌 식은땀을 흘리며 깨어난다. 그 망할 깃대는 어디 있지? 경고 깃발이라도 달려 있었으면 좋았을 텐데! 극심한 통증과 피해망상 때문에 -2FUN과 -1BOLDNESS를 잃는다. 그리고 또 깃대에 머리를 박는다."
+  "english_camp_events_maingame/lifeguardsflag/lifeguardsflag_OUT_2_FAIL_19/col-3": "넌 식은땀을 흘리며 깨어난다. 그 망할 깃대는 어디 있지? 경고 깃발이라도 달려 있었으면 좋았을 텐데! 극심한 통증과 피해망상 때문에 재미 -2와 대담함 -1을 잃는다. 그리고 또 깃대에 머리를 박는다."
 }

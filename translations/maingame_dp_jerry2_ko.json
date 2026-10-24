@@ -15,7 +15,7 @@
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_PRE_14/col-3": "\"메뉴에 있는 음식을 종류별로 전부 주문하셨죠. 계산을 부탁드리자 곧 엄청난 부자가 될 테니 외상으로 달아 달라고 하셨어요.\"",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_PRE_15/col-3": "\"머지않아 사람들이 서로 죽이기까지 할 만큼 큰돈을 손에 넣게 될 거라고 하셨습니다. 당연히 믿었죠. 얼마나 멋진 분이었는데요! 손가락 권총까지 쏘셨다니까요!\"",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_PRE_16/col-3": "정말 흥미롭군. 누군가 돈 때문에 조시를 죽였을지도 몰라. 조시가 그 막대한 돈을 어디서 얻으려 했는지 알아내야 해!",
-  "english_camp_events_maingame/dp_jerry2/dp_jerry2_PRE_17/col-3": "나야 모르지. 사람을 죽이는 데는 선수지만 살인사건을 푸는 건 영 꽝이거든. 그래도 %CURRENTPLAYERNAME%는 지금까지 잘해 왔잖아... 넌 어떻게 생각해?",
+  "english_camp_events_maingame/dp_jerry2/dp_jerry2_PRE_17/col-3": "나야 모르지. 사람을 죽이는 데는 선수지만 살인사건을 푸는 건 영 꽝이거든. 그래도 %CURRENTPLAYERNAME%은 지금까지 잘해 왔잖아... 넌 어떻게 생각해?",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_CHO_1/col-3": "거액을 건 경마 도박! 언제나 답은 거액 경마 도박이지.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_CHO_2/col-3": "딱 하나뿐이야. 괴짜 억만장자가 남긴 유언장과 유산!",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_SUC_1/col-3": "뭐? 말도 안 돼! 쿨 조시가 경마에 돈을 걸었다면 왜 나한테 말 도핑 비법을 안 물어봤겠어? 반칙이라면 내가 전문인데!",
@@ -33,7 +33,7 @@
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_SUC_13/col-3": "그렇게 엄청난 도박 빚이 쌓였어. 전부 여기 차용증에 적혀 있지. 그가... 죽기 전에 건네주려고 했는데.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_SUC_14/col-3": "죽기 전에가 아니라 살해당하기 전이지! 그 종이 좀 줘 봐! ... 맙소사, 빚진 액수가 '말 그대로 씨발 돈더미'라고 적혀 있잖아.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_SUC_15/col-3": "그렇군요. 그것만으로 단정할 수는 없지만, 달리아 친구에게 강력한 살인 동기가 있었다는 점은 분명합니다...",
-  "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_SUC_16/col-3": "실제로 그래. 넌 차용증을 증거품으로 챙겼어. 방금 밝혀진 내용을 잘 기억해 뒀길 바라. 사건을 해결할 중요한 단서가 숨어 있을 수 있거든! 수사에 도움이 되도록 +2SMARTS와 +1CREATIVITY를 얻었어.",
+  "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_SUC_16/col-3": "실제로 그래. 넌 차용증을 증거품으로 챙겼어. 방금 밝혀진 내용을 잘 기억해 뒀길 바라. 사건을 해결할 중요한 단서가 숨어 있을 수 있거든! 수사에 도움이 되도록 지능 +2와 창의력 +1을 얻었어.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_FAIL_1/col-3": "아, 씨발! 네 말이 맞을 수도 있겠는데! 쿨 조시는 사람들하고 항상 기상천외한 내기를 했잖아. 그게 끝내주는 삶의 일부였지.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_FAIL_2/col-3": "자, 그럼 가자! 이 헬리콥터를 납치해서 캠프로 돌아가는 거야!",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_FAIL_3/col-3": "넌 아라비의 제안대로 헬리콥터를 납치했어. 카녜이 웨스트는 그 헬리콥터를 계속 따라잡으려고 죽어라 뛰어야 했지. 곧 쿨 조시의 텐트에 도착한 넌 내기 장부를 찾아냈어!",
@@ -51,7 +51,7 @@
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_FAIL_15/col-3": "씨발! 그건 생각 못 했네! 넌 다들 널 멋지게 보길 바라면서 자기가 살인마라고 말해 버렸어.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_FAIL_16/col-3": "살인마가 되는 건 '멋진 일'이 아닙니다, %CURRENTPLAYERNAME% 친구! 진짜 멋진 건 살인마를 체포하는 일이죠!",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_FAIL_17/col-3": "캘큘레스터, 그 말에 개인적으로 상처받았지만 이번에는 네 말이 맞아. 감옥으로 가라, %CURRENTPLAYERNAME%!",
-  "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_FAIL_18/col-3": "경찰에게 끌려가면서 넌 그 내기에서 졌으니 쿨 조시의 유령에게 십 달러를 갚을 방법도 찾아야 한다는 사실을 깨달았어. -2CHARM과 -1SMARTS를 잃었지.",
+  "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_1_FAIL_18/col-3": "경찰에게 끌려가면서 넌 그 내기에서 졌으니 쿨 조시의 유령에게 십 달러를 갚을 방법도 찾아야 한다는 사실을 깨달았어. 매력 -2와 지능 -1을 잃었지.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_SUC_1/col-3": "억만장자의 유언장이라고? 야, 이거 《낸시 드루》 소설이라도 돼? 그렇다면 근사한 미드센추리풍 옷도 주는 거야? 나 멋진 옷 입고 싶다고!",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_SUC_2/col-3": "데미안 말이 맞아. 이 살인사건은 비밀 유언장까지 만들어 내지 않아도 이미 충분히 복잡해.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_SUC_3/col-3": "오해는 마. 유언장은 아직 개발되지 않은 어마어마한 퀘스트 전리품의 원천이지. 하지만 이 사건이랑 무슨 관련인지 모르겠는데.",
@@ -75,7 +75,7 @@
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_SUC_21/col-3": "물론 나는 월터 위스콘신을 사랑했고, 그가 죽으면 말 그대로 전 재산을 물려받을 생각에 기대하기도 했어. 그렇다고 쿨 조시가 그 재산을 얻었다고 원망하진 않아.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_SUC_22/col-3": "조시의 스케이트보드 묘기는 정말 끝내줬거든. 아, 맙소사. 왜 그렇게 빨리 우리 곁을 떠나야 했을까?!",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_SUC_23/col-3": "마일로가 이렇게 격하게 감정을 드러내는 모습은 아무도 본 적 없어. 쿨 조시와 정말 그 정도로 가까웠던 걸까? 아니면 전부 치밀한 연기일까?",
-  "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_SUC_24/col-3": "넌 만약을 대비해 월터 위스콘신의 유언장 사본을 챙겼어. 여기서 오간 말을 잘 기억했길 바라... 이 사건을 푸는 데 도움이 될 수도 있거든! +2CREATIVITY와 +1BOLDNESS를 얻었어.",
+  "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_SUC_24/col-3": "넌 만약을 대비해 월터 위스콘신의 유언장 사본을 챙겼어. 여기서 오간 말을 잘 기억했길 바라... 이 사건을 푸는 데 도움이 될 수도 있거든! 창의력 +2와 대담함 +1을 얻었어.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_FAIL_1/col-3": "그야 당연하지! 쿨 조시의 유언장을 확인하자! 난 빽빽한 법률 문서를 읽는 게 너무 좋아! 지옥이 떠오르거든.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_FAIL_2/col-3": "그래. 쿨 조시는 끝내주는 유행어를 황금으로 바꾸는 방법을 알아낸 뒤로 억만장자였잖아. 유언장에 이름이 올라간 사람이라면 강력한 살인 동기가 있지!",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_FAIL_3/col-3": "자, 그럼 가자! 이 헬리콥터를 납치해서 캠프로 돌아가는 거야!",
@@ -90,5 +90,5 @@
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_FAIL_12/col-3": "뭐라고?! 넌 전혀 몰랐어. 으으, 쿨 조시는 죽어서까지 어쩜 이렇게 멋질 수 있지? 너무 끝내줘서 가슴이 아플 지경이야!",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_FAIL_13/col-3": "... 아니, 잠깐. 그건 네가 살인 용의자가 됐다고 제리가 널 칼로 찌르고 있어서 아픈 거야. 아야.",
   "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_FAIL_14/col-3": "넌 친구들을 둘러보며 누군가 네 편을 들어 주길 바랐어... 하지만 그러고 싶었다면 그동안 친구들이랑 떡칠 생각만 하며 지내지 말았어야지.",
-  "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_FAIL_15/col-3": "넌 체포를 피해 숲으로 도망쳐야 했어. 리애나의 새 싱글이 발표돼 모두가 네 범죄를 완전히 잊어버릴 때까지 숨어 지냈지. 도망자 생활을 하느라 -2FUN과 -1CHARM을 잃었어."
+  "english_camp_events_maingame/dp_jerry2/dp_jerry2_OUT_2_FAIL_15/col-3": "넌 체포를 피해 숲으로 도망쳐야 했어. 리애나의 새 싱글이 발표돼 모두가 네 범죄를 완전히 잊어버릴 때까지 숨어 지냈지. 도망자 생활을 하느라 재미 -2와 매력 -1을 잃었어."
 }

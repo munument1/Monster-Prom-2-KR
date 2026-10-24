@@ -40,7 +40,7 @@
   "english_camp_events_maingame/slashercops/slashercops_OUT_1_SUC_16/col-3": "바로 나지. 안녕, 얘들아! 진작 도망칠 수도 있었지만, 나도 끼고 싶었거든. 알잖아?",
   "english_camp_events_maingame/slashercops/slashercops_OUT_1_SUC_17/col-3": "\"저놈이 범인이군! 수갑 채워, 테드. 우리의 최고급 수사 실력 덕분에 이 개자식을 감옥에 처넣겠어.\"",
   "english_camp_events_maingame/slashercops/slashercops_OUT_1_SUC_18/col-3": "경찰에 대한 내 평가가 더 떨어질 수는 없다고 생각했는데, 인생에는 참 놀라운 일이 많다니까.",
-  "english_camp_events_maingame/slashercops/slashercops_OUT_1_SUC_19/col-3": "저 살인마는 아마 45분쯤 지나면 저 멍청한 경찰들을 따돌리고 도망치겠지만, 어쨌든 네 수사 기여도 덕분에 +2CHARM과 +1BOLDNESS를 얻는다!",
+  "english_camp_events_maingame/slashercops/slashercops_OUT_1_SUC_19/col-3": "저 살인마는 아마 45분쯤 지나면 저 멍청한 경찰들을 따돌리고 도망치겠지만, 어쨌든 네 수사 기여도 덕분에 매력 +2와 대담함 +1을 얻는다!",
   "english_camp_events_maingame/slashercops/slashercops_OUT_1_FAIL_1/col-3": "\"흠.\" 키 큰 경찰이 말한다. \"왜 이걸 살인의 증거라고 생각하는지는 알겠는데...\"",
   "english_camp_events_maingame/slashercops/slashercops_OUT_1_FAIL_2/col-3": "...그런데?",
   "english_camp_events_maingame/slashercops/slashercops_OUT_1_FAIL_3/col-3": "\"살인은 아주 중대한 혐의입니다.\" 다른 경찰이 말한다. \"누군가의 평판을 망쳐서는 안 되죠. 적어도 양측의 이야기는 들어 봐야 하지 않겠어요?\"",
@@ -60,7 +60,7 @@
   "english_camp_events_maingame/slashercops/slashercops_OUT_1_FAIL_17/col-3": "세상에. 경찰을 경찰에 신고할 수는 있을까요? 그러면 경찰이 더 많이 오는 것뿐인가요?",
   "english_camp_events_maingame/slashercops/slashercops_OUT_1_FAIL_18/col-3": "야, 나도 이젠 좀 미안해지는데. 저놈들이 잘못을 깨닫게 하려면 눈앞에서 다른 사람도 한 번 찔러 줘야 하나?",
   "english_camp_events_maingame/slashercops/slashercops_OUT_1_FAIL_19/col-3": "그가 '다른 사람'으로 고른 건 바로 너다! 경찰들이 곧바로 뛰어들 거라 기대했지만, 경찰들은 사유지인 유령 저택에서 사람들이 뭘 하는지 단속하는 건 자기들 일이 아니라고 한다.",
-  "english_camp_events_maingame/slashercops/slashercops_OUT_1_FAIL_20/col-3": "와, 경찰이 멍청하면서 동시에 쓰레기 같을 수도 있다니! 값진 교훈을 얻었지만 -2FUN과 -1CHARM을 잃는다.",
+  "english_camp_events_maingame/slashercops/slashercops_OUT_1_FAIL_20/col-3": "와, 경찰이 멍청하면서 동시에 쓰레기 같을 수도 있다니! 값진 교훈을 얻었지만 재미 -2와 매력 -1을 잃는다.",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_1/col-3": "%CURRENTPLAYERNAME% 친구님의 말씀이 맞습니다! 우리의 사랑하는 존 도 친구님의 자서전이 방금 아마존에 출간되었군요! 즉시 전자책을 내려받겠습니다.",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_2/col-3": "캘큘레스터는 조니의 자서전을 내려받아 엉덩이에서 마지막 장을 출력한다. 다 함께 읽기 위해서다.",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_3/col-3": "오, 여신님 맙소사. 너무 감동적이잖아. 자서전을 보니까 조니는 마지막 순간까지 가장 사랑하는 친구들인 우리를 생각했대.",
@@ -71,7 +71,7 @@
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_8/col-3": "%CURRENTPLAYERNAME% 친구님에 대한 내용도 특히 길게 적혀 있습니다. 우주 방위대에서 함께 보낸 시간이 정말 깊은 인상을 남긴 모양입니다!",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_9/col-3": "넌 참지 못하고 슬쩍 들여다본다. 너에 관한 최고의 부분은 끝부분에 나온다. 그쯤 되면 출혈이 심해져 존의 정신이 흐릿해졌거든...",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_10/col-3": "\"...그리고 가장 떡 치고 싶은 내 친구 %CURRENTPLAYERNAME%... 여자 친구와 프렌치 키스를 하느라 시간을 너무 많이 보내서... 결국 %HIMHER%와는... 진하게 키스할... 기회를... 놓친 게 유일한 후회야.\"",
-  "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_11/col-3": "와... 내가 칼로 여러 번 찔러 죽여 가고 있었는데도... 녀석은 마지막 순간까지 %CURRENTPLAYERNAME%와 진하게 키스하고 싶은 욕망만 생각했다고.",
+  "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_11/col-3": "와... 내가 칼로 여러 번 찔러 죽여 가고 있었는데도... 녀석은 마지막 순간까지 %CURRENTPLAYERNAME%과 진하게 키스하고 싶은 욕망만 생각했다고.",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_12/col-3": "너무 감동적이야... 지금은 칼로 누구를 찌르고 싶지도 않네.",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_13/col-3": "\"그럼 널 감옥에 넣기가 훨씬 쉬워지겠군, 이 쓰레기야!\" 키 큰 경찰이 수갑을 꺼내며 말한다. \"이제 서명된 목격자 진술도 있으니 사건은 완벽하게 해결됐어.\"",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_14/col-3": "아, 젠장. 체포되는 거 정말 싫은데. 최소한 사람 찌르는 데 쓰던 칼은 가져가도 돼?",
@@ -80,7 +80,7 @@
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_17/col-3": "훌륭한 솜씨였습니다, %CURRENTPLAYERNAME% 친구님! 역시 지식이 곧 힘이군요!",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_18/col-3": "그런데 다시 생각해 보니... 사실 저도 가장 떡 치고 싶은 친구가 바로 당신일지도 모르겠네요...",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_19/col-3": "모두들 네게 키스하면 어떤 기분일지 더 오래 상상해 보기로 한다. 조니의 마지막 말을 무시하는 건 예의가 아니니까.",
-  "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_20/col-3": "죽어서까지 최고의 연애 조력자 노릇을 하는구나. +2CHARM과 +1FUN을 얻는다.",
+  "english_camp_events_maingame/slashercops/slashercops_OUT_2_SUC_20/col-3": "죽어서까지 최고의 연애 조력자 노릇을 하는구나. 매력 +2와 재미 +1을 얻는다.",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_FAIL_1/col-3": "%CURRENTPLAYERNAME% 친구님의 말씀이 맞습니다! 우리의 사랑하는 존 도 친구님의 자서전이 방금 아마존에 출간되었군요! 즉시 전자책을 내려받겠습니다.",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_FAIL_2/col-3": "캘큘레스터는 조니의 자서전을 내려받아 책 전체를 엉덩이에서 출력한다. 다 함께 읽기 위해서다.",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_FAIL_3/col-3": "자서전답게 책은 조니의 어린 시절 이야기로 시작된다. 승부가 걸린 피구 경기 도중 너희 둘이 처음 만났다는 진심 어린 사연에 눈물이 핑 돈다.",
@@ -100,5 +100,5 @@
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_FAIL_17/col-3": "\"봤죠?\" 키 작은 경찰이 말한다. \"이젠 흉기조차 없잖아요! 애들이 경찰 시간을 이렇게 낭비하면 못쓰죠.\"",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_FAIL_18/col-3": "하지만 범죄가 벌어졌잖아요! 저 남자는 범죄자라고요!",
   "english_camp_events_maingame/slashercops/slashercops_OUT_2_FAIL_19/col-3": "\"여기서 유일한 범죄라면,\" 키 큰 경찰이 말한다. \"이 자서전의 후속편을 대체 언제까지 기다려야 할지 모른다는 거지!\"",
-  "english_camp_events_maingame/slashercops/slashercops_OUT_2_FAIL_20/col-3": "경찰들은 죽은 친구의 인생을 야하게 비튼 팬픽 독서 모임에 참여하러 떠난다. 그동안 칼 든 미치광이는 예상대로 널 신나게 찌른다. -2BOLDNESS와 -1FUN을 잃는다."
+  "english_camp_events_maingame/slashercops/slashercops_OUT_2_FAIL_20/col-3": "경찰들은 죽은 친구의 인생을 야하게 비튼 팬픽 독서 모임에 참여하러 떠난다. 그동안 칼 든 미치광이는 예상대로 널 신나게 찌른다. 대담함 -2와 재미 -1을 잃는다."
 }

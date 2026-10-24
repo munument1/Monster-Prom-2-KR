@@ -39,7 +39,7 @@
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_SUC_16/col-3": "'와.' 개인 인터뷰실로 돌아온 이오카스테가 말한다. '에디한테 완전 반했었는데, 걔가 양쪽 눈을 다 찔러 뽑더라고요? 너무 별로예요.'",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_SUC_17/col-3": "다른 출연자들도 동의한다. 오이디푸스는 즉시 투표로 탈락하고, 남은 평생을 수치심과 고독 속에서 고통받으며 살게 된다. 해냈다!",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_SUC_18/col-3": "와, %CURRENTPLAYERNAME%, 우리가 함께라면 재밌는 방송을 만들 줄은 알았지만 이렇게 위대한 '예술'까지 탄생시킬 줄은 몰랐어! 너 최고야!",
-  "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_SUC_19/col-3": "실제로 에디의 왕실 재산에 네가 벌인 법률 장난 덕에 너도 이제 왕처럼 군림하게 됐다! +2CHARM과 +1BOLDNESS를 얻는다.",
+  "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_SUC_19/col-3": "실제로 에디의 왕실 재산에 네가 벌인 법률 장난 덕에 너도 이제 왕처럼 군림하게 됐다! 매력 +2와 대담함 +1을 얻는다.",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_FAIL_1/col-3": "좋아! 난 막장 드라마를 위해 살아! 특히 그 드라마가 비극이라면 더 좋지!",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_FAIL_2/col-3": "누굴 골려 줄까? 오! 알겠다! 오만과 복잡한 혈통 때문에 파멸할 운명인 저 고대 그리스 왕은 어때? 이름이 에디였나 뭐였나?",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_FAIL_3/col-3": "세상에, 딱이야! 에디 렉스(본명 오이디푸스)는 그리스 테베 출신의 23살 군주야. 테베는 파티로 유명한 도시지. 친구도 사귀고 태어날 때부터 따라붙은 불길한 예언도 피해 보려는 게 전부라고!",
@@ -60,7 +60,7 @@
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_FAIL_18/col-3": "'아니, 아니, 아니!' 그가 발을 동동 구르며 외친다. '너무 훈훈하잖아! 이건 씨발 《테라스 하우스》가 아니라고! 누구 탓이야?'",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_FAIL_19/col-3": "헥스를 포함한 모두가 즉시 너를 손가락으로 가리킨다.",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_FAIL_20/col-3": "미안하다, 친구. 첫 회를 넘기려면 나도 동맹에 들어가야 하거든. 희생은 어쩔 수 없어.",
-  "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_FAIL_21/col-3": "가혹하군. 넌 즉시 투표로 탈락하고, 헥스의 목걸이는 귀여운 개한테 걸린다. 질투 때문에 -2FUN과 -1CHARM을 잃는다.",
+  "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_1_FAIL_21/col-3": "가혹하군. 넌 즉시 투표로 탈락하고, 헥스의 목걸이는 귀여운 개한테 걸린다. 질투 때문에 재미 -2와 매력 -1을 잃는다.",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_SUC_1/col-3": "오오, 좋은 생각이야. 가발을 낚아채는 건 유서 깊은 리얼리티 쇼 전통이지. 어디 보자... 누굴 고를까?",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_SUC_2/col-3": "아케나텐은 절대 아니야. 가발치고는 너무 태평하거든. 그 고고학자의 얼굴을 녹인 것도 '그 녹아내린 얼굴의 표정을 보려고' 그랬대! 역시 대단해!",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_SUC_3/col-3": "헤이터바시가 가발일 '수도' 있겠지만, 한꺼번에 그렇게 많은 아이의 영혼을 집어삼키는 가발은 본 적이 없어.",
@@ -79,7 +79,7 @@
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_SUC_16/col-3": "'이 거짓말쟁이 개자식아!' 유령 들린 자동차 매디슨이 소리친다. '내 남자친구 뇌를 조종할 때도 나한테 똑같은 말 했잖아!!!'",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_SUC_17/col-3": "좋아아아! 이런 막장 드라마를 위해 사는 거라고!",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_SUC_18/col-3": "매디슨은 너무 화가 나서 그 쥐의 가발까지 벗겨 버린다! 그 안에는 더 작은 쥐가 있다! 알고 보니 아케나텐의 아버지였다! 이 무슨 반전!",
-  "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_SUC_19/col-3": "줄거리가 너무 걸쭉해져서 넌 머그잔에 따라 마셔 버린다. 덕분에 +2FUN과 +1CREATIVITY를 얻는다.",
+  "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_SUC_19/col-3": "줄거리가 너무 걸쭉해져서 넌 머그잔에 따라 마셔 버린다. 덕분에 재미 +2와 창의력 +1을 얻는다.",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_FAIL_1/col-3": "오오, 좋은 생각이야. 가발을 낚아채는 건 유서 깊은 리얼리티 쇼 전통이지. 어디 보자... 누굴 고를까?",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_FAIL_2/col-3": "아케나텐은 절대 아니야. 가발치고는 너무 태평하거든. 그 고고학자의 얼굴을 녹인 것도 '그 녹아내린 얼굴의 표정을 보려고' 그랬대! 역시 대단해!",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_FAIL_3/col-3": "헤이터바시가 가발일 '수도' 있겠지만, 한꺼번에 그렇게 많은 아이의 영혼을 집어삼키는 가발은 본 적이 없어.",
@@ -100,5 +100,5 @@
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_FAIL_18/col-3": "얘들아, 얘들아. 저 못생긴 무대 뒤 막장극은 잊고 진짜 중요한 일에 집중하자. 바로 무대 '위'의 못생긴 막장극 말이야!",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_FAIL_19/col-3": "하지만 이미 늦었다. 카메라는 제작진을 향해 돌아갔고, 프로그램 제목은 《프로듀서네 가족 따라잡기》로 바뀐다. 출연진은 전원 쫓겨난다.",
   "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_FAIL_20/col-3": "와. 내 평생 바라던 단 하나를 네가 망쳐 버렸네. 가발을 잘못 벗겨 초지능 쥐를 공개해 버리는 바람에 말이야. 진짜 고맙다.",
-  "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_FAIL_21/col-3": "어쩐지 헥스가 진심으로 고마워하는 것 같진 않다! 너는 -2CHARM과 -1CREATIVITY를 잃는다."
+  "english_camp_events_maingame/dp_hex1/dp_hex1_OUT_2_FAIL_21/col-3": "어쩐지 헥스가 진심으로 고마워하는 것 같진 않다! 너는 매력 -2와 창의력 -1을 잃는다."
 }

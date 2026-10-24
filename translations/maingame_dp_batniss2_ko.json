@@ -35,7 +35,7 @@
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_SUC_14/col-3": "비누시아는?",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_SUC_15/col-3": "\"그래, 새끼 동물 좀 먹으면 좋겠네.\" 비누시아가 수많은 끔찍한 입 중 하나로 말한다.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_SUC_16/col-3": "뭐... 주어진 병력으로 전쟁을 치를 수밖에 없겠지. %CURRENTPLAYERNAME%, 이 동맹을 결성하는 데 도와줘서 고마워.",
-  "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_SUC_17/col-3": "동맹? 넌 그저 동물 체험 농장에 가게 됐다는 생각에 신이 났을 뿐이다! +2FUN과 +1SMARTS를 얻는다.",
+  "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_SUC_17/col-3": "동맹? 넌 그저 동물 체험 농장에 가게 됐다는 생각에 신이 났을 뿐이다! 재미 +2와 지능 +1을 얻는다.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_FAIL_1/col-3": "\"하!\" 거친 터프가이가 오만하게 코웃음을 친다. \"이 빅딕 론울프에게 네놈들의 한심한 '단체 할인' 따위는 필요 없다.\"",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_FAIL_2/col-3": "진심이야? 단체 스카이다이빙이나 도예 수업, 동물 체험 농장 같은 끝내주는 활동을 싸게 즐기는 게 싫다고?",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_FAIL_3/col-3": "\"아니, 그런 건 전부 좋아하지.\" 론울프가 말한다. \"특히 동물 체험 농장! 하지만 난 나만의 할인 혜택이 있거든... 바로 '외톨이 할인'이지.\"",
@@ -54,7 +54,7 @@
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_FAIL_16/col-3": "\"전 그 정도면 충분해요, 멋진 분.\" 프랭크 N. 퍼터가 말하며 론울프와 비누시아를 따라 동굴 밖으로 나간다. 배트니스는 분통을 터뜨린다.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_FAIL_17/col-3": "으르르릉! 전부 네 탓이야, %CURRENTPLAYERNAME%! 여기 남아서 책임을 뒤집어쓸 사람이 너밖에 없기도 하고!",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_FAIL_18/col-3": "생각해 보니 너한테 이 '다섯 명용 누드 마사지 이용권'을 써 버릴 뻔했잖아. 상상만 해도 끔찍해!",
-  "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_FAIL_19/col-3": "넌 두 명이서라도 누드 마사지를 받으면 어떻겠냐고 제안하지만, 배트니스는 너한테 화살을 쏘는 데 더 관심이 있어 보인다. -2FUN과 -1CHARM을 잃는다.",
+  "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_1_FAIL_19/col-3": "넌 두 명이서라도 누드 마사지를 받으면 어떻겠냐고 제안하지만, 배트니스는 너한테 화살을 쏘는 데 더 관심이 있어 보인다. 재미 -2와 매력 -1을 잃는다.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_SUC_1/col-3": "에이, 그 정도 말엔 꿈쩍도 안 할걸. 저 사람은 유해한 남성성의 화신인 터프가이라고! 냄새 따위로는...",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_SUC_2/col-3": "\"뭐라고 했어?!\" 빅딕 론울프가 고함을 지른다. 그 분노에 지하 동굴이 무너질 지경이다.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_SUC_3/col-3": "\"알아 둬라. 난 화약과 곱게 간 전갈을 섞어 만든 특허 향수를 쓴다고!\" 그가 으르렁거린다.",
@@ -65,7 +65,7 @@
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_SUC_8/col-3": "그건 나중에 하고. 우선... 그 얼굴 팩 만드는 법 좀 알려 줄래? 듣기만 해도 피부에 활력이 도는 것 같거든.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_SUC_9/col-3": "\"혁명 동지를 돕는 일이라면 언제든 환영이지.\" 론울프가 씨익 웃는다. \"...동지여.\"",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_SUC_10/col-3": "너희 다섯은 이후 몇 시간 동안 날계란에 욕을 퍼붓고 그것을 얼굴에 펴 바르며 시간을 보낸다. 진짜 활력이 솟아나는군!",
-  "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_SUC_11/col-3": "모든 일이 끝나자 넌 더 강하고 거칠어진 기분인데... 이상할 만큼 극진한 관리를 받은 것 같기도 하다. +2BOLDNESS와 +1CHARM을 얻는다.",
+  "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_SUC_11/col-3": "모든 일이 끝나자 넌 더 강하고 거칠어진 기분인데... 이상할 만큼 극진한 관리를 받은 것 같기도 하다. 대담함 +2와 매력 +1을 얻는다.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_SUC_12/col-3": "덕분에 오늘 강력한 동맹을 얻었어, %CURRENTPLAYERNAME%. 혁명은 곧 이어서 진행하자... 빅딕한테 저 향수 만드는 법을 배운 다음에 말이야.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_FAIL_1/col-3": "이런 미친 천재 같으니! 저 심리 공격을 받고도 론울프가 버틸 수 있을 리 없어!",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_FAIL_2/col-3": "\"하!\" 론울프가 웃는다. \"하! 하하하! 냄새난다고? 하!\"",
@@ -83,5 +83,5 @@
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_FAIL_14/col-3": "'급진적 사랑의 오각관계'라는 말에 넌 냄새에 취한 상태에서 번쩍 정신을 차린다. 하지만 이미 늦었다. 배트니스는 떠나 버렸다.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_FAIL_15/col-3": "넌 프랭크에게 너도 같이 키스 좀 나눠 주면 안 되겠냐고 묻는다. 하지만 대답하기도 전에 빅딕 론울프가 주먹 한 방으로 널 기절시킨다.",
   "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_FAIL_16/col-3": "\"미안하군.\" 의식을 잃어 가는 네게 그가 말한다. \"이번 장면에선 아직 아무도 때리지 않았는데, 그게 내 캐릭터 콘셉트거든. 나중에 봐!\"",
-  "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_FAIL_17/col-3": "정신을 차리고 보니 넌 지하 구덩이에 홀로 누워 있다. 이런 짓은 이제 좀 그만해야지! -2SMARTS와 -1FUN을 잃는다."
+  "english_camp_events_maingame/dp_batniss2/dp_batniss2_OUT_2_FAIL_17/col-3": "정신을 차리고 보니 넌 지하 구덩이에 홀로 누워 있다. 이런 짓은 이제 좀 그만해야지! 지능 -2와 재미 -1을 잃는다."
 }

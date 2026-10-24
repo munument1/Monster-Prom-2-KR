@@ -39,7 +39,7 @@
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_SUC_16/col-3": "하지만 솔직히 여긴 스푸키 캠프잖아. 그 사람들은 어차피 오래 못 살 운명이었을 거야. 친구가 돌아와 줘서 기쁠 뿐이지.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_SUC_17/col-3": "동감입니다! 너무 기뻐서 노래까지 작곡했어요! 제목은 《친구 돌아왔네 스콧이 결국 그에게 바치는 송가》입니다.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_SUC_18/col-3": "캘큘레스터의 노래는 완전히 쓰레기 같아. 음악 알고리즘을 형편없이 학습시킨 모양이야.",
-  "english_camp_events_maingame/dewolf/dewolf_OUT_1_SUC_19/col-3": "그래도 덕분에 너와 조이, 스콧이 캘큘레스터와 함께 앉아 좋은 음악을 들려주며 제대로 된 음악이 어떤 건지 가르쳐 줄 명분이 생겼어. 넌 +2CREATIVITY와 +1FUN을 얻어.",
+  "english_camp_events_maingame/dewolf/dewolf_OUT_1_SUC_19/col-3": "그래도 덕분에 너와 조이, 스콧이 캘큘레스터와 함께 앉아 좋은 음악을 들려주며 제대로 된 음악이 어떤 건지 가르쳐 줄 명분이 생겼어. 넌 창의력 +2와 재미 +1을 얻어.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_1/col-3": "이건 자신 있어. 넌 '스콧 간식' 한 봉지(실은 폭약만 빼낸 다이너마이트 막대)를 꺼내 훈련을 시작해.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_2/col-3": "와! 늑대인간 스콧은 스콧 간식이라면 뭐든 하네! 얌전히 앉고, 악수도 하고, 자기 자지를 핥지도 않잖아!",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_3/col-3": "그런 건 기본적인 묘기죠. 이제 %CURRENTPLAYERNAME%께서 가장 중요한 묘기를 어떻게 해내시는지 보시죠...",
@@ -50,7 +50,7 @@
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_8/col-3": "자, 그럼 누가 침대에서 아침 식사 대접받고 싶어?",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_9/col-3": "이런 세상에. 이 '채즈'라는 분은 확실히 근육질이고, 섹시하고, 요리까지 할 줄 압니다만... 스콧 씨는 대체 어떻게 된 걸까요?",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_10/col-3": "늑대 스콧이 어쩌다... 다른 섹시한 근육남으로 변한 것 같아. 이런 일이 가능한지도 몰랐지만, %CURRENTPLAYERNAME%의 제안은 늘 상상을 초월하는 황당한 결과를 낳으니 놀랄 것도 없겠네.",
-  "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_11/col-3": "얘들아, 실망한 건 알겠는데, %CURRENTPLAYERNAME%가 나한테 묘기를 시켜서 난 그냥 좋은 친구가 되려고 했던 거야!",
+  "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_11/col-3": "얘들아, 실망한 건 알겠는데, %CURRENTPLAYERNAME%이 나한테 묘기를 시켜서 난 그냥 좋은 친구가 되려고 했던 거야!",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_12/col-3": "사실 저 말은 꼭 스콧이 할 법한 말이야. 채즈는 그냥 '브로' 대신 '친구'라고 부르는 것뿐인 것 같기도 해. 어쩌면 스콧의 영혼이 아직 저 안 어딘가에 남아 있을지도...",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_13/col-3": "어, 내가 뭘 잘못했어? 미안해. 그만할게.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_14/col-3": "아니요! 아니에요! 채즈 씨, 지금 그 감정을 놓지 마세요! 어쩌면 그 감정이 예전의 자신으로... 돌아가는 길을 알려 줄지도 모릅니다!",
@@ -63,7 +63,7 @@
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_21/col-3": "아아아! 너희가 내 친구들이구나! 이랴호!",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_22/col-3": "조이와 캘큘레스터는 채즈와 함께 떠나.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_23/col-3": "그 뒤 며칠 동안 모두는 스콧을 잃은 슬픔을 애도하는 동시에, 아무 잘못도 없고 결국 좋은 녀석인 채즈를 받아들이려 애쓰게 될 거야.",
-  "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_24/col-3": "사실 이 모든 일의 진짜 원흉은 너고, 다들 그걸 알고 있어. 그래서 넌 -3FUN과 -1SCOTT을 잃어.",
+  "english_camp_events_maingame/dewolf/dewolf_OUT_1_FAIL_24/col-3": "사실 이 모든 일의 진짜 원흉은 너고, 다들 그걸 알고 있어. 그래서 넌 재미 -3과 -1SCOTT을 잃어.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_SUC_1/col-3": "훌륭한 계획입니다, %CURRENTPLAYERNAME%! 영으로 나눠 보라고 해 보세요. 저한텐 언제나 효과가 있거든요!",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_SUC_2/col-3": "아니면 있잖아, 내가 마법으로 늑대인간을 되돌리는 주문을 걸 수도 있는데. 나한테 그런 능력이 있거든...",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_SUC_3/col-3": "절대 안 되지! 그러면 네가 멋지고 매력적으로 보일 기회가 없잖아! 너한텐 훨씬 좋은 계획이 있어.",
@@ -79,7 +79,7 @@
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_SUC_13/col-3": "그건 틀렸습니다, 집에서 보고 계신 시청자 여러분! 이기든 지든 불법 도박은 언제나 실수니까요!",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_SUC_14/col-3": "그렇단다, 얘들아! 도박은 나쁜 짓이야! 이 말에 돈 걸어도 좋아.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_SUC_15/col-3": "미국 반도박 협의회의 지원을 받아 제작되었습니다.",
-  "english_camp_events_maingame/dewolf/dewolf_OUT_2_SUC_16/col-3": "와, 친구들이 반도박 공익 광고를 찍을 땐 은근 섹시하네! 넌 +2FUN과 +1CHARM을 얻어.",
+  "english_camp_events_maingame/dewolf/dewolf_OUT_2_SUC_16/col-3": "와, 친구들이 반도박 공익 광고를 찍을 땐 은근 섹시하네! 넌 재미 +2와 매력 +1을 얻어.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_FAIL_1/col-3": "훌륭한 계획입니다, %CURRENTPLAYERNAME%! 영으로 나눠 보라고 해 보세요. 저한텐 언제나 효과가 있거든요!",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_FAIL_2/col-3": "아니면 있잖아, 내가 마법으로 늑대인간을 되돌리는 주문을 걸 수도 있는데. 나한테 그런 능력이 있거든...",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_FAIL_3/col-3": "절대 안 되지! 그러면 네가 멋지고 매력적으로 보일 기회가 없잖아! 너한텐 훨씬 좋은 계획이 있어.",
@@ -101,5 +101,5 @@
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_FAIL_19/col-3": "가자, 캘. 이런 상황에 쓸 주문은 나도 없어. 옛날 방식으로 해결해야겠어. 스콧을 %CURRENTPLAYERNAME%의 타락한 영향력에서 아주아주 멀리 떼어 놓는 거지.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_FAIL_20/col-3": "동의합니다. 세상에는 늑대인간보다 더 파괴적인 것이 한 가지 있는 모양입니다. 바로 또래 압력이죠.",
   "english_camp_events_maingame/dewolf/dewolf_OUT_2_FAIL_21/col-3": "안녕히 계세요, %CURRENTPLAYERNAME%! 앞으로 스콧 씨에게서, 가능하면 저희에게서도 영원히 멀리 떨어져 계셔 주세요!",
-  "english_camp_events_maingame/dewolf/dewolf_OUT_2_FAIL_22/col-3": "아니, 누가 요즘엔 친구들 따라 나쁜 짓 하는 게 멋없다는 걸 알려 줬어야지?! 넌 -2CHARM과 -1CREATIVITY를 잃어."
+  "english_camp_events_maingame/dewolf/dewolf_OUT_2_FAIL_22/col-3": "아니, 누가 요즘엔 친구들 따라 나쁜 짓 하는 게 멋없다는 걸 알려 줬어야지?! 넌 매력 -2와 창의력 -1을 잃어."
 }

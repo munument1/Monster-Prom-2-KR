@@ -39,7 +39,7 @@
   "english_camp_events_maingame/ceoj/ceoj_OUT_1_SUC_19/col-3": "제길! 이번엔 너희가 이겼다, 혈기왕성한 캠프 꼬맹이들아... 하지만 이 장난꾸러기 손과 화해하고 돌아올 테다. 듣고 있냐? 반드시 돌아온다고!",
   "english_camp_events_maingame/ceoj/ceoj_OUT_1_SUC_20/col-3": "와, 기대 이상으로 잘됐네! %CURRENTPLAYERNAME%, 넌 타고난 마법사야.",
   "english_camp_events_maingame/ceoj/ceoj_OUT_1_SUC_21/col-3": "세계 경제 전체를 저딴 개 같은 손이 조종한다니 조금 섬뜩하긴 하지만, 뭐 애초에 내가 자본주의를 좋아한 것도 아니잖아!",
-  "english_camp_events_maingame/ceoj/ceoj_OUT_1_SUC_22/col-3": "너도 마찬가지다. 네가 사랑하는 건 눈앞에 서 있는 급진적인 마녀뿐이다. +2CHARM과 +1FUN을 얻는다.",
+  "english_camp_events_maingame/ceoj/ceoj_OUT_1_SUC_22/col-3": "너도 마찬가지다. 네가 사랑하는 건 눈앞에 서 있는 급진적인 마녀뿐이다. 매력 +2와 재미 +1을 얻는다.",
   "english_camp_events_maingame/ceoj/ceoj_OUT_1_FAIL_1/col-3": "흠, 맞아. 그 주문은 나도 봤어. 그런데 1,000주나 되는 포춘 500 기업 주식을 어디서 구해?",
   "english_camp_events_maingame/ceoj/ceoj_OUT_1_FAIL_2/col-3": "에이, 네가 가진 주식이라면 뭐든 대신 써도 되겠지. 빵 구울 때 버터 대신 마가린을 넣는 것처럼 말이야.",
   "english_camp_events_maingame/ceoj/ceoj_OUT_1_FAIL_3/col-3": "으웩, 너 마가린을 써? 그거 플라스틱이랑 개 방귀로 만든다는 거 몰라? 아무래도 좀...",
@@ -58,7 +58,7 @@
   "english_camp_events_maingame/ceoj/ceoj_OUT_1_FAIL_16/col-3": "사인 좀 받아도 될까요? 아, 맞다. 거대한 좆이라 손이 없으시죠. 정말 죄송합니다!",
   "english_camp_events_maingame/ceoj/ceoj_OUT_1_FAIL_17/col-3": "이러면 이야기가 달라지지. 쇼핑몰 건설 계획은 전부 취소다... 귀하신 시장의 좆 님이 다른 곳으로 옮기실 때까지는.",
   "english_camp_events_maingame/ceoj/ceoj_OUT_1_FAIL_18/col-3": "이번엔 네가 이겼다, %CURRENTPLAYERNAME%. 그 시장 좆과 함께하는 시간을 마음껏 즐기도록 해!",
-  "english_camp_events_maingame/ceoj/ceoj_OUT_1_FAIL_19/col-3": "그의 조언과 달리, 너는 시장 좆과 보내는 시간을 조금도 즐기지 못한다. 거대한 초록색 좆이 사방팔방 따라다니는 사람과는 아무도 어울리고 싶어 하지 않기 때문이다. 너는 -2CHARM과 -1BOLDNESS를 잃는다.",
+  "english_camp_events_maingame/ceoj/ceoj_OUT_1_FAIL_19/col-3": "그의 조언과 달리, 너는 시장 좆과 보내는 시간을 조금도 즐기지 못한다. 거대한 초록색 좆이 사방팔방 따라다니는 사람과는 아무도 어울리고 싶어 하지 않기 때문이다. 너는 매력 -2와 대담함 -1을 잃는다.",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_SUC_1/col-3": "물론이지! '감옥으로 가시오' 카드는 정말 강력한 유물이야!",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_SUC_2/col-3": "파커 형제단이 처음으로 널리 보급한 이래, 독점을 타파하기 위한 투쟁에서 강력한 무기로 쓰였지!",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_SUC_3/col-3": "필요한 건 적절한 재료뿐이야. 어디 보자... 종이 카드 재료, 새까만 잉크, 그리고 둘을 하나로 묶어 줄 프린터. 그래, 이거면 될 것 같아!",
@@ -75,7 +75,7 @@
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_SUC_14/col-3": "와, %CURRENTPLAYERNAME%. 그 유물이 강력하다는 건 알았지만, 네가 카드를 던지던 모습은... 그 신비로운 열정과 반자본주의 투지라니...",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_SUC_15/col-3": "솔직히 좀 섹시했어. 앞으로 더 자주 같이 놀자, 응?",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_SUC_16/col-3": "그 교활한 CEO는 불과 네 시간 만에 감옥을 탈출하지만(주사위 두 개에 같은 눈이 나오자마자), 네가 조이에게 얻은 호감은 평생 남을 것이다.",
-  "english_camp_events_maingame/ceoj/ceoj_OUT_2_SUC_17/col-3": "...네가 또 존나 멍청한 짓만 안 한다면 말이지. 뭐, 그럴 확률이 얼마나 되겠어? 너는 +2SMARTS와 +1CHARM을 얻는다.",
+  "english_camp_events_maingame/ceoj/ceoj_OUT_2_SUC_17/col-3": "...네가 또 존나 멍청한 짓만 안 한다면 말이지. 뭐, 그럴 확률이 얼마나 되겠어? 너는 지능 +2와 매력 +1을 얻는다.",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_FAIL_1/col-3": "물론이지! '감옥으로 가시오' 카드는 정말 강력한 유물이야!",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_FAIL_2/col-3": "파커 형제단이 처음으로 널리 보급한 이래, 독점을 타파하기 위한 투쟁에서 강력한 무기로 쓰였지!",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_FAIL_3/col-3": "필요한 건 적절한 재료뿐이야. 어디 보자... 종이 카드 재료, 새까만 잉크, 그리고 둘을 하나로 묶어 줄 프린터. 그래, 이거면 될 것 같아!",
@@ -93,5 +93,5 @@
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_FAIL_15/col-3": "...종이 카드 한 장으로 나를 감옥에 처넣겠다는 건 그보다 덜 멍청한가?",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_FAIL_16/col-3": "아... 그렇진 않네요. %CURRENTPLAYERNAME%의 멍청한 열정에 그만 휩쓸렸나 봐요. 두 번 다시는 안 그럴 거예요.",
   "english_camp_events_maingame/ceoj/ceoj_OUT_2_FAIL_17/col-3": "조이는 패배를 인정하고 떠난다. 그 와중에 모노폴리 규칙에 따르면, 너는 CEO 소유의 땅에서 턴을 마쳤으므로 그에게 백 달러를 내야 한다!",
-  "english_camp_events_maingame/ceoj/ceoj_OUT_2_FAIL_18/col-3": "CEO는 이 땅에 호텔을 지을지 고민하러 잠시 자리를 뜨지만, 그걸로 위로가 될 리 없다. 너는 -2BOLDNESS와 -1CHARM을 잃는다."
+  "english_camp_events_maingame/ceoj/ceoj_OUT_2_FAIL_18/col-3": "CEO는 이 땅에 호텔을 지을지 고민하러 잠시 자리를 뜨지만, 그걸로 위로가 될 리 없다. 너는 대담함 -2와 매력 -1을 잃는다."
 }

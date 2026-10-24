@@ -53,7 +53,7 @@
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_SUC_17/col-3": "야호!",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_SUC_18/col-3": "있잖아, %CURRENTPLAYERNAME%... 과거의 조이가 자기소개에서 한 가지를 빼먹었어.",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_SUC_19/col-3": "네가 얼마나 멋지고 매력적인지 말이야.",
-  "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_SUC_20/col-3": "과거의 조이라면 절대 너에 대해 그런 생각을 하거나 그런 말을 하지 않았을 것 같지만, 넌 그저 웃으며 고개를 끄덕인다. 결국 주문은 풀리지만, 조이의 애정은 그대로 남는다! +2CHARM과 +1SMARTS를 얻는다!",
+  "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_SUC_20/col-3": "과거의 조이라면 절대 너에 대해 그런 생각을 하거나 그런 말을 하지 않았을 것 같지만, 넌 그저 웃으며 고개를 끄덕인다. 결국 주문은 풀리지만, 조이의 애정은 그대로 남는다! 매력 +2와 지능 +1을 얻는다!",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_FAIL_1/col-3": "좋아, 기억은 전부 잃었지만 평생의 기억이 주머니에 다 들어갈 수 없다는 것쯤은 알거든. 특히 여자 바지 주머니라면 더더욱.",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_FAIL_2/col-3": "...하지만 지푸라기라도 잡아야지. 어디 보자...",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_FAIL_3/col-3": "어! 진짜 종잇조각이 하나 있네. 여기 뭐라고 쓰였냐면...",
@@ -67,7 +67,7 @@
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_FAIL_11/col-3": "푸하하하하... 낚였다!",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_FAIL_12/col-3": "네가 '잃어버린 기억은 주머니를 확인해 봐' 같은 멍청한 헛소리를 할 줄 알았지. 넌 뭐만 잃어버리면 주머니부터 뒤지라고 하잖아.",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_FAIL_13/col-3": "그래서 주문을 쓰기 전에 그 종이를 조이 주머니에 넣어 뒀지! 제대로 우리 손바닥 위에서 놀아났네, 호구사우루스 렉스! 장난의 달인들, 출동이다아아!",
-  "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_FAIL_14/col-3": "폴리는 벽을 통과해 둥둥 떠나간다. 스콧도 그 벽을 그대로 통과해 뒤따라간다. 조이는 처음부터 자신의 정체성을 완벽하게 재구성하지만, 그 모든 걸 떠받치는 단 하나의 기둥은 바로 네가 존나 구리다는 사실이다. 너는 -2CHARM과 -1SMARTS를 잃는다.",
+  "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_1_FAIL_14/col-3": "폴리는 벽을 통과해 둥둥 떠나간다. 스콧도 그 벽을 그대로 통과해 뒤따라간다. 조이는 처음부터 자신의 정체성을 완벽하게 재구성하지만, 그 모든 걸 떠받치는 단 하나의 기둥은 바로 네가 존나 구리다는 사실이다. 너는 매력 -2와 지능 -1을 잃는다.",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_SUC_1/col-3": "다행히 조이가 일기를 어디에 보관하는지 정확히 알고 있다! 물론 전혀 소름 끼치지 않는 이유에서다! 너는 달려가서 일기를 가져온다.",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_SUC_2/col-3": "...하지만 이런 기회를 이용하지 않으면 아깝잖아. 너는 미친 팬픽 실력을 발휘해 조이의 가장 행복한 추억마다 자신을 주인공급으로 끼워 넣는다!",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_SUC_3/col-3": "사십오 분 뒤(동기가 충분하면 글을 엄청 빨리 쓸 수 있다), 너는 조작한 일기를 조이에게 건넨다.",
@@ -87,7 +87,7 @@
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_SUC_17/col-3": "분명히 해 둘게. 네가 내 일기를 조작했다는 건 알아. 잉크 색도 달랐고, 알파벳 'i' 위의 점마다 조그만 하트를 그려 놨더라...",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_SUC_18/col-3": "하지만 그런 짓까지 한 건 솔직히 좀 귀엽네. 귀엽고, 조금 소름 끼치기도 하고. 뭐, 네가 소름 끼치는 걸 좋아한다면...",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_SUC_19/col-3": "...어떻게 될지는 두고 보자.",
-  "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_SUC_20/col-3": "그 무시무시하게 모호한 말이 썩 마음에 든다! 심장이 짜릿해질 정도라 +2BOLDNESS와 +1CHARM을 얻는다!",
+  "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_SUC_20/col-3": "그 무시무시하게 모호한 말이 썩 마음에 든다! 심장이 짜릿해질 정도라 대담함 +2와 매력 +1을 얻는다!",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_FAIL_1/col-3": "다행히 조이가 일기를 어디에 보관하는지 정확히 알고 있다! 물론 전혀 소름 끼치지 않는 이유에서다! 너는 달려가서 일기를 가져온다.",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_FAIL_2/col-3": "...하지만 이런 기회를 이용하지 않으면 아깝잖아. 너는 미친 팬픽 실력을 발휘해 조이의 가장 행복한 추억마다 자신을 주인공급으로 끼워 넣는다!",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_FAIL_3/col-3": "사십오 분 뒤(동기가 충분하면 글을 엄청 빨리 쓸 수 있다), 너는 조작한 일기를 조이에게 건넨다.",
@@ -110,5 +110,5 @@
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_FAIL_20/col-3": "거기서 거기지. 야... 남의 일기를 멋대로 건드리는 놈에게 거는 아주 고약한 저주가 여기 꽤 많네. 우리 혹시...",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_FAIL_21/col-3": "기꺼이 함께하지.",
   "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_FAIL_22/col-3": "야호! 협동 작업이다!",
-  "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_FAIL_23/col-3": "폴리와 스콧, 조이는 힘을 합쳐 네 엉덩이를 별개의 지성을 지닌 존재로 만드는 주문을 건다. 이제 네가 거기에 앉으려고 할 때마다 엉덩이가 요란하게 비명을 지른다. 너는 -2CHARM과 -1BOLDNESS를 잃는다."
+  "english_camp_events_maingame/prankmasterzj/prankmasterzj_OUT_2_FAIL_23/col-3": "폴리와 스콧, 조이는 힘을 합쳐 네 엉덩이를 별개의 지성을 지닌 존재로 만드는 주문을 건다. 이제 네가 거기에 앉으려고 할 때마다 엉덩이가 요란하게 비명을 지른다. 너는 매력 -2와 대담함 -1을 잃는다."
 }

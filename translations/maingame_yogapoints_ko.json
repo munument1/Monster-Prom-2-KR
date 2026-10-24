@@ -35,7 +35,7 @@
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_SUC_13/col-3": "우히히히히히히!",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_SUC_14/col-3": "나는 열반에 도달했다. 집착의 세계는 더 이상 나를 속박하지 못한다. 고통의 윤회로 우리를 옭아매던 윤회의 수레바퀴에서 해방되었노라.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_SUC_15/col-3": "야, 그럼 지혜 능력치가 +10 되잖아! 개쩐다! 이걸로 화염 주문을 배워야겠어!",
-  "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_SUC_16/col-3": "휴우! 아라비가 세속의 집착에서 완전히 벗어난 건 아닌가 봐. 다행이야. 어쩐지 네게도... 집착, 아니 애착이 생기고 있는 것 같거든. +2FUN과 +1BOLDNESS를 얻는다.",
+  "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_SUC_16/col-3": "휴우! 아라비가 세속의 집착에서 완전히 벗어난 건 아닌가 봐. 다행이야. 어쩐지 네게도... 집착, 아니 애착이 생기고 있는 것 같거든. 재미 +2와 대담함 +1을 얻는다.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_FAIL_1/col-3": "전설의... 요가... 갑옷이라고? 그런 물건이 있다는 건 상상도 못 했어!",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_FAIL_2/col-3": "응, 없어. 넌 아무 생각 없이 말을 꺼냈거든. 그래서 텐트로 달려가 평범한 갑옷을 가져온 다음 각 부품에 스프레이 페인트로 '요가'라고 써 넣는다.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_FAIL_3/col-3": "우와! 이 전설의 갑옷을 입으니까 요가의 힘이 온몸에 흘러넘치는 게 느껴져!",
@@ -52,7 +52,7 @@
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_FAIL_14/col-3": "그냥 금속으로 만든 평범한 갑옷이야. 사실 흉갑은 쓰레기통 뚜껑인 것 같은데.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_FAIL_15/col-3": "뭐라고? %CURRENTPLAYERNAMECAPS%, 어떻게 날 이렇게 배신할 수 있어?!",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_FAIL_16/col-3": "이 일로 널 죽여 버리고 싶은데, 거미한테 너무 많이 물려서 졸리네. 그래도 눈 뜨면 네 몫의 살인 한 건은 꼭 갚아 줄 테니까!",
-  "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_FAIL_17/col-3": "네놈의 멍청한 헛소리도 참! 아라비가 자는 동안 너에게 진 살인 빚을 잊어버리길 빌어야겠네! -2BOLDNESS와 -1CHARM을 잃는다.",
+  "english_camp_events_maingame/yogapoints/yogapoints_OUT_1_FAIL_17/col-3": "네놈의 멍청한 헛소리도 참! 아라비가 자는 동안 너에게 진 살인 빚을 잊어버리길 빌어야겠네! 대담함 -2와 매력 -1을 잃는다.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_SUC_1/col-3": "아하! 버그 악용이군! 웬만하면 이런 짓 안 하지만 다행히 오늘은 치팅 데이로 정했거든. 당장 해 보자!",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_SUC_2/col-3": "아라비가 네가 알려 준 동작들을 빠르게 반복한다. 어째 허리를 앞뒤로 흔드는 짓처럼 보이는데, 너는 오히려 좋다!",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_SUC_3/col-3": "...그리고 선택! 세상에, 기분 존나 끝내줘. 골반을 반복해서 움직이는 게 이렇게 좋을 줄 누가 알았겠어?!",
@@ -69,7 +69,7 @@
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_SUC_14/col-3": "안 돼 스콧 그만 나 아직 엄청 취해 있어어어 으아아아 살려 줘어어...",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_SUC_15/col-3": "스콧은 아주 친절하게 폴리를 안고 떠나고, 너와 아라비만 남아 새로운 최고 기록을 만끽한다.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_SUC_16/col-3": "치트 코드 알려 줘서 고마워, %CURRENTPLAYERNAME%! 앞으로 매일 써먹어야겠어! 나중엔 우리 둘이서... 커플 요가도 한번 해 볼까?",
-  "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_SUC_17/col-3": "아라비랑 함께라면 골반을 맞춰 움직이는 어떤 놀이든 환영이지! +2FUN과 +1BOLDNESS를 얻는다.",
+  "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_SUC_17/col-3": "아라비랑 함께라면 골반을 맞춰 움직이는 어떤 놀이든 환영이지! 재미 +2와 대담함 +1을 얻는다.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_FAIL_1/col-3": "정말 확실해? '레프트독'이라는 자세는 들어 본 적도 없는데.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_FAIL_2/col-3": "그거야 비전의 기술이니까. 넌 왼쪽으로 누워서 주먹 전체를 입안에 집어넣는 동작이라고 장담한다.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_FAIL_3/col-3": "딱 성공할 만큼 미친 소리인데!",
@@ -88,5 +88,5 @@
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_FAIL_16/col-3": "...%HIMHER%도 도와줘야 하는 거 아냐?",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_FAIL_17/col-3": "응, 당연하지.",
   "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_FAIL_18/col-3": "좋아! 이제 확실히 알겠다! 아까는 잘 몰랐거든!",
-  "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_FAIL_19/col-3": "그 둘은 약에 취하지도 않았고 바보도 아닌 누군가가 나타나 널 구해 줄 때까지 그 자리에 서 있는다. 안타깝게도 그 누구도 네 -2SMARTS와 -1CREATIVITY만은 구해 주지 못한다."
+  "english_camp_events_maingame/yogapoints/yogapoints_OUT_2_FAIL_19/col-3": "그 둘은 약에 취하지도 않았고 바보도 아닌 누군가가 나타나 널 구해 줄 때까지 그 자리에 서 있는다. 안타깝게도 그 누구도 네 지능 -2와 창의력 -1만은 구해 주지 못한다."
 }

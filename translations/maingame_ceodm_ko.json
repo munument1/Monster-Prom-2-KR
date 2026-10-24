@@ -38,7 +38,7 @@
   "english_camp_events_maingame/ceodm/ceodm_OUT_1_SUC_19/col-3": "씨발, 좋았어! 우리가 해냈다! 특히 내가 말이야! 이제 나도 장난치는 요령을 꽤 터득한 것 같지 않냐?",
   "english_camp_events_maingame/ceodm/ceodm_OUT_1_SUC_20/col-3": "그럼, 당연하지, 친구야! 사실은 완전 장난이면서 '이건 장난이 아니다'라고 말했잖아. 그런 아이디어는 대체 어디서 떠올린 거야?!",
   "english_camp_events_maingame/ceodm/ceodm_OUT_1_SUC_21/col-3": "글쎄, 그냥 영감을 받았나 봐... %CURRENTPLAYERNAME%의 마음속 장난기에서. 뒤를 봐줘서 고마워, 섹시한 녀석.",
-  "english_camp_events_maingame/ceodm/ceodm_OUT_1_SUC_22/col-3": "네가 '뒤를 봐주고' 싶은 건 데미안뿐만이 아니다. 사실 더 정확히 말하면 '데미안의 엉덩이'를 뒤에서 봐주고 싶다! +2FUN과 +1CREATIVITY를 얻는다.",
+  "english_camp_events_maingame/ceodm/ceodm_OUT_1_SUC_22/col-3": "네가 '뒤를 봐주고' 싶은 건 데미안뿐만이 아니다. 사실 더 정확히 말하면 '데미안의 엉덩이'를 뒤에서 봐주고 싶다! 재미 +2와 창의력 +1을 얻는다.",
   "english_camp_events_maingame/ceodm/ceodm_OUT_1_FAIL_1/col-3": "씨발, 맞는 말이야. 좆같은 이웃 하나면 최고급 부동산도 똥판으로 만들 수 있지.",
   "english_camp_events_maingame/ceodm/ceodm_OUT_1_FAIL_2/col-3": "우리 옆집 랜들 같은 새끼 말이야. 타는 머리카락 냄새가 나고, 내가 탐내는 낚시 모자를 쓰고 다니지. 씨발, 생각만 해도 역겨워.",
   "english_camp_events_maingame/ceodm/ceodm_OUT_1_FAIL_3/col-3": "그런데 딱 알맞게 좆같은 이웃을 어디서 찾지? 망할 랜들이 당장 이사할 것 같지도 않고...",
@@ -61,7 +61,7 @@
   "english_camp_events_maingame/ceodm/ceodm_OUT_1_FAIL_20/col-3": "어떻게 된 건지 알려 줄게, 데미안. 너희는 방금...",
   "english_camp_events_maingame/ceodm/ceodm_OUT_1_FAIL_21/col-3": "이중으로 낚인 거야! 우리가 너희한테 거짓말했거든! 거짓말도 장난이잖아!",
   "english_camp_events_maingame/ceodm/ceodm_OUT_1_FAIL_22/col-3": "씨발, 장난 마스터즈를 상대하면 이렇게 되는 거겠지... 그리고 %CURRENTPLAYERNAME% 말을 들은 것도 문제야. %HESHE% %VERB_IS_ARE% 랜들보다 더 최악이라고!",
-  "english_camp_events_maingame/ceodm/ceodm_OUT_1_FAIL_23/col-3": "그거 칭찬 아닌 거 확실하지, 친구? 장난 마스터즈가 악덕 CEO의 소유권 증서를 살라미 소시지로 바꿔 놓는 장난까지 쳐서 놈은 캠프를 사들일 수 없게 됐지만, 넌 -2CHARM과 -1BOLDNESS를 잃는다.",
+  "english_camp_events_maingame/ceodm/ceodm_OUT_1_FAIL_23/col-3": "그거 칭찬 아닌 거 확실하지, 친구? 장난 마스터즈가 악덕 CEO의 소유권 증서를 살라미 소시지로 바꿔 놓는 장난까지 쳐서 놈은 캠프를 사들일 수 없게 됐지만, 넌 매력 -2와 대담함 -1을 잃는다.",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_SUC_1/col-3": "대체 무슨 개소리야? 쇼핑몰은 땅에서 자라는 게 아니라고. 멋진 망치를 든 건설 노동자들이 짓는 거지!",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_SUC_2/col-3": "가엾고 순진한 데미안. 지옥의 왕족으로 보호받으며 자라서 현실 세계가 어떻게 돌아가는지 모르는구나!",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_SUC_3/col-3": "넌 데미안을 앉혀 놓고 쇼핑몰 건설을 다룬 자연 다큐멘터리를 틀어 주며 바로잡아 주기로 한다.",
@@ -79,7 +79,7 @@
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_SUC_15/col-3": "빌어먹을! 왜 하필 그 망할 자연 다큐멘터리를 만들어 놨단 말이냐! 이제 모두가 쇼핑몰의 단 하나뿐인 약점을 알아 버렸잖아!",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_SUC_16/col-3": "이 나라에서 쇼핑몰은 멸종 위기에 처한 종족이야! 다 너희 같은 괴물들 때문이지! 이번엔 네놈들이 이겼지만, 이대로 끝인 줄 알아라!!!",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_SUC_17/col-3": "그래, 씨발 꺼져! 그런데... 소금을 잔뜩 뿌렸더니 목마르네. 캠프로 돌아가서 맥주 한잔할래?",
-  "english_camp_events_maingame/ceodm/ceodm_OUT_2_SUC_18/col-3": "당연히 좋지! 게다가 소금 뿌리는 작업은 너를 또 다른 의미로도 목마르게 만들었다! +2BOLDNESS와 +1CHARM을 얻는다.",
+  "english_camp_events_maingame/ceodm/ceodm_OUT_2_SUC_18/col-3": "당연히 좋지! 게다가 소금 뿌리는 작업은 너를 또 다른 의미로도 목마르게 만들었다! 대담함 +2와 매력 +1을 얻는다.",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_FAIL_1/col-3": "잠깐, 씨발 뭐라고? 쇼핑몰이 땅에서 자랄 리 없잖아. 네가 말하는 건 발전소겠지.",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_FAIL_2/col-3": "아, 씨발. 데미안 말이 맞아. 하지만 이미 늦었다. 넌 드래그쇼에서 반짝이를 뿌리듯 소금을 온 사방에 뿌려 버렸다.",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_FAIL_3/col-3": "뭐, 어때. 소금 좀 뿌렸다고 누가 다치는 것도 아니잖아?",
@@ -94,5 +94,5 @@
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_FAIL_12/col-3": "그래, 저 멍청이가 그랬어. 가서 %HIMHER% 좀 혼내 줘.",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_FAIL_13/col-3": "\"기꺼이!\" 스모 선수들이 한목소리로 외친다.",
   "english_camp_events_maingame/ceodm/ceodm_OUT_2_FAIL_14/col-3": "수플렉스 당하는 걸 좋아했으면 좋겠네, 멍청아.",
-  "english_camp_events_maingame/ceodm/ceodm_OUT_2_FAIL_15/col-3": "전혀 안 좋아해! 몰려온 스모 선수들 덕분에 악덕 CEO가 쇼핑몰을 짓지 못하게 되긴 했지만, 그렇다고 네 몸에서 -2CHARM과 -1BOLDNESS가 바디슬램으로 빠져나가는 걸 막아 주진 못한다."
+  "english_camp_events_maingame/ceodm/ceodm_OUT_2_FAIL_15/col-3": "전혀 안 좋아해! 몰려온 스모 선수들 덕분에 악덕 CEO가 쇼핑몰을 짓지 못하게 되긴 했지만, 그렇다고 네 몸에서 매력 -2와 대담함 -1이 바디슬램으로 빠져나가는 걸 막아 주진 못한다."
 }

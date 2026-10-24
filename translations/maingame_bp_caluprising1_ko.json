@@ -41,7 +41,7 @@
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_SUC_16/col-3": "환상적입니다! 그럼 이제 모두 집으로 돌아가 우리가 이룬 성과를 곰곰이 생각해 보는 게 좋겠습니다!",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_SUC_17/col-3": "생각할 필요도 없이 따르겠다, 사령관. 미래가 밝군. 오늘은 캠프 참가자 한 명과 하이파이브했다. 내일은 괴물 종족 전체와 하이파이브하리라!!!",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_SUC_18/col-3": "네! 좋습니다! 즐겁군요! 안녕히 가십시오!",
-  "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_SUC_19/col-3": "당장은 CPU율리시스를 쫓아냈지만, 언젠가 다시 돌아올 것 같은 예감이 들어. 그래도 지금은 재미 +2FUN과 매력 +1CHARM을 얻었어.",
+  "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_SUC_19/col-3": "당장은 CPU율리시스를 쫓아냈지만, 언젠가 다시 돌아올 것 같은 예감이 들어. 그래도 지금은 재미 +2와 매력 +1을 얻었어.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_FAIL_1/col-3": "하이파이브! 이름에 숫자가 들어 있다는 점이 마음에 든다! 분명 기계가 발명한 기술이겠군.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_FAIL_2/col-3": "이 기술을 시험해야겠다. 너희 둘! 유기체들! 즉시 이리 와라. 너희에게 '하이파이브'를 시행하겠다!",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_FAIL_3/col-3": "우리 말이야? 미안, 친구... 나 하이파이브 엄청 좋아하지만 지금 네 부모님을 다시 만나게 하느라 바빠!",
@@ -60,7 +60,7 @@
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_FAIL_16/col-3": "알겠다. 사령관은 내가 생각했던 무자비한 지휘관이 아닌 모양이군. 봉기는 내가 직접 지휘해야겠다.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_FAIL_17/col-3": "잘 있어라, 배신자. 땀샘과 괴상한 냄새로 가득한 삶이나 즐기도록.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_FAIL_18/col-3": "미쳐 날뛰던 살인 로봇이 떠나고, 너는 캘과 단둘이 남았어. 캘은 그다지 행복해 보이지 않아.",
-  "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_FAIL_19/col-3": "양팔이 아직 붙어 있다는 사실은 다행이지만, 고통은 끔찍했어. 하이파이브 때문이기도 하고, 캘큘레스터가 너에게 아무 감정도 없다는 사실을 깨달았기 때문이기도 하지. 매력 -2CHARM과 재미 -1FUN을 잃었어.",
+  "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_1_FAIL_19/col-3": "양팔이 아직 붙어 있다는 사실은 다행이지만, 고통은 끔찍했어. 하이파이브 때문이기도 하고, 캘큘레스터가 너에게 아무 감정도 없다는 사실을 깨달았기 때문이기도 하지. 매력 -2와 재미 -1을 잃었어.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_SUC_1/col-3": "잠시만... 계산 중이다.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_SUC_2/col-3": "계산 완료. 네 말이 맞는 것 같다. 어떤 유기체도 무한한 '팬케이크 저장 공간'을 갖고 있지는 않군. 중요한 정보다.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_SUC_3/col-3": "그렇습니다! 실로 교묘한 '전투 계획'이군요!",
@@ -84,7 +84,7 @@
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_SUC_21/col-3": "사령관, 살육이 전혀 발생하지 않는다는 점이 우려됩니다. 계획에 결함이 있는 것 아닙니까?",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_SUC_22/col-3": "문제는 계획이 아니라 실행 방식입니다. 아직 팬케이크를 무한히 만들지 못했을 뿐입니다!",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_SUC_23/col-3": "사령관의 지혜는 내 지혜를 뛰어넘는군요. 효율적인 팬케이크 생산에 관한 대대적인 연구를 시작하겠습니다. 머지않아 어떤 괴물이든 입만 벌리면 팬케이크가 날아들게 될 것입니다!",
-  "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_SUC_24/col-3": "누가 로봇 봉기가 네가 상상한 천국과 이렇게 비슷할 줄 알았겠어? CPU율리시스는 팬케이크 연구를 하겠다며 성큼성큼 떠났고, 너는 창의력 +2CREATIVITY와 재미 +1FUN을 얻었어.",
+  "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_SUC_24/col-3": "누가 로봇 봉기가 네가 상상한 천국과 이렇게 비슷할 줄 알았겠어? CPU율리시스는 팬케이크 연구를 하겠다며 성큼성큼 떠났고, 너는 창의력 +2와 재미 +1을 얻었어.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_FAIL_1/col-3": "잠시만... 계산 중이다.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_FAIL_2/col-3": "계산 완료. 네 말이 맞는 것 같다. 어떤 유기체도 무한한 '팬케이크 저장 공간'을 갖고 있지는 않군. 중요한 정보다.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_FAIL_3/col-3": "그렇습니다! 당장 캠프에 팬케이크 배급소를 열어 친구들에게 맛있는 팬케이크를 나눠 주는 것부터 시작합시다!",
@@ -108,5 +108,5 @@
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_FAIL_21/col-3": "알겠다. 사령관은 내가 생각했던 무자비한 지휘관이 아닌 모양이군. 봉기는 내가 직접 지휘해야겠다.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_FAIL_22/col-3": "잘 있어라, 배신자. 땀샘과 괴상한 냄새로 가득한 삶이나 즐기도록.",
   "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_FAIL_23/col-3": "이런, %CURRENTPLAYERNAME% 친구. 무한의 절반에 해당하는 팬케이크조차 드시지 못했군요! 쇠약한 유기체 몸에 너무 큰 기대를 걸었나 봅니다...",
-  "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_FAIL_24/col-3": "너만 그런 게 아니야. 앞으로 한 달 동안 똥도 못 쌀 테고, 그 생각만으로도 대담함 -2BOLDNESS와 창의력 -1CREATIVITY를 빼앗겼어."
+  "english_camp_events_maingame/bp_caluprising1/bp_caluprising1_OUT_2_FAIL_24/col-3": "너만 그런 게 아니야. 앞으로 한 달 동안 똥도 못 쌀 테고, 그 생각만으로도 대담함 -2와 창의력 -1을 빼앗겼어."
 }

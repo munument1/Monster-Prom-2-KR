@@ -31,7 +31,7 @@
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_SUC_17/col-3": "아니, 좆까. 넌 마트에서 물건을 존나 훔쳤어. 계산원의 결혼식 선물까지 몇 개 가져갔지. 신은 죽었고, 이제 모든 것이 허용된다.",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_SUC_18/col-3": "제작진은 이 막장 드라마를 엄청 좋아했어. 너와 헥스는 만장일치로 우승했지. 공식적으로 가장 저주받은 출연자는 너야!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_SUC_19/col-3": "우와, %CURRENTPLAYERNAME%. 우리 진짜 환상의 파트너인 것 같지 않아? ...리얼리티 쇼에서 말이야. 하지만 어쩌면... 다른 데서도 그럴까? 너한테 저주를 더 자주 걸어야겠네.",
-  "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_SUC_20/col-3": "있잖아... 생각보다 그게 꽤 마음에 들지도 모르겠어. 게다가 이제 물건을 죄다 훔치니 돈을 '엄청' 아끼잖아. 그 돈으로 대담함 +2BOLDNESS와 재미 +1FUN을 사 버렸어!",
+  "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_SUC_20/col-3": "있잖아... 생각보다 그게 꽤 마음에 들지도 모르겠어. 게다가 이제 물건을 죄다 훔치니 돈을 '엄청' 아끼잖아. 그 돈으로 대담함 +2와 재미 +1을 사 버렸어!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_FAIL_1/col-3": "우와... 네가 그렇게까지 끔찍한 걸 기꺼이 받아들일 줄은 몰랐는데... 생각했던 것보다 훨씬 멋진 녀석이잖아!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_FAIL_2/col-3": "좋아, 재료를 가져올게... 유통기한 지난 마트 할인 쿠폰 한 무더기, 물건이 정확히 여섯 개 들어 있는 쇼핑카트, 그리고 개미 만 마리.",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_FAIL_3/col-3": "헥스는 네 머리에 개미를 쏟아붓고, 쿠폰들을 종이 반죽으로 짓이겨 쇼핑카트에 앉아 있는 네 얼굴에 발라 칠했어.",
@@ -46,7 +46,7 @@
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_FAIL_12/col-3": "이건 항의해야 해, %CURRENTPLAYERNAME%! 어서 이의 신청서를 제출해!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_FAIL_13/col-3": "그러고는 싶지만, 프로그램 법무팀에 항의하려면 줄을 서야 해. 예상 대기 시간은 무려 11년이래.",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_FAIL_14/col-3": "으아아아아. 너는 왜 맨날 이렇게 저주에 걸려 있는 거야? 겨우 '내'가 저주를 걸었다는 이유로? 좀 스스로 생각하고 살아라, 진짜!",
-  "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_FAIL_15/col-3": "그래, 헥스 말이 맞아. 이건 전부 네 탓이지, 이 멍청한 얼간아. 매력 -2CHARM과 재미 -1FUN을 잃었어.",
+  "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_1_FAIL_15/col-3": "그래, 헥스 말이 맞아. 이건 전부 네 탓이지, 이 멍청한 얼간아. 매력 -2와 재미 -1을 잃었어.",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_SUC_1/col-3": "바로 그거지! 내가 늘 하는 말 있잖아. '야아아호, 크루아상 손이다!'",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_SUC_2/col-3": "맛있는 크루아상 손을 만드는 비결은 밀대로 살살 미는 거야. 버터가 겹겹이 쌓인 층이나 네 손의 조그만 뼈를 뭉개면 안 되거든!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_SUC_3/col-3": "알고 보니 헥스는 그저 태고의 사악한 저주만이 아니었어. 《그레이트 브리티시 베이크 오프》도 엄청 많이 봤거든. 거의 전문가 수준이지!",
@@ -60,7 +60,7 @@
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_SUC_11/col-3": "예에에스!!! 맛있고 바삭한 %HISHER% 손으로 날 지원해 준 %CURRENTPLAYERNAME%에게 감사하고, 내가 사악한 영혼이라 존재하지도 않는 우리 아빠한테도 감사하고 싶어!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_SUC_12/col-3": "야, %CURRENTPLAYERNAME%, 우리 진짜 팀워크 끝내주지 않아? 난 두뇌 담당이고 넌 크루아상 손 담당이잖아!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_SUC_13/col-3": "크루아상 손 얘기가 나와서 말인데... 언젠가는 당연히 원래대로 되돌려 줄 거야. 그런데 그전에 아주 조금만 베어 먹으면 안 될까? 응? 제발?",
-  "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_SUC_14/col-3": "이 엉뚱한 헥스 같으니! 넌 헥스가 예전엔 네 새끼손가락이었던 부분을 먹도록 허락했어. 캠프 친구에게 이런 식으로 잡아먹힐 줄은 꿈에도 몰랐지만, 묘하게 야릇하기도 하네? 재미 +2FUN과 창의력 +1CREATIVITY를 얻었어.",
+  "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_SUC_14/col-3": "이 엉뚱한 헥스 같으니! 넌 헥스가 예전엔 네 새끼손가락이었던 부분을 먹도록 허락했어. 캠프 친구에게 이런 식으로 잡아먹힐 줄은 꿈에도 몰랐지만, 묘하게 야릇하기도 하네? 재미 +2와 창의력 +1을 얻었어.",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_FAIL_1/col-3": "바로 그거지! 내가 늘 하는 말 있잖아. '야아아호, 크루아상 손이다!'",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_FAIL_2/col-3": "맛있는 크루아상 손을 만드는 비결은 밀대로 살살 미는 거야. 버터가 겹겹이 쌓인 층이나 네 손의 조그만 뼈를 뭉개면 안 되거든!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_FAIL_3/col-3": "알고 보니 헥스는 그저 태고의 사악한 저주만이 아니었어. 《그레이트 브리티시 베이크 오프》도 엄청 많이 봤거든. 거의 전문가 수준이지!",
@@ -79,5 +79,5 @@
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_FAIL_16/col-3": "으, 뭐야? 너한테 저주 걸 때 네가 손 차별주의자인 줄은 몰랐어! 이건 완전히 얘기가 달라지는데!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_FAIL_17/col-3": "맛있는 크루아상 손이나 평생 즐겨라, 돼지 자식아. 난 아라비한테 저주 걸러 갈 거야. 걔는 누구 손이든 공평하게 잘라서 구리 값으로 팔아 버리거든!",
   "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_FAIL_18/col-3": "잠깐! 안 돼! 넌 크루아상 손이 전혀 즐겁지 않다고! 엄청나게 나쁜 저주인데! 하지만 이제 이대로 살지 않으면 대중에게 완전히 매장당하고 말 거야.",
-  "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_FAIL_19/col-3": "고민 끝에 너는 적당히 타협해서 매력 -2CHARM과 재미 -1FUN만 잃기로 했어. 리얼리티 쇼도 잃고, 헥스와 쌓았을지도 모를 관계도 함께 날아갔지. 아이고."
+  "english_camp_events_maingame/dp_hex3/dp_hex3_OUT_2_FAIL_19/col-3": "고민 끝에 너는 적당히 타협해서 매력 -2와 재미 -1만 잃기로 했어. 리얼리티 쇼도 잃고, 헥스와 쌓았을지도 모를 관계도 함께 날아갔지. 아이고."
 }

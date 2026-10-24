@@ -33,7 +33,7 @@
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_SUC_11/col-3": "다행히 둘 다 지금 당장 네 배를 가르겠다고 나서진 않는다. 실제로 그랬다면 넌 절대 살아남지 못했을 테니까.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_SUC_12/col-3": "앞으로 8.5년 동안 라디에이터와 따뜻한 옷이 네 내장을 재배치하는 것보다 낫다고 데미안을 설득할 수 있기를 빌자...",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_SUC_13/col-3": "물론 데미안이 '내장을 재배치한다'는 말을 야한 의미로 한 거라면 이야기가 다르지.",
-  "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_SUC_14/col-3": "네 멍청한 거짓말 덕분에 데미안의 애정도 얻고, 배트니스에게는 복부 임대 보증금까지 받았다. +2 FUN과 +1 CHARM을 얻는다.",
+  "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_SUC_14/col-3": "네 멍청한 거짓말 덕분에 데미안의 애정도 얻고, 배트니스에게는 복부 임대 보증금까지 받았다. 재미 +2와 매력 +1을 얻는다.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_FAIL_1/col-3": "넌 데미안에게 기후 종말이 찾아와도 대피소 걱정은 하지 말라고 한다. 그냥 네 복부를 갈라서 안에 들어와 포근하게 안겨 있으라고 하면 되니까.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_FAIL_2/col-3": "오오, 압제조차 뚫고 들어올 수 없는 은신처 같네! 나도 껴도 될까?",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_FAIL_3/col-3": "그래, 안 될 게 뭐야? %CURRENTPLAYERNAME%은 당연히 복부에 난 상처 때문에 죽을 테니, 나 혼자 있으면 외로울 테니까.",
@@ -48,7 +48,7 @@
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_FAIL_12/col-3": "나도 그래. 우리 약속하자. 3~5년 뒤 세상이 끝났을 때 둘 다 짝을 못 찾았다면 우리끼리 사귀는 거야.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_FAIL_13/col-3": "그쯤 되면 우리의 삼각관계도 정리됐겠지. 네가 죽거나 달리아가 총통의 뱀파이어 심리학자들에게 최면을 당하는 식으로 말이야.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_FAIL_14/col-3": "좋아. 종말 때 둘 다 솔로라면 네 전용 꼴림 공급원이 되어 줄게. 첫 핵폭탄이 터지는 순간 %CURRENTPLAYERNAME%의 시체 안에서 만나자고.",
-  "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_FAIL_15/col-3": "젠장. 이제 데미안은 배트니스와 연애 약속까지 해 버렸다. 넌 죽은 뒤 누구도 네 내장을 꺼내지 못하도록 시체 보험을 드느라 몇 시간이나 쓴다. -2 FUN과 -1 CHARM을 잃는다.",
+  "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_1_FAIL_15/col-3": "젠장. 이제 데미안은 배트니스와 연애 약속까지 해 버렸다. 넌 죽은 뒤 누구도 네 내장을 꺼내지 못하도록 시체 보험을 드느라 몇 시간이나 쓴다. 재미 -2와 매력 -1을 잃는다.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_SUC_1/col-3": "넌 데미안에게 종말 생존에 최고인 음료를 만들 수 있다고 말한다. 바로 커피 한 잔이야.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_SUC_2/col-3": "네 놀라운 생존 능력을 증명하려고 갓 내린 커피 한 주전자를 만든다. 정글에 사는 고양잇과 동물이 먹었다가 똥으로 배출한 원두까지 거금을 주고 샀지.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_SUC_3/col-3": "그 원두는 무게만큼의 금값을 치러야 할 정도지만, 데미안을 위해서라면 그 정도야 뭐.",
@@ -59,7 +59,7 @@
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_SUC_8/col-3": "나 하나 살리겠다고 네 오줌까지 희생할 생각이라니? 젠장, %CURRENTPLAYERNAME%... 나 존나 얼굴 빨개졌어.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_SUC_9/col-3": "우와, 나도 그래. 널 잘못 봤을지도 모르겠어, %CURRENTPLAYERNAME%. 친구를 살리려고 네 오줌을 마시게 해 줄 수 있다면... 넌 아마 저항군 편일 거야.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_SUC_10/col-3": "넌 동료들에게 인정받았다. 야호! 의지가 차오른다.",
-  "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_SUC_11/col-3": "게다가 기후 종말이 찾아오기까지 몇 년 더 남았으니 데미안에게 오줌 한 방울 없이도 생존하는 식단을 가르칠 수 있겠지. +2 SMARTS와 +1 CREATIVITY를 얻는다.",
+  "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_SUC_11/col-3": "게다가 기후 종말이 찾아오기까지 몇 년 더 남았으니 데미안에게 오줌 한 방울 없이도 생존하는 식단을 가르칠 수 있겠지. 지능 +2와 창의력 +1을 얻는다.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_FAIL_1/col-3": "넌 데미안에게 종말 생존에 최고인 음료를 만들 수 있다고 말한다. 바로 커피 한 잔이야.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_FAIL_2/col-3": "네 놀라운 생존 능력을 증명하려고 갓 내린 커피 한 잔을 준비한다. 근처 맥도날드에 가서 작은 커피 한 잔을 사 오면 끝. 짜잔!",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_FAIL_3/col-3": "데미안의 입맛에 꼭 맞추려고 네 오줌도 컵 가득 커피에 부어 준다. 그리고 당당하게 오줌 커피를 내민다.",
@@ -69,5 +69,5 @@
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_FAIL_7/col-3": "아. 넌 데미안이 그냥 오줌 마시는 걸 좋아하는 줄 알았구나.",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_FAIL_8/col-3": "난 살아남으려고 오줌을 마시는 거야! 재미로 마시는 게 아니라고! 그럼 그냥 탈수돼서 뒤지란 말이야?!",
   "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_FAIL_9/col-3": "커피를 만들 만큼 깨끗한 물이 있었으면서 거기에 왜 오줌을 붓는 건데, 이 변태 오줌광아?",
-  "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_FAIL_10/col-3": "사실 '변태 오줌광'이라는 소리를 듣는 게 처음은 아니지만... 이렇게 슬픈 적은 없었다. 결국 오줌 커피와 단둘이 남겨지고 -2 SMARTS와 -1 CREATIVITY를 잃는다."
+  "english_camp_events_maingame/hungergamesdm/hungergamesdm_OUT_2_FAIL_10/col-3": "사실 '변태 오줌광'이라는 소리를 듣는 게 처음은 아니지만... 이렇게 슬픈 적은 없었다. 결국 오줌 커피와 단둘이 남겨지고 지능 -2와 창의력 -1을 잃는다."
 }

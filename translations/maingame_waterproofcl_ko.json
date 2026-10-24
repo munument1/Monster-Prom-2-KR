@@ -31,7 +31,7 @@
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_SUC_16/col-3": "정말 절묘한 농담입니다!",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_SUC_17/col-3": "\"그렇지. 자, 실례하겠네. 제대로 한 번 구워 줘야 할 국회의원이 있거든. 오스카 와일드, 출동!\"",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_SUC_18/col-3": "그렇게 네 평생 본 유령 중 옷을 가장 잘 차려입은 유령은 자기 볼일을 보러 쏜살같이 날아간다.",
-  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_SUC_19/col-3": "그림에 깃든 불가사의한 마법 덕분에 이제 캘큘레스터는 호수에서 마음껏 놀 수 있다! ...적어도 그림에 곰팡이가 피고 썩어 없어지기 전까지는. 그동안 넌 +2FUN과 +1CHARM을 얻는다.",
+  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_SUC_19/col-3": "그림에 깃든 불가사의한 마법 덕분에 이제 캘큘레스터는 호수에서 마음껏 놀 수 있다! ...적어도 그림에 곰팡이가 피고 썩어 없어지기 전까지는. 그동안 넌 재미 +2와 매력 +1을 얻는다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_FAIL_1/col-3": "%CURRENTPLAYERNAME% 친구님, 제 안면 인식 알고리즘에 따르면 지금 표정이 '능글맞음'으로 분류됩니다. 제 곤경을 해결할 방법이 있으십니까?",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_FAIL_2/col-3": "너는 캘큘레스터의 곤경이 물과 관련되어 있으니, 지금 그에게 필요한 '용액'은 이미 그의 몸속에 가득하다고 말한다. 해결책(solution)과 용액(solution)을 섞은 아주 영국식 농담이다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_FAIL_3/col-3": "농담을 하신 것 같습니다만, 제 유머 처리 장치가 완전히 물에 잠긴 상태라 감상할 수 없습니다. 아무튼 저는 아직도 무척 젖어 있습니다!",
@@ -47,7 +47,7 @@
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_FAIL_13/col-3": "하지만 이제 진짜 미라처럼 생겼으니, 미라 데일은 #미라의고충을 주제로 너와 친목을 다지고 싶어 아주 신이 났다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_FAIL_14/col-3": "문제는 그 때문에 상황이 더 나빠진다는 거다. 데일은 아버지가 파라오라는 이유로 인기만 얻은 자기중심적인 미라 인싸니까.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_FAIL_15/col-3": "네가 자기 문제를 해결해 줄 기회를 완전히 날렸다는 걸 깨달은 캘큘레스터는 포기하고 비상용으로 보관해 둔 똑같은 몸에 자신의 의식을 업로드한다.",
-  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_FAIL_16/col-3": "새 몸과 옛 몸의 유일한 차이는, 캘큘레스터가 널 훨씬 덜 좋아하던 과거의 저장 상태에서 시작한다는 점이다. 넌 -2CHARM과 -1BOLDNESS를 잃는다.",
+  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_1_FAIL_16/col-3": "새 몸과 옛 몸의 유일한 차이는, 캘큘레스터가 널 훨씬 덜 좋아하던 과거의 저장 상태에서 시작한다는 점이다. 넌 매력 -2와 대담함 -1을 잃는다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_1/col-3": "그래, 씨발, 더는 못 해 먹겠다. 캠프에서 일어나는 온갖 해괴한 문제를 해결하는 게 네 일은 아니잖아. 넌 갈매기를 똑바로 노려보며 제 행동에 책임을 지라고 요구한다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_2/col-3": "갈매기는 여름 캠프에 사는 개같은 갈매기 특유의 악의와 멍청함을 눈에 가득 담아 널 마주 노려본다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_3/col-3": "%CURRENTPLAYERNAME% 친구님, 지금 무얼 하시는 겁니까? 제 기억 저장소에 따르면 갈매기는 도덕적 책임이라는 개념을 이해하지 못합니다.",
@@ -63,11 +63,11 @@
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_13/col-3": "캘큘레스터가 진흙탕에서 경련을 일으키고 갈매기가 무심하게 지켜보는 와중, 어디선가 우렁찬 목소리가 들려온다. 어쩐지... 기뻐하는 것 같다?",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_14/col-3": "\"축하한다.\" 그 목소리가 말한다. \"이것은 시험이었고, 너는 통과했다.\"",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_15/col-3": "\"너는 마침내 네 권리를 당당하게 주장했고, 그 결과 훨씬 더 강인한 인격을 갖추게 되었다.\"",
-  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_16/col-3": "\"성장의 보상으로 +2BOLDNESS와 +1CHARM을 마음껏 누리도록 하라.\"",
+  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_16/col-3": "\"성장의 보상으로 대담함 +2와 매력 +1을 마음껏 누리도록 하라.\"",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_17/col-3": "훌륭한 일입니다. %CURRENTPLAYERNAME% 친구님이 %HIMSELFHERSELF%의 발전을 이루신 게 무척 자랑스럽습니다. 하지만 여전히 제 몸에는 물이 가득하고 갈매기는 아무런 도움도 주지 않고 있습니다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_18/col-3": "\"오, 정말 그럴까? 다시 보아라!\"",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_19/col-3": "다시 보니 갈매기 대신 고출력 습식·건식 청소기가 놓여 있다!",
-  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_20/col-3": "아니면... 처음부터 습식·건식 청소기였는지도 모른다. 어찌 됐든 너는 그걸로 캘큘레스터의 물기를 순식간에 빨아들인다. 원칙을 지키는 일이 너드들만의 전유물은 아닌 모양이다! 넌 +2CHARM과 +1FUN을 얻는다.",
+  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_SUC_20/col-3": "아니면... 처음부터 습식·건식 청소기였는지도 모른다. 어찌 됐든 너는 그걸로 캘큘레스터의 물기를 순식간에 빨아들인다. 원칙을 지키는 일이 너드들만의 전유물은 아닌 모양이다! 넌 매력 +2와 재미 +1을 얻는다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_FAIL_1/col-3": "그래, 씨발, 더는 못 해 먹겠다. 캠프에서 일어나는 온갖 해괴한 문제를 해결하는 게 네 일은 아니잖아. 넌 갈매기를 똑바로 노려보며 제 행동에 책임을 지라고 요구한다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_FAIL_2/col-3": "갈매기는 여름 캠프에 사는 개같은 갈매기 특유의 악의와 멍청함을 눈에 가득 담아 널 마주 노려본다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_FAIL_3/col-3": "%CURRENTPLAYERNAME% 친구님, 지금 무얼 하시는 겁니까? 제 기억 저장소에 따르면 갈매기는 도덕적 책임이라는 개념을 이해하지 못합니다.",
@@ -84,5 +84,5 @@
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_FAIL_14/col-3": "경고하려고 했습니다, %CURRENTPLAYERNAME% 친구님...",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_FAIL_15/col-3": "갈매기가 친구님의 점심을 훔치지 못하게 막으려 하기도 했습니다만, 제 팔꿈치와 엉덩이를 혼동한 나머지 움직일 수가 없습니다.",
   "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_FAIL_16/col-3": "어쩔 수 없군요. 이럴 때를 대비해 보관해 둔 거의 동일한 예비 몸체에 제 의식을 업로드할 시간이 된 것 같습니다...",
-  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_FAIL_17/col-3": "캘큘레스터가 의식을 옮긴다. 그의 인공 생명은 구해졌다! ...하지만 너에게 훨씬 덜 끌리던 과거의 저장 상태로 돌아가 버렸다. 넌 -2CHARM과 -1BOLDNESS를 잃는다."
+  "english_camp_events_maingame/waterproofcl/waterproofcl_OUT_2_FAIL_17/col-3": "캘큘레스터가 의식을 옮긴다. 그의 인공 생명은 구해졌다! ...하지만 너에게 훨씬 덜 끌리던 과거의 저장 상태로 돌아가 버렸다. 넌 매력 -2와 대담함 -1을 잃는다."
 }

@@ -40,7 +40,7 @@
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_SUC_15/col-3": "그래서? 뭐라고 하셔?",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_SUC_16/col-3": "우리 웨어독 쪽 증조부모님이 '진짜 난봉꾼'이었대. '닥치는 대로 다 따먹었'는데, '잎사귀 달린 거라면 뭐든' 그리고 '가끔은 다리까지' 그랬다나 봐.",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_SUC_17/col-3": "아하! 이제 모든 게 설명되는군!",
-  "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_SUC_18/col-3": "아니, 전혀 설명 안 되잖아! 하지만 뭐 어때. 중요한 건 스콧이 자기 안의 나무 정체성을 찾아내게 도와준 보답으로 달리아에게 뼈가 으스러질 듯한 곰 포옹을 받았다는 거지! 대담함 보상(+2BOLDNESS)과 재미 보상(+1FUN)도 얻었어.",
+  "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_SUC_18/col-3": "아니, 전혀 설명 안 되잖아! 하지만 뭐 어때. 중요한 건 스콧이 자기 안의 나무 정체성을 찾아내게 도와준 보답으로 달리아에게 뼈가 으스러질 듯한 곰 포옹을 받았다는 거지! 대담함 보상(대담함 +2)과 재미 보상(재미 +1)도 얻었어.",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_FAIL_1/col-3": "우와... 그런 것도 할 수 있어? DNA를 검사해서 내 몸에 나무가 섞였는지 알아볼 수 있다고?",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_FAIL_2/col-3": "네가 직접 검사할 수 있는 건 아니지만, 스콧의 개인정보를 몽땅 수집하는 대가로 터무니없이 싸게 검사해 주는 업체는 알고 있어!",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_FAIL_3/col-3": "끝내주는데! 당장 해 보자!",
@@ -54,7 +54,7 @@
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_FAIL_11/col-3": "감히 내 친구 스콧에게 이렇게 감정적으로 충격적인 사실을 들이밀다니!",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_FAIL_12/col-3": "아니, 이제는... 내 친구 래리라고 불러야 하나?",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_FAIL_13/col-3": "나도 이제 모르겠어어어!",
-  "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_FAIL_14/col-3": "달리아는 스콧을 달래느라 정신이 팔려서 나무를 더 메칠 시간도 없어졌어. 물론 너와 어울릴 시간은 더더욱 없지. 매력(-2CHARM)과 지능(-1SMARTS)이 깎였어.",
+  "english_camp_events_maingame/scottisatree/scottisatree_OUT_1_FAIL_14/col-3": "달리아는 스콧을 달래느라 정신이 팔려서 나무를 더 메칠 시간도 없어졌어. 물론 너와 어울릴 시간은 더더욱 없지. 매력(매력 -2)과 지능(지능 -1)이 깎였어.",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_SUC_1/col-3": "열매를 맺는다고? 그러니까 내 엉덩이에서 나온다는 거야?",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_SUC_2/col-3": "그런 뜻이야? 스콧이 엉덩이로 열매를 맺어야 한다고? 그건 완전히 미친 소리잖아!",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_SUC_3/col-3": "아니, 아니, 아니! 너는 서둘러 설명했어. 나무는 엉덩이에서 열매가 열리지 않잖아?",
@@ -74,7 +74,7 @@
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_SUC_17/col-3": "나 말고 %CURRENTPLAYERNAME%에게 감사해! 네 비밀 사과 마법을 발견한 건 그쪽이라고!",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_SUC_18/col-3": "그러고 있었어! 둘 다 고맙다고 한 거야!",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_SUC_19/col-3": "아! 그래! 좋았어!",
-  "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_SUC_20/col-3": "달리아에게 깊은 인상을 심어 줬을 뿐 아니라, 나무 위에 걸린 스콧의 프리스비를 꺼내도록 달리아를 번쩍 들어 올려 줄 기회까지 얻었어! 재미 보상(+2FUN)과 지능 보상(+1SMARTS)도 받았지.",
+  "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_SUC_20/col-3": "달리아에게 깊은 인상을 심어 줬을 뿐 아니라, 나무 위에 걸린 스콧의 프리스비를 꺼내도록 달리아를 번쩍 들어 올려 줄 기회까지 얻었어! 재미 보상(재미 +2)과 지능 보상(지능 +1)도 받았지.",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_FAIL_1/col-3": "열매를 맺는다고? 그러니까 내 엉덩이에서 나온다는 거야?",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_FAIL_2/col-3": "그런 뜻이야? 스콧이 엉덩이로 열매를 맺어야 한다고? 그건 완전히 미친 소리잖아!",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_FAIL_3/col-3": "아니, 아니, 아니! 너는 서둘러 설명했어. 나무는 엉덩이에서 열매가 열리지 않잖아?",
@@ -91,5 +91,5 @@
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_FAIL_14/col-3": "트리버그 박사의 진단에 따르면, 스콧의 나무 분장은 진짜 나무를 흉내 낸 형편없는 짝퉁이며 붉은참나무 문화를 모욕하는 수준이래.",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_FAIL_15/col-3": "그런데 사과는요?! 사과는 어떻게 된 거냐고요?!",
   "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_FAIL_16/col-3": "달리아와 스콧은 의사와 말싸움을 하느라 너와 놀아 줄 시간이 전혀 없어졌어... 그런데 병원비는 누가 떠안게 됐을까?",
-  "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_FAIL_17/col-3": "마법의 숲 병원에서는 돈을 받지 않거든. 대신 매력(-2CHARM)과 대담함(-1BOLDNESS)을 내놓아야 했어."
+  "english_camp_events_maingame/scottisatree/scottisatree_OUT_2_FAIL_17/col-3": "마법의 숲 병원에서는 돈을 받지 않거든. 대신 매력(매력 -2)과 대담함(대담함 -1)을 내놓아야 했어."
 }

@@ -95,10 +95,10 @@
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_SUC_17/col-3": "게다가 아라비도 어느 때보다 마음이 편안해 보여. 진심으로 이 시간을 즐기는 듯하다.",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_SUC_18/col-3": "더 나은 자신으로 변하려 노력하면 얻는 또 하나의 보상이 바로 이것이니까. 자신 안에서 서서히 평온을 찾아가는 것.",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_SUC_19/col-3": "아라비를 위해 건배!",
-  "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_SUC_20/col-3": "아, 그리고 가게에서 주문을 잘못 알아듣고 머스터드 대신 햄버거에 +3 CHARM을 넣어 줬다. 끝내주네!",
+  "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_SUC_20/col-3": "아, 그리고 가게에서 주문을 잘못 알아듣고 머스터드 대신 햄버거에 매력 +3을 넣어 줬다. 끝내주네!",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_1/col-3": "지루해애애.",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_2/col-3": "아라비! 방금 대사를 건너뛴 거야?",
-  "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_3/col-3": "아닌데. %CURRENTPLAYERNAME%가 그랬던 것 같은데.",
+  "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_3/col-3": "아닌데. %CURRENTPLAYERNAME%이 그랬던 것 같은데.",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_4/col-3": "고맙다, %CURRENTPLAYERNAME%. 이 빌어먹을 부엉이 같으니.",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_5/col-3": "\"저 소녀의 뻔뻔함 좀 보게! 앞으로 닥칠 위험을 헤쳐 나가려면 이런 지혜가 꼭 필요하단다, 아라비. 네 무모함이 조금도 달라지지 않았다니 슬프구나.\"",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_6/col-3": "부엉이는 날아가 버린다.",
@@ -124,7 +124,7 @@
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_26/col-3": "아라비가 막대기를 들고 널 쫓아내려고 뒤쫓기 시작한다.",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_27/col-3": "너무 개인적으로 받아들이진 마! 다 내 자신을 위해 이러는 거니까!",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_28/col-3": "헤헤... 웃기지. 사실은 전혀 아니거든.",
-  "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_29/col-3": "넌 이 스토리에서 쫓겨난다. 망했네. -2 CREATIVITY와 -1 FUN을 잃는다.",
+  "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_1_FAIL_29/col-3": "넌 이 스토리에서 쫓겨난다. 망했네. 창의력 -2와 재미 -1을 잃는다.",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_2_SUC_1/col-3": "원래 이 문구가 보이면 안 돼!",
   "english_camp_events_maingame/dp_aaraviamends2/dp_aaraviamends2_OUT_2_FAIL_1/col-3": "원래 이 문구가 보이면 안 돼!"
 }

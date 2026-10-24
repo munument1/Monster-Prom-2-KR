@@ -37,7 +37,7 @@
   "english_camp_events_maingame/truffles/truffles_OUT_1_SUC_16/col-3": "마일로는 편지를 읽다가 윗입술을 파르르 떤다. 너희 둘은 프로슈토와 트러플을 함께 먹는다. 두 음식이 어우러져 역사상 최고의 만찬이 탄생한다.",
   "english_camp_events_maingame/truffles/truffles_OUT_1_SUC_17/col-3": "나... 말문이 막혔어. 난생처음이야. 방금 내뱉은 말들만 빼면 진짜 아무 말도 못 하겠어.",
   "english_camp_events_maingame/truffles/truffles_OUT_1_SUC_18/col-3": "너와 마일로는 고요한 기쁨의 눈물을 뺨에 흘리며 식사를 끝마친다.",
-  "english_camp_events_maingame/truffles/truffles_OUT_1_SUC_19/col-3": "밤에는 함께 별을 바라본다. 하늘 어딘가에서 돼지 친구의 얼굴이 마지막으로 미소 짓는 것 같다. 아, 그리고 +2 FUN과 +1 CHARM도 얻는다.",
+  "english_camp_events_maingame/truffles/truffles_OUT_1_SUC_19/col-3": "밤에는 함께 별을 바라본다. 하늘 어딘가에서 돼지 친구의 얼굴이 마지막으로 미소 짓는 것 같다. 아, 그리고 재미 +2와 매력 +1도 얻는다.",
   "english_camp_events_maingame/truffles/truffles_OUT_1_FAIL_1/col-3": "돼지에게 최후통첩을 날릴 시간이다. 트러플을 찾든지 죽든지! 녀석을 정말 겁주려고 프로슈토까지 구해 온다.",
   "english_camp_events_maingame/truffles/truffles_OUT_1_FAIL_2/col-3": "넌 프로슈토를 돼지 코앞에 매달고 잔뜩 위협적인 표정을 짓는다. 하지만 돼지는 협박을 전혀 이해하지 못한다. 그저 프로슈토를 맛있게 먹고 행복하게 꿀꿀거릴 뿐이다.",
   "english_camp_events_maingame/truffles/truffles_OUT_1_FAIL_3/col-3": "으, 역시 그렇지. 대부분의 동물은 죽음이 뭔지 모르니 겁먹지도 않아. 이 일 하다 보면 늘 부딪히는 문제라고!",
@@ -52,7 +52,7 @@
   "english_camp_events_maingame/truffles/truffles_OUT_1_FAIL_12/col-3": "무엇보다 최악인 건 마일로가 죽은 반려 돼지의 영혼까지 수거해야 한다는 사실이다!",
   "english_camp_events_maingame/truffles/truffles_OUT_1_FAIL_13/col-3": "%CURRENTPLAYERNAME%, 동물 영혼을 수거하는 일이 특히 귀찮다고 말했잖아. 애초에 왜 이런 방법을 제안한 건지 모르겠어!",
   "english_camp_events_maingame/truffles/truffles_OUT_1_FAIL_14/col-3": "정말이지 진부한 육아 방식도 유분수지!",
-  "english_camp_events_maingame/truffles/truffles_OUT_1_FAIL_15/col-3": "넌 돼지 부모 노릇에 너무나 실패한 나머지 트러플의 달콤한 천국을 영영 맛보지 못한다. 대신 초콜릿 트러플을 먹으려 했는데, 그것마저 유통기한이 지났다! -2 FUN과 -1 CHARM을 잃는다.",
+  "english_camp_events_maingame/truffles/truffles_OUT_1_FAIL_15/col-3": "넌 돼지 부모 노릇에 너무나 실패한 나머지 트러플의 달콤한 천국을 영영 맛보지 못한다. 대신 초콜릿 트러플을 먹으려 했는데, 그것마저 유통기한이 지났다! 재미 -2와 매력 -1을 잃는다.",
   "english_camp_events_maingame/truffles/truffles_OUT_2_SUC_1/col-3": "갑자기 마일로의 돼지가 꽥꽥 울더니 날개를 퍼덕인다. 잠깐, 씨발 뭐라고? 방금 내가 '날개를 퍼덕인다'고 했어?",
   "english_camp_events_maingame/truffles/truffles_OUT_2_SUC_2/col-3": "자세히 살펴본 넌 마일로에게 그 작은 동물은 돼지가 아니라 오리라고 지적한다!",
   "english_camp_events_maingame/truffles/truffles_OUT_2_SUC_3/col-3": "그러니까... 당연히 오리지.",
@@ -72,7 +72,7 @@
   "english_camp_events_maingame/truffles/truffles_OUT_2_SUC_17/col-3": "넌 마일로에게 거짓말한다. 오리 피그가 달아났다고 말하면서 몰래 손에 묻은 오리 피를 닦아 낸다.",
   "english_camp_events_maingame/truffles/truffles_OUT_2_SUC_18/col-3": "용감하게 자신을 희생한 오리 피그를 떠올리자 눈물이 고인다. 그 모든 희생은 아름답고 순진한 마일로를 행복하게 해 주기 위한 것이었다.",
   "english_camp_events_maingame/truffles/truffles_OUT_2_SUC_19/col-3": "%CURRENTPLAYERNAME%, 너... 울어? 왜 그래? 파테 맛에 그렇게 감동했어? 세상에, 네 감성이 이렇게 깊을 줄 몰랐어. 자기야, 넌 시인이구나!",
-  "english_camp_events_maingame/truffles/truffles_OUT_2_SUC_20/col-3": "오리 피그의 더없이 완벽한 미식적 희생은 오래도록 널 괴롭힌다... 그런데 파테는 진짜 맛있었다! 너무 맛있어서 능력치까지 오른다. +2 CREATIVITY와 +1 CHARM을 만끽하자.",
+  "english_camp_events_maingame/truffles/truffles_OUT_2_SUC_20/col-3": "오리 피그의 더없이 완벽한 미식적 희생은 오래도록 널 괴롭힌다... 그런데 파테는 진짜 맛있었다! 너무 맛있어서 능력치까지 오른다. 창의력 +2와 매력 +1을 만끽하자.",
   "english_camp_events_maingame/truffles/truffles_OUT_2_FAIL_1/col-3": "넌 마일로의 동물 친구가 돼지가 아니라 오리라고 당당하게 선언한다! 바로 그게 문제라고!",
   "english_camp_events_maingame/truffles/truffles_OUT_2_FAIL_2/col-3": "그게... 오리라고? 어떻게 그런 생각을 한 거야? 지금 나 놀리는 거야? 내가 낚이고 있는 거야?",
   "english_camp_events_maingame/truffles/truffles_OUT_2_FAIL_3/col-3": "넌 계속 저건 오리라고 우긴다! 공교육이 널 이렇게까지 망쳐 놓을 리 없지. 넌 오리를 보면 알아본다고.",
@@ -85,5 +85,5 @@
   "english_camp_events_maingame/truffles/truffles_OUT_2_FAIL_10/col-3": "이제 어쩔 수 없이 오후 내내 너한테 농장 동물에 대해 가르쳐야겠네. 첫 번째 수업. 소는 음메 하고 운다.",
   "english_camp_events_maingame/truffles/truffles_OUT_2_FAIL_11/col-3": "두 번째 수업. 죽음은 피할 수 없어. 그 사실을 이해할 의식이 없는 동물에게도 예외는 없지.",
   "english_camp_events_maingame/truffles/truffles_OUT_2_FAIL_12/col-3": "평소라면 마일로와 오후 내내 함께할 수 있다는 사실에 황홀했겠지만, 이건 명백히 동정심에서 하는 행동이다. 심지어 마일로는 이걸로 자선 활동 인지도까지 챙길 생각이다.",
-  "english_camp_events_maingame/truffles/truffles_OUT_2_FAIL_13/col-3": "마일로는 닭이 뭔지 가르치려던 바로 그 순간 너에 대한 흥미를 잃어버린다. 젠장! 이제 닭이 뭔지 영영 모르겠네! -2 CREATIVITY와 -1 CHARM을 잃는다."
+  "english_camp_events_maingame/truffles/truffles_OUT_2_FAIL_13/col-3": "마일로는 닭이 뭔지 가르치려던 바로 그 순간 너에 대한 흥미를 잃어버린다. 젠장! 이제 닭이 뭔지 영영 모르겠네! 창의력 -2와 매력 -1을 잃는다."
 }

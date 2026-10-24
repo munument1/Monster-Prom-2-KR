@@ -36,7 +36,7 @@
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_SUC_14/col-3":  "젠장, 캘큘레스터! 무슨 짓을 한 거야? 내 하늘소들이 이제 우주에 가겠다는 생각밖에 안 하잖아!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_SUC_15/col-3":  "제가 한 게 아닙니다. %CURRENTPLAYERNAME% 친구 덕분입니다! 그리고 %HESHE%가 한 일이라곤 신비하고 매혹적인 우주의 수수께끼를 소개해 준 것뿐입니다!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_SUC_16/col-3":  "망할 우주의 매혹적인 수수께끼 같으니! 이번엔 운이 좋았어! 난 우주를 두들겨 패러 가겠어!",
-    "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_SUC_17/col-3":  "달리아가 대체 무슨 수로 우주를 두들겨 팰 건지는 모르겠지만 의욕 하나는 굉장해 보여. 캘큘레스터에게 입 맞출 방법을 찾으려는 네 의욕만큼이나 말이지! +2SMARTS와 +1FUN을 얻는다.",
+    "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_SUC_17/col-3":  "달리아가 대체 무슨 수로 우주를 두들겨 팰 건지는 모르겠지만 의욕 하나는 굉장해 보여. 캘큘레스터에게 입 맞출 방법을 찾으려는 네 의욕만큼이나 말이지! 지능 +2와 재미 +1을 얻는다.",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_FAIL_1/col-3":  "우주 개발 경쟁이라고?! 좋아, 덤벼!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_FAIL_2/col-3":  "으악! 전 떠나신 줄 알았습니다!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_FAIL_3/col-3":  "도전의 기운이 느껴져서 돌아왔지! 그럼 이제 그 도전에 나서러 다시 떠날게! 으아아아악!",
@@ -51,7 +51,7 @@
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_FAIL_12/col-3":  "아, 그래? 그럼 쟤들이 우주선을 그렇게 쉽게 만든 이유가 뭐겠어? 자, 외통수다!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_FAIL_13/col-3":  "아무튼 우주 로켓을 만드는 기술로 탄도미사일도 훌륭하게 만들 수 있다는 걸 알게 됐으니, 이제 그걸 몇 개 만들 거야. 잘 자라, 개미들아!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_FAIL_14/col-3":  "개미들은 \u0027잘 자\u0027라고 말할 수 없습니다! 개미들은 말을 전혀 하지 못한다고요! 달리아 친구, 제발 계획을 다시 생각해 주십시오!!!",
-    "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_FAIL_15/col-3":  "하지만 달리아는 이미 떠나 버렸다. 남은 건 너와 깊이 실망한 캘큘레스터, 그리고 -2SMARTS와 -1FUN뿐이다.",
+    "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_1_FAIL_15/col-3":  "하지만 달리아는 이미 떠나 버렸다. 남은 건 너와 깊이 실망한 캘큘레스터, 그리고 지능 -2와 재미 -1뿐이다.",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_SUC_1/col-3":  "할 수 있어! 넌 고등학교 시절 거미들과 외교 협상을 해 본 적도 있잖아. 개미랑 하늘소쯤이야 식은 죽 먹기지!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_SUC_2/col-3":  "넌 달리아에게 아직 주먹질하지 않은 나무가 숲에 있다고 귀띔해 주의를 돌린 다음, 하늘소들의 대통령과 마주 앉는다.",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_SUC_3/col-3":  "앞서 개미 여왕에게 했던 것과 똑같은 말을 전한다. 진짜 적은 다른 곤충이 아니야. 개미 형제들과 싸우도록 강요하는 잔혹한 독재자가 진정한 적이라고!",
@@ -67,7 +67,7 @@
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_SUC_13/col-3":  "이 보잘것없는 벌레 몇 마리한테도 질 정도로 약하다고?!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_SUC_14/col-3":  "그래, 맞아. 창피하지만 네 말이 틀리진 않아. 앞으로는 그 어느 때보다 더 열심히 훈련해야겠어! 잘 있어라, 개미들아!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_SUC_15/col-3":  "달리아는 \u0027전장\u0027을 버리고 달아나면서 캘큘레스터의 개미 대부분을 몸에서 털어 낸다.",
-    "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_SUC_16/col-3":  "넌 개미들을 모조리 모아 집으로 돌려보낸다. 꽤 힘든 하루였을 테니 캘큘레스터와 함께하려던 피크닉을 실컷 망치게 해 주기로 하지. 멋지네! +2FUN과 +1CHARM을 얻는다.",
+    "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_SUC_16/col-3":  "넌 개미들을 모조리 모아 집으로 돌려보낸다. 꽤 힘든 하루였을 테니 캘큘레스터와 함께하려던 피크닉을 실컷 망치게 해 주기로 하지. 멋지네! 재미 +2와 매력 +1을 얻는다.",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_FAIL_1/col-3":  "할 수 있어! 넌 고등학교 시절 거미들과 외교 협상을 해 본 적도 있잖아. 개미랑 하늘소쯤이야 식은 죽 먹기지!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_FAIL_2/col-3":  "넌 달리아에게 아직 주먹질하지 않은 나무가 숲에 있다고 귀띔해 주의를 돌린 다음, 하늘소들의 대통령과 마주 앉는다.",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_FAIL_3/col-3":  "앞서 개미 여왕에게 했던 것과 똑같은 말을 전한다. 진짜 적은 다른 곤충이 아니야. 개미 형제들과 싸우도록 강요하는 잔혹한 독재자가 진정한 적이라고!",
@@ -85,5 +85,5 @@
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_FAIL_15/col-3":  "이럴 수가, %CURRENTPLAYERNAME% 친구! 달리아 친구의 주장이 설득력 있게 들립니다! 당신의 호전적인 행태에 실망했고, 큰 충격을 받았습니다!",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_FAIL_16/col-3":  "넌 좋은 의도였다고 설명하려 하지만 입안에 벌레가 이렇게 잔뜩 들어 있으니 말 한마디 하기도 힘들다.",
     "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_FAIL_17/col-3":  "캘큘레스터를 실망시켰다는 괴로움도 수많은 조그만 벌레들과 거대한 달리아 한 명에게 공격당하는 공포 앞에서는 금세 잊혀진다.",
-    "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_FAIL_18/col-3":  "엄청나게 아프다. 특히 달리아에게 맞는 부분이. -2BOLDNESS와 -1FUN을 잃는다."
+    "english_camp_events_maingame/antterrarium3/antterrarium3_OUT_2_FAIL_18/col-3":  "엄청나게 아프다. 특히 달리아에게 맞는 부분이. 대담함 -2와 재미 -1을 잃는다."
 }

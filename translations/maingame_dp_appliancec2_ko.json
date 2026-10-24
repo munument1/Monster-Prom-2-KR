@@ -37,7 +37,7 @@
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_SUC_16/col-3": "어... 그거 정말 네 양말 맞아? 뭔가... 바삭바삭한 것 같은데.",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_SUC_17/col-3": "보통 탐정이라면 곤란하겠지만, 난 세탁기이기도 한 탐정이지! 금세 새 양말처럼 만들어 줄게!",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_SUC_18/col-3": "너희는 달리아의 세탁 코스가 끝나기를 기다리며 편히 쉰다. 느긋하게 즐거운 시간을 보내고, 캘은 자기가 가장 좋아하는 기상 현상 몇 가지까지 설명해 준다. 정말 흥미진진하군!",
-  "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_SUC_19/col-3": "그렇게 돈독해진 우정과 기상 지식 덕분에 +2SMARTS와 +1CHARM을 얻는다!",
+  "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_SUC_19/col-3": "그렇게 돈독해진 우정과 기상 지식 덕분에 지능 +2와 매력 +1을 얻는다!",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_FAIL_1/col-3": "좋아! 좋아아아!!! 난 원래부터 훌륭한 탐정이 될 줄 알았어! 필요한 자질을 전부 갖췄거든.",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_FAIL_2/col-3": "난 섹시하고 매력적인 데다 사회의 규칙 따위 안 지키고, 말까지 하는 세탁기잖아!",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_FAIL_3/col-3": "오, 여신님... 달리아, 또 자기가 전투기라고 우겼을 때처럼 되는 건 아니지? 그렇다면...",
@@ -57,7 +57,7 @@
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_FAIL_17/col-3": "너는 셋에게서 뒷걸음질 치며 필사적으로 해명한다. 처음엔 그저 장난이었는데, 어느새 집착이 되어 버렸다고! 멈추고 싶어도 멈출 수가 없어! 네 힘으로는 어쩔 수 없다고!",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_FAIL_18/col-3": "한심하긴, %CURRENTPLAYERNAME%. 당장 양말이나 내놔. 그럼 이 일은 없던 걸로 해 줄게.",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_FAIL_19/col-3": "안 돼! 절대로! 양말이 없으면 '훔친 양말의 산'을 어떻게 완성하겠어? 네 꿈을 포기할 순 없어!",
-  "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_FAIL_20/col-3": "너는 역겨워하는 친구 셋을 뒤로하고 전리품을 가슴에 꼭 껴안은 채 도망친다. 도중에 소중한 양말을 잔뜩 흘리고, -2BOLDNESS와 -1CHARM도 잃는다.",
+  "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_1_FAIL_20/col-3": "너는 역겨워하는 친구 셋을 뒤로하고 전리품을 가슴에 꼭 껴안은 채 도망친다. 도중에 소중한 양말을 잔뜩 흘리고, 대담함 -2와 매력 -1도 잃는다.",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_SUC_1/col-3": "그건 나도 알아! 양말을 손에 끼워서 귀여운 손인형을 만들려고 했다고!!!",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_SUC_2/col-3": "너는 달리아가 세탁기이므로 손조차 없다는 사실을 차근차근 설명한다.",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_SUC_3/col-3": "와, 정말이네! 나한텐 손도 없고 발도 없어! 난 무적이야!",
@@ -72,7 +72,7 @@
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_SUC_12/col-3": "왜 네가 벌이는 '마녀 집회 비상사태'는 꼭 네 젖꼭지 얘기로 끝나는 거야?",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_SUC_13/col-3": "아니다, 대답하지 마. 양말 문제를 드디어 끝냈으니 그것만으로 만족할래.",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_SUC_14/col-3": "저도 유기체 신체 부위가 없는 친구가 한 명 더 생겨서 기뻐요! 이리 오세요. 서로 경험할 수 없는 신체 감각을 이야기하면서 친해져 봐요!",
-  "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_SUC_15/col-3": "달리아와 캘이 수다를 떨고, 너는 귀를 기울인다. 놀랍게도 꽤 야릇한 대화다. 너무나 야릇해서 즉시 +2CHARM과 +1CREATIVITY를 얻는다.",
+  "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_SUC_15/col-3": "달리아와 캘이 수다를 떨고, 너는 귀를 기울인다. 놀랍게도 꽤 야릇한 대화다. 너무나 야릇해서 즉시 매력 +2와 창의력 +1을 얻는다.",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_FAIL_1/col-3": "뭐라고?! 감히 나한테 발이 없다고 하다니!!!",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_FAIL_2/col-3": "저기... 없잖아? 넌 세탁기라고. 아니면 잠깐... 정말 세탁기가 맞긴 한 거야?",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_FAIL_3/col-3": "설마 다들 가전제품으로 변하니까 너만 소외되기 싫어서 자기 자신에게 무슨 괴상한 마법을 쓴 건 아니겠지?",
@@ -87,5 +87,5 @@
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_FAIL_12/col-3": "나도 그랬어. 하지만 달리아가 소외될까 봐 물덩어리로 변신할 만큼 멍청하진 않을 줄 알았지. 누구나 실수는 하는 법이야.",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_FAIL_13/col-3": "그러니까 아무튼 나한텐 분명 양말이 필요해! 안 그러면 발이 젖는 걸 어떻게 막겠어?",
   "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_FAIL_14/col-3": "어이, %CURRENTPLAYERNAME%, 듣고는 있는 거야? 으으! 내 가슴만 뚫어져라 쳐다보지 말고 집중해!",
-  "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_FAIL_15/col-3": "너는 그게 달리아의 손이라고 확신했는데! 하지만 이제 설명하기엔 너무 늦었다. 모두가 네가 변태라는 듯 노려본다. 너는 -2CHARM과 -1BOLDNESS를 잃는다."
+  "english_camp_events_maingame/dp_appliancec2/dp_appliancec2_OUT_2_FAIL_15/col-3": "너는 그게 달리아의 손이라고 확신했는데! 하지만 이제 설명하기엔 너무 늦었다. 모두가 네가 변태라는 듯 노려본다. 너는 매력 -2와 대담함 -1을 잃는다."
 }

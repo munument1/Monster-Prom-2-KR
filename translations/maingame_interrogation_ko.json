@@ -40,7 +40,7 @@
   "english_camp_events_maingame/interrogation/interrogation_OUT_1_SUC_17/col-3": "모티는 라이벌 캠프의 비밀뿐 아니라 자기 '일생'의 사연까지 털어놓았어. 꽤 감동적이더라. 게다가 마침내 이두근 둘레의 정확한 치수까지 확인했지!",
   "english_camp_events_maingame/interrogation/interrogation_OUT_1_SUC_18/col-3": "블러드페이스 제독이 고아원에 궤멸적인 공격을 감행했고, 캠프 스푸키는 깃발 뺏기 전쟁에서 승리했어! 존나 좋았어! 승리의 쾌감이란!",
   "english_camp_events_maingame/interrogation/interrogation_OUT_1_SUC_19/col-3": "그뿐만 아니라 넌 달리아와 캘, 아라비를 위한 비밀 심리테스트도 만들었어. 제목은 '마음에 드는 코피 사진을 고르면 당신이 어떤 디즈니 공주인지 알려드립니다'야.",
-  "english_camp_events_maingame/interrogation/interrogation_OUT_1_SUC_20/col-3": "그 안에 이런 질문을 몰래 끼워 넣었지. '친구 또는 연애 상대로 %CURRENTPLAYERNAME%를 좋아하나요?' 셋 다 '예'라고 대답했어! 넌 너무 신나서 재미 +2 FUN과 지능 +1 SMARTS를 얻었지.",
+  "english_camp_events_maingame/interrogation/interrogation_OUT_1_SUC_20/col-3": "그 안에 이런 질문을 몰래 끼워 넣었지. '친구 또는 연애 상대로 %CURRENTPLAYERNAME%을 좋아하나요?' 셋 다 '예'라고 대답했어! 넌 너무 신나서 재미 +2와 지능 +1을 얻었지.",
   "english_camp_events_maingame/interrogation/interrogation_OUT_1_FAIL_1/col-3": "뭐어어어라고? 존나 기발한데! 얘들아, 나 하루에 온라인 심리테스트만 40,000개쯤 풀어. 이제 거의 심리치료 수준이야.",
   "english_camp_events_maingame/interrogation/interrogation_OUT_1_FAIL_2/col-3": "가벼운 온라인 심리테스트는 엄밀히 말해 제 고문 금지 프로토콜을 위반하지 않습니다! 이 취조 방법에 찬성합니다.",
   "english_camp_events_maingame/interrogation/interrogation_OUT_1_FAIL_3/col-3": "너희는 몇 분 만에 거부할 수 없는 심리테스트를 만들었어. 제목은 '당신은 어떤 맛 아이스크림일까?'야. 이제 모티를 취조하러 돌아갔지.",
@@ -57,7 +57,7 @@
   "english_camp_events_maingame/interrogation/interrogation_OUT_1_FAIL_14/col-3": "흠... 이번 취조 방법은 효과가 없었습니다. %CURRENTPLAYERNAME% 친구의 지능과 유용성, 인간으로서의 전반적인 가치를 다시 산정하겠습니다.",
   "english_camp_events_maingame/interrogation/interrogation_OUT_1_FAIL_15/col-3": "그러니까 물고문을 했어야지!",
   "english_camp_events_maingame/interrogation/interrogation_OUT_1_FAIL_16/col-3": "씨발! 전쟁을 끝낼 정보를 모티한테서 빼내지도 못했고, 비살상 취조법 따위를 제안했다는 이유로 친구들까지 널 싫어하게 됐어!",
-  "english_camp_events_maingame/interrogation/interrogation_OUT_1_FAIL_17/col-3": "게다가 모티가 네 휴대폰으로 온갖 성인용 트위터 계정을 팔로우하는 바람에 피드가 소 포르노 천지가 됐어. 꼴리긴 하지만 그래도 재미 -2 FUN과 지능 -1 SMARTS를 잃었지.",
+  "english_camp_events_maingame/interrogation/interrogation_OUT_1_FAIL_17/col-3": "게다가 모티가 네 휴대폰으로 온갖 성인용 트위터 계정을 팔로우하는 바람에 피드가 소 포르노 천지가 됐어. 꼴리긴 하지만 그래도 재미 -2와 지능 -1을 잃었지.",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_1/col-3": "존나 잔혹하군! 다른 포로가 저 발정 난 미노타우로스와 친해져 정보를 캐낸 다음, '극적인 반전'으로 배신하는 거야! 잠입할 적임자도 딱 알겠어...",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_2/col-3": "당연히 나지!",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_3/col-3": "너는 몇 시간 동안 달리아가 완벽한 포로 변장을 하도록 도왔어! 달리아는 라이벌 캠프 출신의 파란 악마 소년 '달리우스'로 위장해 감옥에 잠입할 거야.",
@@ -74,9 +74,9 @@
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_14/col-3": "하! 웃기고 있네, 얼굴 달린 바이브레이터 자식아. 넌 미노타우로스 모티와 '달리우스'로 이루어진 전설의 베프 팀을 못 막아! 우린 평생 형제라고!!",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_15/col-3": ".........하. 하하. 하하하하. 바하하하하하하하! 이 근육질의 섹시하고 잘생긴 멍청아!",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_16/col-3": "달리우스가 콧수염과 턱수염을 뜯어내자 드러난 정체는... 처음부터 달리아였어! 씨발, 변장이 너무 완벽해서 너조차 잠깐 잊고 있었다니까.",
-  "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_17/col-3": "바로 나다! '달리아 아키노'! 달리우스는 네 신뢰를 얻기 위한 위장이었을 뿐이지. 나는 변장의 달인이다! 그리고 %CURRENTPLAYERNAMECAPS%는 뭐, 대충 내 조수쯤 되겠군!",
+  "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_17/col-3": "바로 나다! '달리아 아키노'! 달리우스는 네 신뢰를 얻기 위한 위장이었을 뿐이지. 나는 변장의 달인이다! 그리고 %CURRENTPLAYERNAMECAPS%은 뭐, 대충 내 조수쯤 되겠군!",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_18/col-3": "어떻게 이럴 수가?! 난 널 믿었다고, 달리우스! 우린 형제였잖아!!!! 적어도 고추로 맺어진 사촌 사이였잖아!!!!",
-  "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_19/col-3": "씨발, 좋았어! 캠프 스푸키가 깃발 뺏기 전쟁에서 승리했고 넌 대담함 +2 BOLDNESS와 지능 +1 SMARTS를 얻었어. 게다가 달리아뿐 아니라 달리우스한테도 존나 반했다는 사실을 깨달았지.",
+  "english_camp_events_maingame/interrogation/interrogation_OUT_2_SUC_19/col-3": "씨발, 좋았어! 캠프 스푸키가 깃발 뺏기 전쟁에서 승리했고 넌 대담함 +2와 지능 +1을 얻었어. 게다가 달리아뿐 아니라 달리우스한테도 존나 반했다는 사실을 깨달았지.",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_FAIL_1/col-3": "씨발, 좋았어! 다른 포로가 모티와 친해져서 비밀을 죄다 캐낸 다음 '잔혹한 반전'으로 배신하는 거야! 세피로스처럼 뒤통수를 쳐 주자고.",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_FAIL_2/col-3": "제가 잠입을 자원하겠습니다! 저는 유기 생명체들과 친구가 되는 것을 정말 좋아합니다. 모티나 %CURRENTPLAYERNAME% 친구처럼 성욕이 걱정스러울 정도로 높은 분들까지도요!",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_FAIL_3/col-3": "너는 몇 시간 동안 캘큘레스터의 완벽한 포로 변장을 도왔어! 그는 라이벌 캠프 출신이며 컴퓨터에서 자아를 얻은 로봇 '캘큘래리'로 위장해 잠입할 거야.",
@@ -92,5 +92,5 @@
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_FAIL_13/col-3": "잠깐, 뭐라고?! 야, 캘! 너 우리 팀인 거 기억하지? 모티가 네 회로 차단기에 기름을 너무 많이 부었어?!",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_FAIL_14/col-3": "<PERSONALITY ALGORITHM:\"CALCULESTER\" DESTROYED. CURRENT PERSONALITY ALGORITHM:\"CALCULARRY.\" RUN FRIENDSHIP PROTOCOL: [CAMP RIVALCAMP FOREVER!]> (인격 알고리즘 '캘큘레스터' 파괴됨. 현재 인격 알고리즘 '캘큘래리'. 우정 프로토콜 실행: 라이벌 캠프여 영원하라!)",
   "english_camp_events_maingame/interrogation/interrogation_OUT_2_FAIL_15/col-3": "씨발! 모티가 진짜 캘큘레스터를 자기편으로 만들어 버렸나 봐. 넌 온종일 캘큘래리를 쫓아다녔고, 그 혼란을 틈타 모티가 탈옥했어! 젠장, 넌 형편없는 간수야!",
-  "english_camp_events_maingame/interrogation/interrogation_OUT_2_FAIL_16/col-3": "넌 캘큘래리를 다시 캘큘레스터로 되돌리느라 '몇 시간'이나 고생했어. 결국 성공하긴 했지만, 캘의 배터리 팩에 존나 심하게 감전당해서 대담함 -2 BOLDNESS와 지능 -1 SMARTS를 잃었지."
+  "english_camp_events_maingame/interrogation/interrogation_OUT_2_FAIL_16/col-3": "넌 캘큘래리를 다시 캘큘레스터로 되돌리느라 '몇 시간'이나 고생했어. 결국 성공하긴 했지만, 캘의 배터리 팩에 존나 심하게 감전당해서 대담함 -2와 지능 -1을 잃었지."
 }

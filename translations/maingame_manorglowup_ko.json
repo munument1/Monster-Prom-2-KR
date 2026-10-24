@@ -39,7 +39,7 @@
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_SUC_17/col-3": "잠깐... 그거 좋은 소식이군요! 죽는 편이 낫다면 더는 도덕적 난제가 없잖아요! <ERROR RESOLVED.> (오류 해결.)",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_SUC_18/col-3": "캘큘레스터는 기쁜 마음으로 인테리어 디자이너를 찌른다. 로봇 특유의 섬뜩한 방식으로, 한 번의 길고 매끄러운 동작으로 찌른다. 그래도 여전히 섹시하다.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_SUC_19/col-3": "'칼에 찔렸잖아! 아야! 분명 죽겠지만, 인테리어 계약은 끝까지 지키겠어요! 죽어서도 영원히 이 저택을 아름답게 가꾸겠다고 맹세해요!'",
-  "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_SUC_20/col-3": "결국 너희는 사람 하나를 죽였다... 하지만 저택에는 세련된 유령이 생겼고, 캘과 마일로의 다큐 시리즈는 광고 수익을 엄청나게 벌어들였으며, 너는 +2 CREATIVITY와 +1 SMARTS를 얻었다. 이 정도면 남는 장사잖아!",
+  "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_SUC_20/col-3": "결국 너희는 사람 하나를 죽였다... 하지만 저택에는 세련된 유령이 생겼고, 캘과 마일로의 다큐 시리즈는 광고 수익을 엄청나게 벌어들였으며, 너는 창의력 +2와 지능 +1을 얻었다. 이 정도면 남는 장사잖아!",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_FAIL_1/col-3": "인테리어 디자이너의 유령이 도움이 될 수 있다는 건 이해하지만... 살인은 잘못된 일이라는 확신이 99.87%나 들어요. 특히 부동산의 미관을 개선하려는 목적이라면 더욱 그렇죠.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_FAIL_2/col-3": "문자 그대로 죽음의 신이자 직업적으로 끝내주게 멋진 존재인 내가 보증하는데, 미관 개선만큼 사람을 죽이기 좋은 이유는 없어.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_FAIL_3/col-3": "제 반론은 완전히 격파됐군요! 미학적인 살인을 해 봅시다!",
@@ -60,7 +60,7 @@
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_FAIL_18/col-3": "나도 실망했어, %CURRENTPLAYERNAME%. 주택 리모델링이란 쓰레기를 보물로 바꾸는 영원한 예술이지. 그런데 알고 보니 여기서 쓰레기는 바로 '너'였네.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_FAIL_19/col-3": "'분명히 %CURRENTPLAYERNAME%은(는) 현실 감각이 없는 바보군요. 하지만 관심이 있으시다면 좀 더 저렴한 유령 서비스도 있답니다. 제 인턴 한 명을 이 저택에 붙여 드릴게요!'",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_FAIL_20/col-3": "'인턴은 제가 맨손으로 직접 죽여 드리겠습니다!'",
-  "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_FAIL_21/col-3": "캘큘레스터와 마일로는 멋진 인턴 유령을 얻고, 다큐 시리즈도 엄청난 인기를 끈다... 하지만 영상마다 네 모습은 모조리 편집해 버린다. 너는 -2 CREATIVITY와 -1 SMARTS를 잃는다. 으악.",
+  "english_camp_events_maingame/manorglowup/manorglowup_OUT_1_FAIL_21/col-3": "캘큘레스터와 마일로는 멋진 인턴 유령을 얻고, 다큐 시리즈도 엄청난 인기를 끈다... 하지만 영상마다 네 모습은 모조리 편집해 버린다. 너는 창의력 -2와 지능 -1을 잃는다. 으악.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_SUC_1/col-3": "너는 시대를 초월한 인테리어 비법을 제안한다. 씨발, 그냥 평면 TV 하나 달면 되잖아.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_SUC_2/col-3": "세상에, 맞아! 평면 TV 한 대면 아무리 구린 집도 완전히 바뀌거든. 완벽해!",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_SUC_3/col-3": "정말이에요! 예전에 마일로 친구와 저는 리모델링할 고래 시체 안에 평면 TV를 설치한 적도 있어요. 공간 전체가 하나로 어우러지더군요!",
@@ -74,7 +74,7 @@
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_SUC_11/col-3": "게다가 전부 '숨이 멎을 만큼 아름다운' 4K HD 화질이라니!",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_SUC_12/col-3": "마일로와 캘은 개선된 인테리어에 대만족한다. 그래서 너희는 다 함께 꼭 붙어 앉아 팝콘을 만들고 한동안 평면 TV를 본다.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_SUC_13/col-3": "저 죽은 여자가 친구들끼리 TV를 보고 나서 가볍게 떡치는 건 괜찮다는 고대의 예언을 악쓰며 외치는 모습이 보여. 얼굴의 모공까지 아주 선명하네!",
-  "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_SUC_14/col-3": "넌 캘과 마일로를 잔뜩 껴안고 논다. 유령들이 너희를 지켜보고 있다는 게 확실히 느껴진다. 야릇하다. +2 CREATIVITY와 +1 CHARM을 얻는다.",
+  "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_SUC_14/col-3": "넌 캘과 마일로를 잔뜩 껴안고 논다. 유령들이 너희를 지켜보고 있다는 게 확실히 느껴진다. 야릇하다. 창의력 +2와 매력 +1을 얻는다.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_FAIL_1/col-3": "너는 시대를 초월한 인테리어 비법을 제안한다. 씨발, 그냥 평면 TV 하나 달면 되잖아.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_FAIL_2/col-3": "세상에, 맞아! 평면 TV 한 대면 아무리 구린 집도 완전히 바뀌거든. 완벽해!",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_FAIL_3/col-3": "정말이에요! 예전에 마일로 친구와 저는 리모델링할 고래 시체 안에 평면 TV를 설치한 적도 있어요. 공간 전체가 하나로 어우러지더군요!",
@@ -89,5 +89,5 @@
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_FAIL_12/col-3": "너는 승리감에 젖어 TV를 연결한다. 그런데 알고 보니 유령 케이블 방송에 따로 가입해야 한다.",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_FAIL_13/col-3": "으그그그아악! 이 짓에 이미 몇 시간을 썼잖아! 더는 집중할 힘도 없어! 이 개소리 때문에 최신 유행을 얼마나 많이 놓쳤는지 알아?!",
   "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_FAIL_14/col-3": "게다가 우리 예산의 66.82%를 어댑터에 다 써 버렸어요! 이제 디즈니+ 계정도 못 사겠군요. 불법 복제는 도덕적으로 반대하는데요. 디지털 해적이든 바다 해적이든 모두요!",
-  "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_FAIL_15/col-3": "마일로와 캘은 네게 잔뜩 짜증이 났고, 너는 훔친 TV를 반품하기가 얼마나 어려운지도 배운다. -2 CREATIVITY와 -1 CHARM을 잃는다."
+  "english_camp_events_maingame/manorglowup/manorglowup_OUT_2_FAIL_15/col-3": "마일로와 캘은 네게 잔뜩 짜증이 났고, 너는 훔친 TV를 반품하기가 얼마나 어려운지도 배운다. 창의력 -2와 매력 -1을 잃는다."
 }

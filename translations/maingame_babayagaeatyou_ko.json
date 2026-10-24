@@ -37,7 +37,7 @@
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_SUC_15/col-3": "나도 전혀 몰랐어. 완전 반전이잖아. 《로스트》를 보는 기분이야.",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_SUC_16/col-3": "맞아, 나도 상상조차 못 했어. 솔직히 %CURRENTPLAYERNAME%이(가) 우릴 살리려고 친한 친구 로코를 희생양으로 바칠 만큼 선견지명이 있어서 정말 다행이야. 잘했어!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_SUC_17/col-3": "오븐에서 약 스물다섯 분을 보낸 로코는 완전히 죽어서 알맞게 구워진다. 바바 야가는 너희도 남아서 라비올로 저녁 식사를 함께하자고 초대한다!",
-  "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_SUC_18/col-3": "너는 바바 야가와 친구들과 함께 아주 즐거운 시간을 보내고, 로코의 몸이 어찌나 맛있는지 +2 BOLDNESS와 +1 SMARTS까지 얻는다. 우정 최고!",
+  "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_SUC_18/col-3": "너는 바바 야가와 친구들과 함께 아주 즐거운 시간을 보내고, 로코의 몸이 어찌나 맛있는지 대담함 +2와 지능 +1까지 얻는다. 우정 최고!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_FAIL_1/col-3": "로코는 네가 아는 늑대 라비올로 중 가장 끝내주는 녀석이고, 언제나 무척 맛있는 냄새가 난다. 너는 로코를 숲으로 꾀어 내고, 바바 야가는 너희 네 명을 기묘한 집 안으로 데려간다.",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_FAIL_2/col-3": "'에에에이.' 로코가 말한다. 녀석은 존나 쿨하다. 항상 선글라스도 쓰고 다닌다. '이 집, 뭐랄까... 분위기 끝내주는데? 마음에 들어.'",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_FAIL_3/col-3": "로코, 네가 50% 라비올리, 50% 늑대인간인 건 알지만, 넌 내가 만난 놈 중 100% 가장 매력적인 새끼야.",
@@ -58,7 +58,7 @@
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_FAIL_18/col-3": "젠장. 바바 야가는 '먼저 아니라고 외치기'라는 신성한 규칙을 존중해서, 너를 오븐에 집어넣고 윗불을 켠다. 로코까지 포함해서 친구들은 모두 널 죽도록 내버려 두고 떠난다!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_FAIL_19/col-3": "다행히 넌 몰래 바바 야가의 부엌에서 숟가락 하나를 챙겨 뒀다. 마녀가 안 보는 틈을 타 오븐 안의 포스터 뒤를 숟가락으로 파서 구멍을 낸다!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_FAIL_20/col-3": "다행히 바바 야가는 오븐 안에 섹시한 미녀 포스터를 붙여 뒀다. 그 덕에 네 탈출용 굴이 가려지니까. 널 약불에 천천히 굽기로 한 것도 정말 운이 좋았다.",
-  "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_FAIL_21/col-3": "몇 시간 동안 땅을 판 끝에 마침내 오븐에서 탈출한다. 삼도 화상도 조금밖에 안 입었어! 살아남기는 했지만 -2 BOLDNESS와 -1 SMARTS를 잃는다.",
+  "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_1_FAIL_21/col-3": "몇 시간 동안 땅을 판 끝에 마침내 오븐에서 탈출한다. 삼도 화상도 조금밖에 안 입었어! 살아남기는 했지만 대담함 -2와 지능 -1을 잃는다.",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_SUC_1/col-3": "갑자기 너는 '바바 야가가 친구들을 잡아먹는다'는 문제를 완벽하게 해결할 방법이 떠오른다. 지난주 너는 아라비와 데미안과 함께 만취했는데...",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_SUC_2/col-3": "...셋이 각자의 영양성분표를 발목에 문신으로 새기기로 했었다! 세상에서 제일 웃긴 문신이지!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_SUC_3/col-3": "너는 친구들에게 얼른 바바 야가에게 발목 문신을 보여 주라고 한다! 너희 모두 콜레스테롤 수치가 얼마나 높은지 보면 절대 잡아먹지 못할 거야!",
@@ -76,7 +76,7 @@
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_SUC_15/col-3": "잠깐, 얘들아! 방금 좋은 생각이 떠오른 것 같아... 아니면 아까 마신 스무디 때문에 머리가 얼얼한 걸 수도 있고. 아무튼 %CURRENTPLAYERNAME%, 휴대전화 좀 줘!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_SUC_16/col-3": "헥스가 네 휴대전화를 낚아채 당일 배송으로 오븐을 주문한다. 배달원이 새 오븐을 숲에 가져오자 너희는 그걸 '산산조각' 내 버린다!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_SUC_17/col-3": "그리고 오후 내내 함께 오븐을 고친다! 존나 재밌는 데다 아라비 말이 맞았다. 무기 제작 기술까지 올라간다!",
-  "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_SUC_18/col-3": "너희는 새것처럼 작동하는 따끈따끈한 오븐 주위에 둘러앉아 몇 시간을 보낸다. 오븐은 강력해서 네게 +2 FUN과 +1 CREATIVITY를 준다. 씨발 좋았어!",
+  "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_SUC_18/col-3": "너희는 새것처럼 작동하는 따끈따끈한 오븐 주위에 둘러앉아 몇 시간을 보낸다. 오븐은 강력해서 네게 재미 +2와 창의력 +1을 준다. 씨발 좋았어!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_FAIL_1/col-3": "갑자기 너는 '바바 야가가 친구들을 잡아먹는다'는 문제를 완벽하게 해결할 방법이 떠오른다. 지난주 너는 아라비와 데미안과 함께 만취했는데...",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_FAIL_2/col-3": "...셋이 각자의 영양성분표를 발목에 문신으로 새기기로 했었다! 세상에서 제일 웃긴 문신이지!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_FAIL_3/col-3": "어? 아... 맞다. 발목에 문신을 했던 게 어렴풋이 기억나. 잠깐, 근데 왜 내 문신엔 '매콤한 빨간 아기 전골 카레 조리법'이라고 적혀 있지?",
@@ -97,5 +97,5 @@
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_FAIL_18/col-3": "솔직히... 난 괜찮아. 조리법 문신 얘기를 꺼낸 걸 보면 %CURRENTPLAYERNAME%은(는) '우리'를 잡아먹히게 하려던 게 분명하잖아.",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_FAIL_19/col-3": "언제나 그렇듯 %CURRENTPLAYERNAME%은(는) 명백히 나쁜 영향을 주고, 기회만 생기면 우릴 뒤통수칠 작정이지. %CURRENTPLAYERNAME%이(가) 아니라 유다라고 불러야겠어!",
   "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_FAIL_20/col-3": "친구들은 네가 그들을 잡아먹히게 하려 했다고 생각해 존나 화를 낸다. 너를 바바 야가와 단둘이 남겨 두고 떠나 버리니, 탈출하는 데 오후 내내 걸린다!",
-  "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_FAIL_21/col-3": "결국 목숨은 건져 바바 야가의 으스스한 집에서 탈출하지만... 메스껍고 지독한 수프 악취의 대가로 -2 FUN과 -1 CREATIVITY를 잃는다."
+  "english_camp_events_maingame/babayagaeatyou/babayagaeatyou_OUT_2_FAIL_21/col-3": "결국 목숨은 건져 바바 야가의 으스스한 집에서 탈출하지만... 메스껍고 지독한 수프 악취의 대가로 재미 -2와 창의력 -1을 잃는다."
 }

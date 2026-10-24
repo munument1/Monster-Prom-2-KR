@@ -38,7 +38,7 @@
   "english_camp_events_maingame/landscape/landscape_OUT_1_SUC_18/col-3": "그 녀석도 내가 더 뛰어난 전사가 되는 데 도움이 될 금단의 지혜 같은 걸 알고 있어?",
   "english_camp_events_maingame/landscape/landscape_OUT_1_SUC_19/col-3": "그게... 프로요 맛집 하나는 기가 막히게 알아!",
   "english_camp_events_maingame/landscape/landscape_OUT_1_SUC_20/col-3": "흠... 헥스, 네 말이 맞았어. 내 몸속에서 이런 일들이 벌어지는 줄은 몰랐네. 정보를 더 수집할 수 있도록 풍경화를 더 그려 줘!",
-  "english_camp_events_maingame/landscape/landscape_OUT_1_SUC_21/col-3": "헥스는 기꺼이 그 부탁을 들어줘. 두 녀석이 모처럼 사이좋게 지내는 것도 전부 네 덕분이야! 넌 +2CREATIVITY와 +1FUN을 얻어.",
+  "english_camp_events_maingame/landscape/landscape_OUT_1_SUC_21/col-3": "헥스는 기꺼이 그 부탁을 들어줘. 두 녀석이 모처럼 사이좋게 지내는 것도 전부 네 덕분이야! 넌 창의력 +2와 재미 +1을 얻어.",
   "english_camp_events_maingame/landscape/landscape_OUT_1_FAIL_1/col-3": "...뭐라고?",
   "english_camp_events_maingame/landscape/landscape_OUT_1_FAIL_2/col-3": "야, 맞아! 내가 즐겨 찾는 단골 장소들을 전부 그릴 수 있겠네. 네 송과선 남쪽, 췌장 뒤편의 프로요 가게, 네 엉덩이...",
   "english_camp_events_maingame/landscape/landscape_OUT_1_FAIL_3/col-3": "내 췌장 뒤에 프로즌 요거트 가게가 있다고...? 아니, 됐어. 뭔가 이상한데.",
@@ -50,7 +50,7 @@
   "english_camp_events_maingame/landscape/landscape_OUT_1_FAIL_9/col-3": "어, 와. 그러니까 며칠 전에 %HESHE%가 네 장기들이 어떻게 생겼는지 설명해 달라며 햄버거를 한 상자나 갖다 바쳤던 거구나!",
   "english_camp_events_maingame/landscape/landscape_OUT_1_FAIL_10/col-3": "나도 기억나. 말 그대로 그 자리에 있었거든. %HESHE%는 '학교 과제' 때문이라고 했지만 그럴 리 없잖아! 지금 여름방학이라고!",
   "english_camp_events_maingame/landscape/landscape_OUT_1_FAIL_11/col-3": "실망이야, %CURRENTPLAYERNAME%. 아라비의 내장을 보고 꼴리는 거야 뭐 괜찮아. 솔직히 안 그런 사람이 어디 있겠어? 하지만 소름 끼치게 굴진 말라고!",
-  "english_camp_events_maingame/landscape/landscape_OUT_1_FAIL_12/col-3": "그 뒤로 아라비와 헥스는 둘 다 널 쌀쌀맞게 대해. 이제 '아라비의 장기 팬 블로그'를 어떻게 갱신하지?! 넌 -2CREATIVITY와 -1BOLDNESS를 잃어.",
+  "english_camp_events_maingame/landscape/landscape_OUT_1_FAIL_12/col-3": "그 뒤로 아라비와 헥스는 둘 다 널 쌀쌀맞게 대해. 이제 '아라비의 장기 팬 블로그'를 어떻게 갱신하지?! 넌 창의력 -2와 대담함 -1을 잃어.",
   "english_camp_events_maingame/landscape/landscape_OUT_2_SUC_1/col-3": "맞아! 내 감정을 맛있는 핫도그만큼 뒤흔드는 건 이 세상에 없어!",
   "english_camp_events_maingame/landscape/landscape_OUT_2_SUC_2/col-3": "진심이야? 그 무엇도?",
   "english_camp_events_maingame/landscape/landscape_OUT_2_SUC_3/col-3": "음... 내가 너무 성급하게 말한 것 같아. 사실 핫도그보다 훨씬 더 감동적인 게 많긴 하지.",
@@ -72,7 +72,7 @@
   "english_camp_events_maingame/landscape/landscape_OUT_2_SUC_19/col-3": "문제라니, 전혀! 너희 예술적 재능에 감탄했을 뿐이야! 어디서 읽었는데 미켈란젤로도 시스티나 성당 천장을 핫도그로 그렸대!",
   "english_camp_events_maingame/landscape/landscape_OUT_2_SUC_20/col-3": "미켈란젤로! 내가 제일 좋아하는 닌자 거북이잖아! 뿌듯한걸!",
   "english_camp_events_maingame/landscape/landscape_OUT_2_SUC_21/col-3": "정말? 난 라파엘이 더 좋은데...",
-  "english_camp_events_maingame/landscape/landscape_OUT_2_SUC_22/col-3": "너희는 곧 그림 그리는 걸 깡그리 잊고, 오후 내내 닌자 거북이 이야기를 나누며 아라비의 인벤토리에서 꺼낸 핫도그를 먹어 치워. 넌 +2CHARM과 +1FUN을 얻어!",
+  "english_camp_events_maingame/landscape/landscape_OUT_2_SUC_22/col-3": "너희는 곧 그림 그리는 걸 깡그리 잊고, 오후 내내 닌자 거북이 이야기를 나누며 아라비의 인벤토리에서 꺼낸 핫도그를 먹어 치워. 넌 매력 +2와 재미 +1을 얻어!",
   "english_camp_events_maingame/landscape/landscape_OUT_2_FAIL_1/col-3": "맞아! 내 감정을 맛있는 핫도그만큼 뒤흔드는 건 이 세상에 없어!",
   "english_camp_events_maingame/landscape/landscape_OUT_2_FAIL_2/col-3": "진심이야? 그 무엇도?",
   "english_camp_events_maingame/landscape/landscape_OUT_2_FAIL_3/col-3": "음... 내가 너무 성급하게 말한 것 같아. 사실 핫도그보다 훨씬 더 감동적인 게 많긴 하지.",
@@ -87,5 +87,5 @@
   "english_camp_events_maingame/landscape/landscape_OUT_2_FAIL_12/col-3": "지금 당장은 핫도그가 없을지 몰라도, 난 야생 생존 기술의 전문가야. 핫도그를 만들려면 창자하고 싸구려 고깃덩이만 잔뜩 있으면 돼.",
   "english_camp_events_maingame/landscape/landscape_OUT_2_FAIL_13/col-3": "흠... 너도 나랑 똑같은 생각을 하고 있는 거지?",
   "english_camp_events_maingame/landscape/landscape_OUT_2_FAIL_14/col-3": "난 말 그대로 네 생각을 읽을 수 있으니까 당연하지. 있잖아, %CURRENTPLAYERNAME%, 넌 네 창자를 얼마나 아끼니? 1부터 10까지 점수로 매기자면?",
-  "english_camp_events_maingame/landscape/landscape_OUT_2_FAIL_15/col-3": "넌 녀석들의 마음을 읽을 수는 없지만 앞으로 벌어질 일은 뻔히 알겠어. 맛있는 간식 신세가 되기 전에 도망치느라 -2BOLDNESS와 -1CHARM도 함께 놓고 와 버려."
+  "english_camp_events_maingame/landscape/landscape_OUT_2_FAIL_15/col-3": "넌 녀석들의 마음을 읽을 수는 없지만 앞으로 벌어질 일은 뻔히 알겠어. 맛있는 간식 신세가 되기 전에 도망치느라 대담함 -2와 매력 -1도 함께 놓고 와 버려."
 }

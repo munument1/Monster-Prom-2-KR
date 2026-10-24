@@ -37,7 +37,7 @@
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_SUC_17/col-3": "세상에. 브런치의 문제에는 정말 명확한 답이 없나 봐. 평생 이 문제를 연구해도 되겠어!",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_SUC_18/col-3": "그게 무슨 뜻인지 알아? 지금 우리가 만드는 음식도 '브런치'라고 불러도 아무도 반박할 수 없다는 거지! 근사해라!",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_SUC_19/col-3": "넌 거기서 한술 더 떠서 이걸 '하이퍼브런치'라고 이름 붙이고 조이가 만든 토스트에 경주용 줄무늬까지 그려 넣는다.",
-  "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_SUC_20/col-3": "모두 네 철학적 통찰력에 감탄한다. 덕분에 +2CHARM과 +1SMARTS를 얻는다!",
+  "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_SUC_20/col-3": "모두 네 철학적 통찰력에 감탄한다. 덕분에 매력 +2와 지능 +1을 얻는다!",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_FAIL_1/col-3": "어머, 난 아침 식사 중 열띤 토론을 하는 게 정말 좋더라! 위장까지 자극된다니까.",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_FAIL_2/col-3": "그래, 뭐 어때. 어차피 진짜 음식은 먹지도 못하는 몸이 됐잖아. 그럼 생각이라도 씹어 먹지, 뭐. 주제가 뭔데, %CURRENTPLAYERNAME%?",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_FAIL_3/col-3": "넌 아직 답을 찾지 못한 지독히도 난해한 문제를 두 사람에게 던진다.",
@@ -52,7 +52,7 @@
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_FAIL_12/col-3": "어머, 그 말을 들으니 생각났어! 어떤 아침 식사든 완벽하게 만들어 주는 재료가 *하나* 있지!",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_FAIL_13/col-3": "역겨운 친구의 끔찍한 위생 습관을 보며 함께 느끼는 혐오감!",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_FAIL_14/col-3": "너의 기여에 *정말* 감사해, %CURRENTPLAYERNAME%. 네 끔찍함도 나름 하나의 미학이라니까!",
-  "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_FAIL_15/col-3": "한때 네 친구였던 둘은 네 진한 악취를 무시한 채 몇 시간 동안 토스트와 커피를 만든다. 그 냄새 좀 어떻게 해 보는 게 좋겠어! -2CHARM과 -1FUN을 잃는다.",
+  "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_1_FAIL_15/col-3": "한때 네 친구였던 둘은 네 진한 악취를 무시한 채 몇 시간 동안 토스트와 커피를 만든다. 그 냄새 좀 어떻게 해 보는 게 좋겠어! 매력 -2와 재미 -1을 잃는다.",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_SUC_1/col-3": "으, 또 피자야? 이 캠프의 토핑 잔뜩 얹은 밀가루 원반 집착은 대체 언제 끝나는 거야?",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_SUC_2/col-3": "내 말이. 토스터 투입구에 들어가는 몇 안 되는 음식이라고 내 기준까지 갑자기 낮아지는 건 아니거든.",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_SUC_3/col-3": "하지만 넌 그냥 피자가 아니라며 두 사람을 말린다. 그리고 항상 들고 다니는 은쟁반의 뚜껑을 극적으로 들어 올리는데...",
@@ -66,7 +66,7 @@
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_SUC_11/col-3": "우와, 이거 진짜 맛있다! 혹시 페퍼로니도 있어?",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_SUC_12/col-3": "고귀한 아침 식사의 예술에 관해 내가 배울 게 참 많은 모양이야. 네 말이 옳았어, 마일로.",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_SUC_13/col-3": "내가 그랬잖아, 자기. 자, 다들 모여서 방금 내가 만든 라테의 우유 거품을 감상해 보자!",
-  "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_SUC_14/col-3": "마일로가 라테 위에 거품을 예술적으로 싸지르는 장면을 보는 것만으로도 +2CHARM과 +1BOLDNESS가 차오른다!",
+  "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_SUC_14/col-3": "마일로가 라테 위에 거품을 예술적으로 싸지르는 장면을 보는 것만으로도 매력 +2와 대담함 +1이 차오른다!",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_FAIL_1/col-3": "으, 또 피자야? 이 캠프의 토핑 잔뜩 얹은 밀가루 원반 집착은 대체 언제 끝나는 거야?",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_FAIL_2/col-3": "내 말이. 토스터 투입구에 들어가는 몇 안 되는 음식이라고 내 기준까지 갑자기 낮아지는 건 아니거든.",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_FAIL_3/col-3": "하지만 넌 그냥 피자가 아니라며 두 사람을 말린다. 그리고 항상 들고 다니는 은쟁반의 뚜껑을 극적으로 들어 올리는데...",
@@ -82,5 +82,5 @@
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_FAIL_13/col-3": "아침에 피자 먹는 사람은 없잖아. 역겨워.",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_FAIL_14/col-3": "우리가 무슨, 대낮의 냉혹한 햇빛 아래서 멀어진 아버지와의 관계를 잊으려는 숙취 찌든 사교클럽 남학생들이라도 돼?",
   "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_FAIL_15/col-3": "와, 피자 사랑이 존재 이유인 기괴한 평행세계의 우리조차 네 멍청한 아침 피자 아이디어를 싫어하네. 아주 잘했어, %CURRENTPLAYERNAME%.",
-  "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_FAIL_16/col-3": "조이가 '아주 잘했어'라는 말을 진심으로 한 것 같지는 않다. 사방에서 쏟아지는 경멸의 눈빛에 -2CHARM과 -1FUN을 잃는다."
+  "english_camp_events_maingame/dp_applianced1/dp_applianced1_OUT_2_FAIL_16/col-3": "조이가 '아주 잘했어'라는 말을 진심으로 한 것 같지는 않다. 사방에서 쏟아지는 경멸의 눈빛에 매력 -2와 재미 -1을 잃는다."
 }

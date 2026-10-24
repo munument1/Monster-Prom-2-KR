@@ -39,7 +39,7 @@
   "english_camp_events_maingame/gig3/gig3_OUT_1_SUC_16/col-3": "...마일로가 기왕 여기까지 왔으니 둘이 소풍이나 즐기자고 제안한다! 해가 저물고 있다. 로맨틱한 분위기가 피부로 느껴질 정도라고, 자기야!",
   "english_camp_events_maingame/gig3/gig3_OUT_1_SUC_17/col-3": "아아, 정말 좋다. 이런 목가적인 미학이야말로 지금 내게 꼭 필요한 처방이었어.",
   "english_camp_events_maingame/gig3/gig3_OUT_1_SUC_18/col-3": "오늘 도와줘서 고마워, %CURRENTPLAYERNAME%. 네 신성한 개입이 없었으면 그 영혼 수확은 정말 고역이었을 거야. 넌 역시 내 사랑스러운 조수 맞지?",
-  "english_camp_events_maingame/gig3/gig3_OUT_1_SUC_19/col-3": "마일로가 네 머리카락을 헝클어뜨리고 머리를 쓰다듬는다. 으음, 머리 쓰다듬기! 그 손길이 너무 강력해서 +2 CHARM과 +1 BOLDNESS를 얻는다.",
+  "english_camp_events_maingame/gig3/gig3_OUT_1_SUC_19/col-3": "마일로가 네 머리카락을 헝클어뜨리고 머리를 쓰다듬는다. 으음, 머리 쓰다듬기! 그 손길이 너무 강력해서 매력 +2와 대담함 +1을 얻는다.",
   "english_camp_events_maingame/gig3/gig3_OUT_1_FAIL_1/col-3": "아, 맞아! '북쪽 지방의 넓은 농장' 말이지! 엄밀히 말하면 늙거나 아픈 개들이 모두 가는 곳이지만... 관심 있다면 내가 연줄을 써서 입장객 명단에 넣어 줄 수 있어.",
   "english_camp_events_maingame/gig3/gig3_OUT_1_FAIL_2/col-3": "영혼이 선명한 푸른빛으로 반짝인다. \"나와 개들만 있는 사후 세계라고?! 그야말로 천국이군! 제발 그리로 데려가 주시오!\"",
   "english_camp_events_maingame/gig3/gig3_OUT_1_FAIL_3/col-3": "\"아, 경사로다! 영원토록 쓰다듬어 주고 간식을 주고 사, 산, 산책까지 함께할 수 있겠군!\"",
@@ -57,7 +57,7 @@
   "english_camp_events_maingame/gig3/gig3_OUT_1_FAIL_15/col-3": "미안하지만 이렇게... 이렇게... 절박한 사람하고 함께 있는 모습을 남들에게 보여 줄 순 없어! 그래, 말해 버렸어! 이제 난 갈게, 이 눈물 범벅에 감정적 취약함 덩어리야!",
   "english_camp_events_maingame/gig3/gig3_OUT_1_FAIL_16/col-3": "넌 농장에 홀로 남는다. 세 시간 내내 울고 나서야 캠프로 돌아가는 길을 전혀 모른다는 사실을 깨닫는다.",
   "english_camp_events_maingame/gig3/gig3_OUT_1_FAIL_17/col-3": "여기서 네가 아는 개는 키블스뿐이다. 돌아가는 길을 물어보지만 둘 사이는 여전히 엄청나게 어색하다. 게다가 키블스는 개다. 개는 길 안내를 못 한다.",
-  "english_camp_events_maingame/gig3/gig3_OUT_1_FAIL_18/col-3": "넌 상심한 채 목적지도 없이 며칠을 헤맨다. 어린 시절 추억의 따스한 햇살이 망가져 버린 탓에 -2 CHARM과 -1 BOLDNESS를 잃는다.",
+  "english_camp_events_maingame/gig3/gig3_OUT_1_FAIL_18/col-3": "넌 상심한 채 목적지도 없이 며칠을 헤맨다. 어린 시절 추억의 따스한 햇살이 망가져 버린 탓에 매력 -2와 대담함 -1을 잃는다.",
   "english_camp_events_maingame/gig3/gig3_OUT_2_SUC_1/col-3": "내 사랑스러운 조수 %CURRENTPLAYERNAME%의 말이 맞아! 업보 포인트를 계산해 보니 환생 선택지는 둘이네. 자아가 있는 부리토, 아니면 케이팝 스타!",
   "english_camp_events_maingame/gig3/gig3_OUT_2_SUC_2/col-3": "\"환생이라니 정말 멋지군! 인생을 한 번만 더 살아 보면 아주 훌륭하게 해낼 자신이 있소. 좀 더 자세히 설명해 주겠소?\"",
   "english_camp_events_maingame/gig3/gig3_OUT_2_SUC_3/col-3": "그럼! 케이팝 스타 환생 패키지는 인기가 엄청난 두 번째 인생 상품이야. 세계 곳곳을 여행하고, 세상에서 가장 높은 고음도 낼 수 있지.",
@@ -77,7 +77,7 @@
   "english_camp_events_maingame/gig3/gig3_OUT_2_SUC_17/col-3": "있잖아. 오늘 정말 큰 도움이 됐으니까 작은 선물을 준비했어.",
   "english_camp_events_maingame/gig3/gig3_OUT_2_SUC_18/col-3": "마일로가 접시 하나를 내민다. 그 위에는 육즙이 흐르고 아주 맛있어 보이는 부리토가 놓여 있다.",
   "english_camp_events_maingame/gig3/gig3_OUT_2_SUC_19/col-3": "응, 바로 그 부리토야. 인맥을 좀 썼지. %CURRENTPLAYERNAME%, 나랑 저녁 데이트 어때?",
-  "english_camp_events_maingame/gig3/gig3_OUT_2_SUC_20/col-3": "너와 마일로는 자아가 있는 부리토를 먹는다. 그가 먹히는 내내 비명을 지르지만 분위기는 꽤 로맨틱하다! 게다가 인어족의 영혼을 먹으면 +2 CHARM과 +1 SMARTS를 얻는다는 것도 알게 된다.",
+  "english_camp_events_maingame/gig3/gig3_OUT_2_SUC_20/col-3": "너와 마일로는 자아가 있는 부리토를 먹는다. 그가 먹히는 내내 비명을 지르지만 분위기는 꽤 로맨틱하다! 게다가 인어족의 영혼을 먹으면 매력 +2와 지능 +1을 얻는다는 것도 알게 된다.",
   "english_camp_events_maingame/gig3/gig3_OUT_2_FAIL_1/col-3": "\"환생이라고? 마일로, 그런 선택지도 있다는 말은 안 하지 않았소!\"",
   "english_camp_events_maingame/gig3/gig3_OUT_2_FAIL_2/col-3": "%CURRENTPLAYERNAME%, 네가 환생 얘기를 꺼내다니 믿을 수가 없어. 여기 있는 선택지 중 제일 복잡한 게 환생이거든. 네가 이 영혼 수확을 얼마나 어렵게 만들었는지 알기나 해?",
   "english_camp_events_maingame/gig3/gig3_OUT_2_FAIL_3/col-3": "\"이 제도가 정확히 어떻게 돌아가는지 알아야겠소. 업보 포인트는 어떻게 쌓는 거요? 지금 나는 정확히 몇 점을 가졌소? 얼마든 간에 더 많이 받아야 마땅하오!\"",
@@ -92,5 +92,5 @@
   "english_camp_events_maingame/gig3/gig3_OUT_2_FAIL_12/col-3": "마일로가 손가락을 튕기자 영혼은 빛의 고리 속으로 서서히 사라진다. \"너무 행복하오!\" 영혼이 기쁨에 겨워 흐느낀다. \"드디어 목이 존나 길어지는구나! 이렇게 행복했던 적은 없소!\"",
   "english_camp_events_maingame/gig3/gig3_OUT_2_FAIL_13/col-3": "으, 방금 일은 영 분위기가 별로였어. 난 갈게. %CURRENTPLAYERNAME%, 앞으로 너랑 시간 보내지 말라고 나한테 꼭 상기시켜 줘. 알겠지?",
   "english_camp_events_maingame/gig3/gig3_OUT_2_FAIL_14/col-3": "마일로는 네게 짜증이 난 게 분명한 얼굴로 떠난다. 넌 마일로를 화나게 해서 슬프다! 업보 포인트를 몽땅 잃은 것도 슬프고.",
-  "english_camp_events_maingame/gig3/gig3_OUT_2_FAIL_15/col-3": "이제 잘해야 라크루아 자몽맛 탄산수 캔으로 환생할 수 있을 것 같다. 업보 포인트뿐 아니라 -2 CHARM과 -1 SMARTS도 잃는다."
+  "english_camp_events_maingame/gig3/gig3_OUT_2_FAIL_15/col-3": "이제 잘해야 라크루아 자몽맛 탄산수 캔으로 환생할 수 있을 것 같다. 업보 포인트뿐 아니라 매력 -2와 지능 -1도 잃는다."
 }

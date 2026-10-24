@@ -8,7 +8,7 @@
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_PRE_7/col-3": "알고말고! 세상에서 제일 끝내주는 기분이지!",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_PRE_8/col-3": "좋아. 그럼 예전 던전은 네가 상처 준 사람이고, 새로 얻은 능력은 네 정서적 성숙함이라고 생각해 봐!",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_PRE_9/col-3": "와... 그런 식으로 생각해 본 적은 없는데. 자, %CURRENTPLAYERNAME%, 그 덤불 뒤에서 염탐 그만하고 따라와! 퀘스트 하러 간다!",
-  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_PRE_10/col-3": "잠깐, %CURRENTPLAYERNAME%가 우리 상담 내용을 엿듣고 있었다고? 이건 엄청난 사생활 침해잖아!",
+  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_PRE_10/col-3": "잠깐, %CURRENTPLAYERNAME%이 우리 상담 내용을 엿듣고 있었다고? 이건 엄청난 사생활 침해잖아!",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_PRE_11/col-3": "뭐? 헥스가 우리 상담을 매번 실시간으로 트윗하는 건 침해가 아니고?",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_PRE_12/col-3": "응, 그렇지. 그러고 보니 '엿듣다'는 영어로 철자가 어떻게 되더라?",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_PRE_13/col-3": "...맞는 말이네. 그럼 퀘스트 잘 다녀와!",
@@ -48,7 +48,7 @@
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_SUC_22/col-3": "용서해 달라고 기대하진 않아. 내가 널 엄청나게 많이 죽였으니까. 하지만 이젠 더 죽이지 않을게. 약속해.",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_SUC_23/col-3": "\"날 죽이는 것 자체가 싫었던 건 아니야.\" 슬라임버트가 말해. \"난 슬라임이잖아. 죽는 게 내 일이니까! 단지 내가 죽는 게 너한텐 동전 몇 닢 이상의 의미도 없었다는 게 상처였어. 나도 존재를 인정받으니까 좋네.\"",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_SUC_24/col-3": "와, 그럼 이제 네 기분만 배려해 주면 계속 경험치 파밍을 해도 된다는 거야? 화해하기가 이렇게 좋을 줄이야!!!",
-  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_SUC_25/col-3": "과연 그렇지. 너와 아라비는 다정하게 힘을 합쳐 슬라임버트를 죽여. 녀석이 +2BOLDNESS와 +1FUN을 드롭했어!",
+  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_SUC_25/col-3": "과연 그렇지. 너와 아라비는 다정하게 힘을 합쳐 슬라임버트를 죽여. 녀석이 대담함 +2와 재미 +1을 드롭했어!",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_FAIL_1/col-3": "맞아! %CURRENTPLAYERNAME% 말이 옳아! 인생은 축구 비디오 게임이랑 똑같은 거야!",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_FAIL_2/col-3": "뭐? 어떻게?",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_FAIL_3/col-3": "그러니까... 우선 팀을 짜야 하잖아? 팀원들은 승리를 도와주는 사람들이고. 그런데 팀원 중 누군가 문제가 생기면...",
@@ -63,7 +63,7 @@
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_FAIL_12/col-3": "...그래, 알았어. 하지만 이 '퀘스트'를 이런 식으로 할 거라면 난 안 도와줄래. 노라는 이만 퇴장!",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_FAIL_13/col-3": "아, 젠장. 치료사가 사라졌으니 기술 습득 보너스도 없어졌잖아. 그만큼 채우려면 두 배로 노가다해야겠네.",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_FAIL_14/col-3": "야, %CURRENTPLAYERNAME%, 연습 삼아 너 몇 번 죽여도 괜찮지? 어차피 부활할 수 있잖아?",
-  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_FAIL_15/col-3": "몇 차례 '실험' 끝에 너도 실제로 부활한다는 사실이 밝혀져! 하지만 그 과정은 존나게 아팠고, -2CHARM과 -1CREATIVITY도 잃었어.",
+  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_1_FAIL_15/col-3": "몇 차례 '실험' 끝에 너도 실제로 부활한다는 사실이 밝혀져! 하지만 그 과정은 존나게 아팠고, 매력 -2와 창의력 -1도 잃었어.",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_SUC_1/col-3": "유로게임이라고?? 유럽에서 만든 게임?! 말도 안 돼. 유럽에서 나온 것 중 좋은 건 다리 밑 트롤뿐이야. 찾기도 쉽고 경험치도 많이 주거든.",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_SUC_2/col-3": "유로비전도 있잖아. 유로비전을 얕보면 가만 안 둬!!",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_SUC_3/col-3": "왜 그렇게 느끼는지 이해해, 아라비. 유로게임은 복잡하고 시간도 오래 걸리고, 플레이어가 혼란스럽고 짜증 나도록 일부러 만드는 것 같기도 하니까.",
@@ -85,7 +85,7 @@
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_SUC_19/col-3": "와, 아니... 난... 아무것도 모르네. 정말 미안해. 늘 바빠서 널 찌르기 전에 알아갈 시간을 내지도 않았어.",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_SUC_20/col-3": "네 이야기를 해 줘, 슬라임버트. 널 기쁘게 하는 건 뭐야? 뭘 하면서 노는 걸 좋아해?",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_SUC_21/col-3": "\"일단 난 친구들과 신나게 《사후세계 타이쿤》을 하는 걸 좋아해.\" 슬라임버트가 말해. \"자, 게임하자!\"",
-  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_SUC_22/col-3": "너희 모두 《사후세계 타이쿤》을 플레이하며 정말 멋진 시간을 보내. 상자에 쓰여 있듯 '장기 법정 분쟁의 모든 재미를, 더 많은 규칙과 함께!' 즐기는 게임이거든. 넌 +2SMARTS와 +1CHARM을 얻어.",
+  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_SUC_22/col-3": "너희 모두 《사후세계 타이쿤》을 플레이하며 정말 멋진 시간을 보내. 상자에 쓰여 있듯 '장기 법정 분쟁의 모든 재미를, 더 많은 규칙과 함께!' 즐기는 게임이거든. 넌 지능 +2와 매력 +1을 얻어.",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_FAIL_1/col-3": "유로게임이라고?? 유럽에서 만든 게임?! 말도 안 돼. 유럽에서 나온 것 중 좋은 건 다리 밑 트롤뿐이야. 찾기도 쉽고 경험치도 많이 주거든.",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_FAIL_2/col-3": "유로비전도 있잖아. 유로비전을 얕보면 가만 안 둬!!",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_FAIL_3/col-3": "왜 그렇게 느끼는지 이해해, 아라비. 유로게임은 복잡하고 시간도 오래 걸리고, 플레이어가 혼란스럽고 짜증 나도록 일부러 만드는 것 같기도 하니까.",
@@ -106,5 +106,5 @@
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_FAIL_18/col-3": "아라비, 실수로부터 배우는 법에 관해 우리 얘기했잖아...",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_FAIL_19/col-3": "내가 실수한 적이 없는데 어떻게 실수에서 배워?! 이제 비켜. 내. 손으로. 저. 슬라임을. 죽여. 버릴. 테니까.",
   "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_FAIL_20/col-3": "\"아, 또 시작이군.\" 슬라임버트가 체념한 채 칼에 찔려 죽으며 말해.",
-  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_FAIL_21/col-3": "아라비는 살육을 벌이며 달려 나가고, 노라는 그녀를 말리려고 쫓아가. 결국 《사후세계 타이쿤》 정리는 네가 혼자 다 해야 해. 인생에서 12시간을 낭비하고 -2FUN과 -1CREATIVITY를 잃어."
+  "english_camp_events_maingame/dp_aaraviamends1/dp_aaraviamends1_OUT_2_FAIL_21/col-3": "아라비는 살육을 벌이며 달려 나가고, 노라는 그녀를 말리려고 쫓아가. 결국 《사후세계 타이쿤》 정리는 네가 혼자 다 해야 해. 인생에서 12시간을 낭비하고 재미 -2와 창의력 -1을 잃어."
 }

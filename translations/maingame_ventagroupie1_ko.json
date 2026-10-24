@@ -36,7 +36,7 @@
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_SUC_15/col-3": "%CURRENTPLAYERNAME%! 일어나! 우리가 이겼어! 역사상 가장 전설적인 공연이었어! 이건 내 말도 아니야! 여신님이 직접 나타나서 그렇게 말씀하셨다고!",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_SUC_16/col-3": "네가 내 마이크를 검사하지 않았다면 난 지금쯤 죽었을 거야. 목숨을 구해 줘서 고마워... 게다가 주목까지 뺏지 않고 구해 줬잖아. 참 사려 깊네.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_SUC_17/col-3": "날 위해 독 묻은 마이크에 말 그대로 구강성교까지 해 줬으니... 오늘 밤 네 술값 정도는 내가 내야겠지.",
-  "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_SUC_18/col-3": "넌 밤새 조이와 축하 파티를 즐긴다! 다음 날엔 조이가 너에게 키스했는지, 아니면 독에 취해 꾼 꿈인지 기억도 안 나지만... 어느 쪽이든 +2 FUN과 +1 BOLDNESS를 얻는다.",
+  "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_SUC_18/col-3": "넌 밤새 조이와 축하 파티를 즐긴다! 다음 날엔 조이가 너에게 키스했는지, 아니면 독에 취해 꾼 꿈인지 기억도 안 나지만... 어느 쪽이든 재미 +2와 대담함 +1을 얻는다.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_FAIL_1/col-3": "좋아, 이 개자식들아! 순수한 씨발 분노를 맛볼 준비는 됐겠지! 우리는 벤타...",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_FAIL_2/col-3": "조이가 말을 끝내기도 전에 넌 조이를 밀쳐 내고 마이크를 낚아채, 관객 전원에게 네가 벤타그램의 공식 마이크 검사 담당이라고 발표한다! 당연히 야유가 쏟아진다.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_FAIL_3/col-3": "어, 사실 꽤 똑똑한 생각이긴 하네. 공연 시작 전에 음향 점검을 했어야 했으니까. 잘 생각했어, %CURRENTPLAYERNAME%!",
@@ -54,7 +54,7 @@
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_FAIL_15/col-3": "씨발. 이젠 공연할 방법도 없어서 좆같은 공연을 취소해야겠네. 우리 공연 망쳐 줘서 고맙다, %CURRENTPLAYERNAME%. 이번 병신짓은 절대 안 잊어버릴 테니까.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_FAIL_16/col-3": "조이는 네 의도를 오해했지만... 벤타그램 팬 중에는 네가 성실하게 마이크를 검사했을 뿐이라고 알아준 사람도 있을지 몰라. 넌 인정받고 싶어 SNS를 뒤진다.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_FAIL_17/col-3": "이런. 관객들도 오해했네. 네 마이크 핥기가 벤타그램 공연의 일부인 줄 알았는데, 다들 존나 싫어했대.",
-  "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_FAIL_18/col-3": "넌 마이크를 몇 번 핥은 것만으로 벤타그램의 공연과 평판, 조이와의 관계까지 박살 냈다. 게다가 마이크에는 진짜 독이 발려 있었으니 -2 FUN과 -1 BOLDNESS를 잃는다.",
+  "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_1_FAIL_18/col-3": "넌 마이크를 몇 번 핥은 것만으로 벤타그램의 공연과 평판, 조이와의 관계까지 박살 냈다. 게다가 마이크에는 진짜 독이 발려 있었으니 재미 -2와 대담함 -1을 잃는다.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_SUC_1/col-3": "조명이 꺼진다. 단 하나의 스포트라이트가 무대 중앙의 조이를 비춘다. 존나 섹시하다. 데미안과 달리아가 술집 전체를 찢어 놓을 듯 공격적인 첫 음을 울린다.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_SUC_2/col-3": "좋아, 이 개자식들아! 순수한 씨발 분노를 맛볼 준비는 됐겠지! 우리는 벤타그램이다! 가부장제에 똥칠하고 음악을 연주하러 왔다고!",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_SUC_3/col-3": "벤타그램이 첫 곡을 연주하기 시작한다. 넌 곡이 끝나는 순간 완벽한 첫 박수를 치기 위해 정신을 가다듬는다.",
@@ -71,7 +71,7 @@
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_SUC_14/col-3": "맞아, 넌 진정한 박수의 전사였어! 게다가 네가 첫 박수에 대륙식 기술을 쓰는 줄 몰랐네! 난 네가 서양식 박수꾼인 줄 알았거든!",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_SUC_15/col-3": "넌 달리아를 향해 조용히 미소 짓는다. 조이는 네 박수 실력을 모르고 행복해하지만, 달리아만큼은 네 공연이 얼마나 위대한 일이었는지 이해하는 것 같아.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_SUC_16/col-3": "오늘 공연 정말 좋았어... 관객석의 %CURRENTPLAYERNAME%이 계속 눈에 띄었거든. 진지하고 귀엽고 집중한 모습이라니. %CURRENTPLAYERNAME%, 이제 넌 공식적으로 내 열혈 팬이야.",
-  "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_SUC_17/col-3": "넌 밤새 조이와 시시덕거린다! 좋았어! 게다가 박수의 신들이 네 박수 실력에 흡족해하며 +2 CREATIVITY와 +1 BOLDNESS를 내려 준다. 인생 최고의 밤이야!",
+  "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_SUC_17/col-3": "넌 밤새 조이와 시시덕거린다! 좋았어! 게다가 박수의 신들이 네 박수 실력에 흡족해하며 창의력 +2와 대담함 +1을 내려 준다. 인생 최고의 밤이야!",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_FAIL_1/col-3": "조명이 꺼진다. 단 하나의 스포트라이트가 무대 중앙의 조이를 비춘다. 존나 섹시하다. 데미안과 달리아가 술집 전체를 찢어 놓을 듯 공격적인 첫 음을 울린다.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_FAIL_2/col-3": "좋아, 이 개자식들아! 순수한 씨발 분노를 맛볼 준비는 됐겠지! 우리는 벤타그램이다! 가부장제에 똥칠하고 음악을 연주하러 왔다고!",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_FAIL_3/col-3": "벤타그램이 첫 곡을 연주하기 시작한다. 넌 곡이 끝나는 순간 완벽한 첫 박수를 치기 위해 정신을 가다듬는다.",
@@ -86,5 +86,5 @@
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_FAIL_12/col-3": "그런데 그 씨발 새끼가 또 이겼어! 거듭된 패배에 정신이 무너진 넌 라이벌 박수꾼에게 달려들어 얼굴을 깨물고, 박수 치는 손을 뜯어내려 한다!",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_FAIL_13/col-3": "전투의 광기가 가라앉자, 조이가 네가 공격하던 평범한 관객에게서 널 떼어 놓았다는 걸 깨닫는다. 조이는 네 얼굴도 한 대 갈겨 줬다.",
   "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_FAIL_14/col-3": "당장 이 술집에서 씨발 꺼져! 네가 우리 공연을 망쳤어, %CURRENTPLAYERNAMECAPS%! 똑똑히 들어. 우리의 섹시한 우정은 끝났고, 난 네가 싫어!",
-  "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_FAIL_15/col-3": "흠... 확신할 수는 없지만 조이가 너한테 화난 것 같기도 하다. 이 불확실성이 또다시 널 미치게 만들고, -2 CREATIVITY와 -1 BOLDNESS를 잃는다."
+  "english_camp_events_maingame/ventagroupie1/ventagroupie1_OUT_2_FAIL_15/col-3": "흠... 확신할 수는 없지만 조이가 너한테 화난 것 같기도 하다. 이 불확실성이 또다시 널 미치게 만들고, 창의력 -2와 대담함 -1을 잃는다."
 }

@@ -24,7 +24,7 @@
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_SUC_9/col-3": "고마워요, %CURRENTPLAYERNAME% 친구. 정말 제 눈을 뜨게 해 주셨어요! 화면에 있는 눈이 아니라 마음속의 눈 말이에요!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_SUC_10/col-3": "화면 속의 하트도 아니고, 제 진짜 비유적인 마음 말이에요!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_SUC_11/col-3": "이런 부탁을 드려도 될지 모르겠지만... 더 높은 해상도의 사진도 있으신가요?",
-  "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_SUC_12/col-3": "당연히 있지! 그런데 더 큰 저장 매체가 필요할 것 같군... 무슨 뜻인지 알지? 너는 +2BOLDNESS와 +1CREATIVITY를 얻는다!",
+  "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_SUC_12/col-3": "당연히 있지! 그런데 더 큰 저장 매체가 필요할 것 같군... 무슨 뜻인지 알지? 너는 대담함 +2와 창의력 +1을 얻는다!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_FAIL_1/col-3": "너는 촉촉하고 탐스러운 입술을 가장 야릇하게 찍은 최고 해상도 사진을 꺼낸다... 그리고 플로피디스크에 담기에는 용량이 너무 커서 바로 버린다.",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_FAIL_2/col-3": "사실 네 입술 사진은 전부 해상도가 너무 높아서 플로피디스크에 들어가지 않는다. 제길, 항상 최고 화질로만 셀카를 찍는 습관이 이럴 때 발목을 잡다니!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_FAIL_3/col-3": "네 아름다운 입술의 품격을 이미지 압축 따위로 떨어뜨릴 순 없으니, 키스를 플로피디스크에 넣을 다른 방법을 찾아야 한다.",
@@ -41,7 +41,7 @@
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_FAIL_14/col-3": "키스할 때 나는 소리라고 설명한다! 이제 키스받은 기분이 드냐고 묻는다.",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_FAIL_15/col-3": "제가 무언가를 느낄 수 있는 한도 내에서라면, 인디 록 가수들이 그토록 자주 애절하게 노래하는 낭만적 소외감과 비슷한 감정인 것 같아요!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_FAIL_16/col-3": "%CURRENTPLAYERNAME% 친구, 새롭고 고통스러운 감정을 경험하게 해 주셔서 고마워요! 하지만 안타깝게도 이 감정 때문에 친구에게 '발정'이 나는 건 아니랍니다.",
-  "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_FAIL_17/col-3": "캘큘레스터는 '자아 탐구'를 하러 떠나고 너만 남는다. 너에게도 자아 탐구가 필요하겠다. 특히 왜 '험파 덤파'가 키스 소리라고 생각했는지부터 말이다. 너는 -2CHARM과 -1FUN을 잃는다.",
+  "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_1_FAIL_17/col-3": "캘큘레스터는 '자아 탐구'를 하러 떠나고 너만 남는다. 너에게도 자아 탐구가 필요하겠다. 특히 왜 '험파 덤파'가 키스 소리라고 생각했는지부터 말이다. 너는 매력 -2와 재미 -1을 잃는다.",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_SUC_1/col-3": "아름다운 숫자들이라니! 세상에, %CURRENTPLAYERNAME% 친구. 우리 관계가 벌써 그 단계까지 왔는지는 몰랐어요!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_SUC_2/col-3": "'키스'가 수학과 조금이라도 닮았다면 유기체들이 왜 그렇게 키스에 집착하는지 이제 알 것 같아요!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_SUC_3/col-3": "이리 오세요, %CURRENTPLAYERNAME% 친구. 제 가상 눈을 깊이 들여다보며 아름다운 숫자를 하나 말해 주세요.",
@@ -58,7 +58,7 @@
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_SUC_14/col-3": "<ERROR. AROUSAL OVERLOAD. VENTING CHASSIS TO AVOID CPU MELTDOWN.> (오류: 흥분 과부하. CPU가 녹지 않도록 본체 내부 열기 배출 중.)",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_SUC_15/col-3": "캘큘레스터의 몸에서 뜨거운 공기가 폭발하듯 뿜어져 나오고, 그는 쾌감에 몸을 부르르 떤다. 증기가 걷히자 캘큘레스터가 프린터로 종이 한 장을 출력해 놓은 게 보인다.",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_SUC_16/col-3": "아스키 하트 안에 너와 캘큘레스터의 이름이 적혀 있다! 아아, 귀여워!",
-  "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_SUC_17/col-3": "넌 야릇한 숫자 놀이로 캘큘레스터를 황홀하게 만들었고, 이번 분기를 통틀어 69라는 숫자를 한 번도 언급하지 않고 끝까지 해냈다! 훌륭해! +2CREATIVITY와 +1SMARTS를 얻는다!",
+  "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_SUC_17/col-3": "넌 야릇한 숫자 놀이로 캘큘레스터를 황홀하게 만들었고, 이번 분기를 통틀어 69라는 숫자를 한 번도 언급하지 않고 끝까지 해냈다! 훌륭해! 창의력 +2와 지능 +1을 얻는다!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_FAIL_1/col-3": "아름다운 숫자들이라니! 세상에, %CURRENTPLAYERNAME% 친구. 우리 관계가 벌써 그 단계까지 왔는지는 몰랐어요!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_FAIL_2/col-3": "'키스'가 수학과 조금이라도 닮았다면 유기체들이 왜 그렇게 키스에 집착하는지 이제 알 것 같아요!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_FAIL_3/col-3": "이리 오세요, %CURRENTPLAYERNAME% 친구. 제 가상 눈을 깊이 들여다보며 아름다운 숫자를 하나 말해 주세요.",
@@ -76,5 +76,5 @@
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_FAIL_15/col-3": "이런, %CURRENTPLAYERNAME% 친구! 혹시 뇌졸중이 오신 건가요? 당장 의무실로 가야 해요!",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_FAIL_16/col-3": "캘큘레스터는 너를 의무실로 급히 데려간다. 거기서 코치는 '허혈을 땀으로 빼내야 한다'며 윗몸일으키기 육천 번을 시킨다. 겨우 여덟 번 만에 너는 무너져 내리고 캘에게 진실을 털어놓는다.",
   "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_FAIL_17/col-3": "세상에! 우리 교육제도가 얼마나 형편없는지 보여 주는 끔찍한 증거군요! 하필이면 친구를 쓰리섬에 초대할까 생각하고 있었는데!",
-  "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_FAIL_18/col-3": "쓰리섬에 몇 명이 필요한지 알았다면 우울했겠지. 너는 -2FUN과 -1CHARM을 잃는다. 걱정 마, 그 계산은 내가 대신 해 줄게."
+  "english_camp_events_maingame/alternativetoakiss/alternativetoakiss_OUT_2_FAIL_18/col-3": "쓰리섬에 몇 명이 필요한지 알았다면 우울했겠지. 너는 재미 -2와 매력 -1을 잃는다. 걱정 마, 그 계산은 내가 대신 해 줄게."
 }

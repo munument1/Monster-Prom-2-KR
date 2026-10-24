@@ -28,7 +28,7 @@
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_SUC_12/col-3": "헤헤, 맞아, 나야! 아앙, 역시 날 아껴 줄 줄 알았다니까!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_SUC_13/col-3": "너와 헥스가 도전에 성공한다! 경품으로 받은 쾌속정은 헥스가 즉시 박살 내고, 평생 먹을 베이글은 헥스가 열네 초 만에 모조리 집어삼킨다.",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_SUC_14/col-3": "정말 끝내줬어! 그런데 혹시 네 팔도 한번 먹어 봐도 돼? 시합 중엔 실례일까 봐 참았는데, 곰 헥스가 먹으려는 걸 보니까 완전 맛있어 보이더라.",
-  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_SUC_15/col-3": "넌 아직 팔을 몸에 붙여 두고 싶지만, 누군가에게 먹게 해 줄 거라면 당연히 헥스라고 말한다. +2FUN과 +1CHARM, 그리고 남은 보트 부품 몇 개를 얻는다!",
+  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_SUC_15/col-3": "넌 아직 팔을 몸에 붙여 두고 싶지만, 누군가에게 먹게 해 줄 거라면 당연히 헥스라고 말한다. 재미 +2와 매력 +1, 그리고 남은 보트 부품 몇 개를 얻는다!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_FAIL_1/col-3": "물론이지! 아라비만 대답할 수 있는 질문을 던지면 돼. 헥스도 대답할 수 있거든. 아라비의 머릿속에 살면서 생각을 잡아먹으니까!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_FAIL_2/col-3": "넌 쉬운 질문을 던진다. 아라비가 가장 무서워하는 것은? 그리고는 느긋하게 앉아 아주 뜨끈뜨끈한 폭로가 나오길 기다린다.",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_FAIL_3/col-3": "아라비가... 가장... 무서워하는 것? 글쎄... 음... 아직 청소년이니 역시 그건...",
@@ -44,7 +44,7 @@
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_FAIL_13/col-3": "크르르르아아아!!!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_FAIL_14/col-3": "뭐라고?! 나 대신 곰을 골랐어? 내가 네 팔을 좀 먹고 있었다는 이유로? 이거 너무 불공평하잖아!!!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_FAIL_15/col-3": "공평하든 말든 네 멍청한 머리로 저지른 짓이야. 넌 도전에 실패하고, 모두가 네게 전갈을 먹으라고 시킨다.",
-  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_FAIL_16/col-3": "그러고는 전갈 먹는 녀석이랑 한집에 살 사람은 없다며 쇼에서 쫓아낸다. -2CHARM과 -1FUN, 그리고 헥스의 존중을 잃는다.",
+  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_1_FAIL_16/col-3": "그러고는 전갈 먹는 녀석이랑 한집에 살 사람은 없다며 쇼에서 쫓아낸다. 매력 -2와 재미 -1, 그리고 헥스의 존중을 잃는다.",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_SUC_1/col-3": "그래. 맞아! 혼자서만 풀어야 용감한 게 아니야. 진정한 영웅이자 리얼리티 쇼 참가자는 언제 도움을 청해야 하는지 아는 법이지.",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_SUC_2/col-3": "그런데 누구한테 전화하지? 당연히 아라비가 가장 잘 알 거야. 사악한 마법의 사슬에 묶여 헥스와 평생을 붙어 지내니까...",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_SUC_3/col-3": "아니, 제작진도 그건 예상하겠지. 게다가 최근 아라비가 '전화기 너머로 칼 찌르기' 기술을 개발 중이라고 했으니 위험을 감수할 순 없어.",
@@ -59,7 +59,7 @@
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_SUC_12/col-3": "헤헤, 맞아, 나야! 아앙, 역시 날 아껴 줄 줄 알았다니까!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_SUC_13/col-3": "그나저나 카메라 앞에서 연기한 거 정말 끝내줬어. 네가 날 곰이나 늙은이랑 착각할 리 없다는 거야 뻔하지만, 집에서 보는 시청자들에겐... 최고였지!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_SUC_14/col-3": "아... 그럼... 당연하지. 처음부터 알고 있었지. 넌 '거대한 털복숭이 헥스'에게 쓰던 연애편지를 조용히 구겨 버린다.",
-  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_SUC_15/col-3": "넌 팝콘을 산더미처럼 받는다. 너무 많아서 미끄럽고 가려운 팝콘 미끄럼틀까지 만들 정도다! 합숙소 사람들 모두 널 좋아하게 되고, +2FUN과 +1CREATIVITY를 얻는다.",
+  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_SUC_15/col-3": "넌 팝콘을 산더미처럼 받는다. 너무 많아서 미끄럽고 가려운 팝콘 미끄럼틀까지 만들 정도다! 합숙소 사람들 모두 널 좋아하게 되고, 재미 +2와 창의력 +1을 얻는다.",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_1/col-3": "그래. 맞아! 혼자서만 풀어야 용감한 게 아니야. 진정한 영웅이자 리얼리티 쇼 참가자는 언제 도움을 청해야 하는지 아는 법이지.",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_2/col-3": "그런데 누구한테 전화하지? 당연히 아라비가 가장 잘 알 거야. 사악한 마법의 사슬에 묶여 헥스와 평생을 붙어 지내니까...",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_3/col-3": "아니, 제작진도 그건 예상하겠지. 게다가 최근 아라비가 '전화기 너머로 칼 찌르기' 기술을 개발 중이라고 했으니 위험을 감수할 순 없어.",
@@ -74,9 +74,9 @@
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_12/col-3": "아주 명쾌한 답이네. 넌 셋 중에서 가장 곰처럼 생긴 녀석을 고른다... 바로 플로지 선생님이다.",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_13/col-3": "하하! 이중 변장 바꿔치기에 속았지!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_14/col-3": "아니, 속인 건 나거든! 내 비기인 거짓말로 %HIMHER%를 속였어! 솔직히 %HIMHER% 눈앞에서 대놓고 전화하면서 이게 통할 줄은 몰랐는데...",
-  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_15/col-3": "하지만 그런 말도 있잖아. '%CURRENTPLAYERNAME%가 얼마나 멍청한지 절대 과소평가하지 마라!' 하하하!",
+  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_15/col-3": "하지만 그런 말도 있잖아. '%CURRENTPLAYERNAME%이 얼마나 멍청한지 절대 과소평가하지 마라!' 하하하!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_16/col-3": "바로 그때 제작진이 나타나 처참한 실패를 이유로 널 쇼에서 퇴출하겠다고 통보한다.",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_17/col-3": "어, 뭐라고? 잠깐, 내가 널 갖고 놀다가 무심코... 나 자신까지 엿 먹인 거야?! 이게 무슨 최악의 상황이야!",
   "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_18/col-3": "게다가 전갈을 내가 아니라 네가 전부 먹는다니! 난 전갈이 완전 좋은데! 아, 망했어.",
-  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_19/col-3": "반대로 넌 전갈을 좋아하지 않는다. 제작진은 웃기지 않을 때까지 억지로 전갈을 먹이는데, 그게 꽤 오래 걸린다. -2FUN과 -1CHARM을 잃는다."
+  "english_camp_events_maingame/dp_hex2/dp_hex2_OUT_2_FAIL_19/col-3": "반대로 넌 전갈을 좋아하지 않는다. 제작진은 웃기지 않을 때까지 억지로 전갈을 먹이는데, 그게 꽤 오래 걸린다. 재미 -2와 매력 -1을 잃는다."
 }

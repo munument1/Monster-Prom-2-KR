@@ -37,7 +37,7 @@
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_SUC_13/col-3": "내 짧고 파란만장한 인생에서 이런 일은 들어 본 적도 없어!",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_SUC_14/col-3": "그야 넌 상담을 받아 본 적이 없으니까, 패배자야! 아라비, 퇴장!",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_SUC_15/col-3": "너와 아라비는 배트니스를 벙찌게 남겨 둔 채 당당히 걸어간다.",
-  "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_SUC_16/col-3": "과녁 뒤에 그렘린을 청테이프로 묶어 뒀기 때문에 피가 났다는 사실은 아무도 알 필요 없다. +2CREATIVITY와 +1SMARTS를 얻는다.",
+  "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_SUC_16/col-3": "과녁 뒤에 그렘린을 청테이프로 묶어 뒀기 때문에 피가 났다는 사실은 아무도 알 필요 없다. 창의력 +2와 지능 +1을 얻는다.",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_FAIL_1/col-3": "네가 아라비 귀에 생각을 속삭이자 그녀가 사악하게 웃는다.",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_FAIL_2/col-3": "진작에 생각하고 있었거든, %CURRENTPLAYERNAME%.",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_FAIL_3/col-3": "(아니다. 네 제안에 완전히 놀랐다. 하지만 상황의 주도권을 쥐고 있다는 느낌을 지키려고 처음부터 자기 생각이었던 척하고 있다.)",
@@ -58,7 +58,7 @@
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_FAIL_18/col-3": "미안해, 배트니스. 널 사랑하는 마음보다 더 큰 건 내 좆이 안 떨어졌으면 하는 마음뿐이야! 안녕! 캠프 라이벌 캠프에서 보자!",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_FAIL_19/col-3": "좋아아아아! 오히려 더 좋아! 고통스러운 이별은 내 고뇌에 불을 지필 뿐이야! 이름 외울 생각도 안 했던 너, 고마워!",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_FAIL_20/col-3": "씨발! 왜 사람을 쏘거나 쏘겠다고 협박해도 문제가 안 풀리는 거지? 이 방법이면 언제나 다 해결됐는데! 참 고맙다, %CURRENTPLAYERNAME%. 좆같은 생각을 내 줘서!",
-  "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_FAIL_21/col-3": "네 탓이 아니라고 항의하려 하지만 아라비는 '총을 든 개미들'이라고 적힌 화살통에서 화살을 꺼내 장전하고 있다. 넌 그 자리에서 도망치며 -2BOLDNESS와 -1FUN을 잃는다.",
+  "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_1_FAIL_21/col-3": "네 탓이 아니라고 항의하려 하지만 아라비는 '총을 든 개미들'이라고 적힌 화살통에서 화살을 꺼내 장전하고 있다. 넌 그 자리에서 도망치며 대담함 -2와 재미 -1을 잃는다.",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_SUC_1/col-3": "난 '배트니스를 아주 세게 쏴서'라는 말까지만 듣고도 마음에 쏙 들었어.",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_SUC_2/col-3": "그 뒤론 안 들었지. 그러니까 그대로 해 볼게.",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_SUC_3/col-3": "잠깐, 아라비...!",
@@ -70,7 +70,7 @@
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_SUC_9/col-3": "더 강해졌다고? 어떻게 그런 생각을 해? 청소년 소설 여주인공의 힘은 전부 공포와 고뇌에서 나오는 거 몰라?!",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_SUC_10/col-3": "이제 무슨 수로 우울한 표정을 짓지? 내가 사는 종말 이후의 지옥 같은 세상에서 어떤 섹시한 남자애랑 뒹굴지 끝없이 고민하고 망설이는 건 어떻게 하라고? 대체 어떻게?!",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_SUC_11/col-3": "그냥 네가 이제 주인공 해. 난 쓸모없어졌어. 네가 날 완벽한 메리 수로 만들어 버렸다고!",
-  "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_SUC_12/col-3": "배트니스는 비극적으로 결연하면서도 불안감 한 점 없이 달려가 버린다. 원래 이딴 이야기가 다 그렇듯 금세 예전 모습으로 돌아오겠지만, 그동안 넌 +2CHARM과 +1SMARTS를 얻는다.",
+  "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_SUC_12/col-3": "배트니스는 비극적으로 결연하면서도 불안감 한 점 없이 달려가 버린다. 원래 이딴 이야기가 다 그렇듯 금세 예전 모습으로 돌아오겠지만, 그동안 넌 매력 +2와 지능 +1을 얻는다.",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_FAIL_1/col-3": "난 '배트니스를 아주 세게 쏴서'라는 말까지만 듣고도 마음에 쏙 들었어.",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_FAIL_2/col-3": "그 뒤론 안 들었지. 그러니까 그대로 해 볼게.",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_FAIL_3/col-3": "잠깐, 아라비...!",
@@ -84,5 +84,5 @@
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_FAIL_11/col-3": "그럼 난 이만 가 볼게! 네가 해 준 일 덕에 두려움 없는 액션 영웅이 되었으니, 앞으로 널 떠올릴 일은 거의 없겠지만!",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_FAIL_12/col-3": "뭐라고?! 그럼 내가 상담을 그렇게 오랫동안 받을 필요 없이... 진작부터 내 뇌에 화살이나 쏘면 됐다는 거야?",
   "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_FAIL_13/col-3": "내 생각엔 그게 여기서 얻을 교훈은 아닌 것 같은데. 그리고 네가 그러지만 않았으면...",
-  "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_FAIL_14/col-3": "하지만 격분한 아라비는 이미 자기 머리를 향해 쇠뇌를 돌리고 있다. 네가 쏘지 못하게 쇠뇌를 향해 몸을 날리는 바람에 아라비는 대신 너를 쏴 버린다. -2BOLDNESS와 -1FUN을 잃는다."
+  "english_camp_events_maingame/hungergamesaa/hungergamesaa_OUT_2_FAIL_14/col-3": "하지만 격분한 아라비는 이미 자기 머리를 향해 쇠뇌를 돌리고 있다. 네가 쏘지 못하게 쇠뇌를 향해 몸을 날리는 바람에 아라비는 대신 너를 쏴 버린다. 대담함 -2와 재미 -1을 잃는다."
 }

@@ -41,7 +41,7 @@
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_SUC_21/col-3": "우린 함께 모험하면서 재밌는 시간을 보냈잖아. 결국 진짜 멋진 놈이란 그런 거 아니겠어?",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_SUC_22/col-3": "그래도 산불이 언젠가 내 앞에 나타날지 궁금하긴 해... 내가 그렇게까지 변한 걸까?",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_SUC_23/col-3": "넌 그 물음에 답할 수 없어. 데미안 자신만이 답할 수 있고, 아직 답을 내릴 준비가 안 됐을지도 모르지.",
-  "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_SUC_24/col-3": "네가 아는 건 그가 자신을 알아가는 동안 곁에서 도와줄 수 있다는 게 기쁘다는 사실뿐이야. 물론 성적으로도 말이지. 덕분에 +2BOLDNESS와 +1SMARTS도 얻었어.",
+  "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_SUC_24/col-3": "네가 아는 건 그가 자신을 알아가는 동안 곁에서 도와줄 수 있다는 게 기쁘다는 사실뿐이야. 물론 성적으로도 말이지. 덕분에 대담함 +2와 지능 +1도 얻었어.",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_FAIL_1/col-3": "오! 좋은 생각인데! 이걸 왜 못 떠올렸지?! 미스터 로저스도 그랬잖아. 최고의 범죄는 가장 가까이 있고 제일 손이 안 가는 범죄라고!",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_FAIL_2/col-3": "데미안이 칼을 꺼내 널 씨발 찔러 버려.",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_FAIL_3/col-3": "그는 조심스럽게 네 심장을 도려낸 뒤 아직 펄떡이는 장기를 손에 들어 올려.",
@@ -60,7 +60,7 @@
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_FAIL_16/col-3": "이 '범죄'는 하나도 도움이 안 됐어! 네 아이디어는 존나 구려.",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_FAIL_17/col-3": "그게 네가 마지막으로 들은 말이야...",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_FAIL_18/col-3": "그리고 지난 저장 지점에서 부활하지. 살아났어! 하지만 그게 무슨 상관이야? 데미안을 도와주지 못했고, 이젠 그가 네 아이디어를 존나 구리다고 생각하는걸.",
-  "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_FAIL_19/col-3": "데미안이 네 엉덩이를 핥아 줬으면 좋겠다느니 네가 그의 엉덩이를 핥고 싶다느니 농담이라도 하고 싶지만, 지금은 -2FUN과 -1SMARTS를 잃은 슬픔에 빠질 새밖에 없어.",
+  "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_1_FAIL_19/col-3": "데미안이 네 엉덩이를 핥아 줬으면 좋겠다느니 네가 그의 엉덩이를 핥고 싶다느니 농담이라도 하고 싶지만, 지금은 재미 -2와 지능 -1을 잃은 슬픔에 빠질 새밖에 없어.",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_SUC_1/col-3": "씨이이발 좋아아아!!!! 난 언제나 해적이 되고 싶었다고!!! 나무 의족을 달게 다리 하나를 잘라 버릴까?",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_SUC_2/col-3": "아니, 잠깐. 이미 뿔 하나를 잘랐잖아. 그럼 네 다리를 하나 자르자! 아니, 그럴 시간 없어!",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_SUC_3/col-3": "그가 그렇게 결정해서 얼마나 다행인지 몰라. 너희는 즉시 해적질에 뛰어들어 온갖 걸 불법으로 내려받아. 영화도, 음악도, 비디오 게임도...",
@@ -80,7 +80,7 @@
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_SUC_17/col-3": "으, 저 녀석들이 뭘 안다고? 그냥 돈 주고 영화 한 편 사서 관계자들한테 정당한 대가를 주고, 같이 즐겁게 보기나 하자.",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_SUC_18/col-3": "...말로 하니까 확실히 나도 좀 얌전해진 것 같네. 어쩌면 산불은 영영 내 앞에 안 나타날지도 몰라.",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_SUC_19/col-3": "그래도 난 내가 씨발 원하는 대로 하고 있어! 진짜 멋진 놈이란 원래 그러는 거 아니겠어?!",
-  "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_SUC_20/col-3": "넌 모르겠지만, 지금 데미안이 원하는 일이 너와 함께 영화를 보는 거라는 사실만은 기뻐. 곧바로 +2CHARM과 +1FUN을 얻었어.",
+  "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_SUC_20/col-3": "넌 모르겠지만, 지금 데미안이 원하는 일이 너와 함께 영화를 보는 거라는 사실만은 기뻐. 곧바로 매력 +2와 재미 +1을 얻었어.",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_FAIL_1/col-3": "씨이이발 좋아아아!!!! 난 언제나 해적이 되고 싶었다고!!!",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_FAIL_2/col-3": "나무 의족을 달게 다리 하나를 잘라 버릴까?",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_FAIL_3/col-3": "아니, 잠깐. 이미 뿔 하나를 잘랐잖아. 그럼 네 다리를 하나 자르자!",
@@ -99,5 +99,5 @@
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_FAIL_16/col-3": "으, %CURRENTPLAYERNAME%, 내가 제일 좋아하는 음악가를 고래로 만들어 버리게 속이다니! 피도 멋지게 안 튀는 피해자가 생기는 범죄까지 저지르게 하다니 믿을 수 없어!!!",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_FAIL_17/col-3": "이젠 산불을 찾든 말든 상관없어... 차라리 산불이 네 앞에 나타나서 널 잡아먹어 버렸으면 좋겠어!",
   "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_FAIL_18/col-3": "처음엔 불이 정말 사람을 '먹을' 수 있는지 의문이 들지만, 곧 '산 채로 불타 죽는다'는 표현이 떠올라.",
-  "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_FAIL_19/col-3": "당연히 기운이 쭉 빠진 넌 -2CHARM과 -1FUN을 잃었어."
+  "english_camp_events_maingame/bp_damienfire3/bp_damienfire3_OUT_2_FAIL_19/col-3": "당연히 기운이 쭉 빠진 넌 매력 -2와 재미 -1을 잃었어."
 }

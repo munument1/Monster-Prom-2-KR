@@ -29,7 +29,7 @@
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_SUC_14/col-3": "혹시... 친구 이상의 사이가 되어 주시겠습니까?",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_SUC_15/col-3": "당연히 좋지!",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_SUC_16/col-3": "훌륭합니다. 전통적인 방식으로 축하합시다. 제가 친구 뒤에 서서 관능적으로 도자기를 빚는 걸 돕고, 붐박스로 좋아하는 노래를 크게 틀며 장미 꽃잎을 뿌리겠습니다.",
-  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_SUC_17/col-3": "실제로 그렇게 한다! 말만 들어도 야하더니 정말 딱 그만큼 야하다! +2FUN과 +1CHARM을 얻는다.",
+  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_SUC_17/col-3": "실제로 그렇게 한다! 말만 들어도 야하더니 정말 딱 그만큼 야하다! 재미 +2와 매력 +1을 얻는다.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_FAIL_1/col-3": "넌 캘큘레스터에게 로맨틱 코미디를 잔뜩 보면 어쩌면...",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_FAIL_2/col-3": "훌륭한 생각입니다! 방금 지금까지 제작된 모든 로맨틱 코미디를 시청했습니다. 이제 사랑할 준비가 됐습니다.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_FAIL_3/col-3": "넌 영화를 보기만 해선 충분하지 않다고 설명하려 한다. 이제 그 내용을...",
@@ -41,7 +41,7 @@
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_FAIL_9/col-3": "<GRAND ROMANTIC GESTURE: ACTIVATE> 거창한 낭만적 행동을 개시합니다.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_FAIL_10/col-3": "캘큘레스터는 피터 가브리엘의 'In Your Eyes'가 흘러나오는 붐박스로 기타를 박살 내 네 마음을 사로잡으려 한다. 붐박스는 폭발하고 그 안에 가득했던 장미 꽃잎이 사방에 흩날린다.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_FAIL_11/col-3": "안타깝게도 넌 장미 꽃잎 알레르기가 있다. 네가 쌕쌕거리며 숨을 몰아쉬는 동안, 캘큘레스터는 정액도 머리카락도 없으면서 머리에 정액이 묻는 귀여운 사고를 연출하려 한다.",
-  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_FAIL_12/col-3": "넌 아나필락시스 쇼크로 쓰러지고, 캘큘레스터는 축 늘어진 네 몸을 붙잡고 도자기를 빚으려 한다. 정신을 차리고 보니 -2BOLDNESS와 -1FUN을 잃었다.",
+  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_1_FAIL_12/col-3": "넌 아나필락시스 쇼크로 쓰러지고, 캘큘레스터는 축 늘어진 네 몸을 붙잡고 도자기를 빚으려 한다. 정신을 차리고 보니 대담함 -2와 재미 -1을 잃었다.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_SUC_1/col-3": "열네 개라고요? 금속 좆의 개수가 통계적으로 매우 이례적이군요!",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_SUC_2/col-3": "제 조사에 따르면 사랑할 능력이 있는 유기 생명체에게는 많아 봐야 구멍이 열 개뿐입니다. 금속 좆을 네 개나 추가로 마련하는 건 과도해 보입니다!",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_SUC_3/col-3": "그래도 저는 친구를 연인이자 친구로서 믿습니다. 분명 좋은 이유가 있어서 금속 좆 열네 개를 제안하셨겠지요!",
@@ -54,7 +54,7 @@
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_SUC_10/col-3": "그러자... 휘파람 소리가 나는데? 그래, 금속 좆으로 팬플루트를 만든 거야. 야릇함이 아주 롤러코스터를 타는구나.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_SUC_11/col-3": "제안해 주셔서 감사합니다, %CURRENTPLAYERNAME% 친구! 관능적이면서도 합리적인 생각이었습니다. 결국 음악이야말로 모두를 하나로 이어 주는 것이니까요!",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_SUC_12/col-3": "친구의 의견이 없었다면 금속 남근으로 이렇게 친밀한 팬플루트를 만들 생각은 못 했을 겁니다. 이것이 바로 우리 관계가 멋진 이유 중 하나지요!",
-  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_SUC_13/col-3": "사태가 흘러간 방향이 조금 당황스럽긴 하지만 캘큘레스터가 좆 피리로 연주하는 'Careless Whisper'는 정말 끝내준다. 머지않아 너도 그 피리를 불게 해 줄지 모르지! +2FUN과 +1CREATIVITY를 얻는다.",
+  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_SUC_13/col-3": "사태가 흘러간 방향이 조금 당황스럽긴 하지만 캘큘레스터가 좆 피리로 연주하는 'Careless Whisper'는 정말 끝내준다. 머지않아 너도 그 피리를 불게 해 줄지 모르지! 재미 +2와 창의력 +1을 얻는다.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_1/col-3": "열네 개라니요? 참으로 묘한 개수의 좆이군요.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_2/col-3": "물론 수학적으로는 짝수입니다. 하지만... 어째서 하필 열네 개일까요? 신화적으로도 수학적으로도 특별한 의미가 없는 숫자입니다. 심지어 '섹시한 소수'도 아니고요.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_3/col-3": "친구의 제안은 분명 하나의 근본적인 진리에서 비롯됐겠지요. 좆이 많을수록 섹시함도 커진다는 진리 말입니다. 하지만...",
@@ -73,9 +73,9 @@
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_16/col-3": "뭐, 시도해 볼 방법이 하나 있긴 해. 여기 있어... 어쩌면 통할지도 모르니까.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_17/col-3": "이봐! 캘큘레스터!",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_18/col-3": "네, 조이 친구?",
-  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_19/col-3": "%CURRENTPLAYERNAME%는 바보고 %HISHER%가 낸 생각도 멍청했어.",
+  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_19/col-3": "%CURRENTPLAYERNAME%은 바보고 %HISHER%가 낸 생각도 멍청했어.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_20/col-3": "이런! 이제부터 %HISHER%의 조언을 따르지 않겠습니다! 감사합니다, 조이 친구.",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_21/col-3": "조이 존슨조지마에겐 이 정도야 일상이지. 그럼 안녕!",
   "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_22/col-3": "조이 친구가 개입해 주셔서 다행입니다! 친구의 생각이 나쁜 것인 줄은 몰랐습니다! 어쩌면... 제가 생각했던 관계가 아닌지도 모르겠군요.",
-  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_23/col-3": "이런! 저런 말투를 보니 이젠 캘큘레스터가 너랑 섹스하고 싶지 않은 모양인데! 왜 금속 좆 딱 하나로 만족하지 못했을까? -2CHARM과 -1FUN을 잃는다."
+  "english_camp_events_maingame/sexyupdate/sexyupdate_OUT_2_FAIL_23/col-3": "이런! 저런 말투를 보니 이젠 캘큘레스터가 너랑 섹스하고 싶지 않은 모양인데! 왜 금속 좆 딱 하나로 만족하지 못했을까? 매력 -2와 재미 -1을 잃는다."
 }
