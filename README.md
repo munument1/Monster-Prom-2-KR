@@ -68,6 +68,8 @@
 - 추가 엔딩 데이터 묶음: `endings_batch_05` (130개)
 - 추가 본편 데이터 묶음: `maingame_batch_38~39` (328개)
 - 추가 엔딩 데이터 묶음: `endings_batch_06` (130개)
+- 추가 본편 데이터 묶음: `maingame_batch_34`, `maingame_batch_40` (446개)
+- 엔딩 최종 데이터 묶음: `endings_batch_07~08` (166개, **모든 엔딩 번역 완료**)
 - 추가 메타텍스트 2개 묶음: `metatexts_batch_04~05` (276개)
 - 추가 메타텍스트 3개 묶음: `metatexts_batch_06`, `meta_batch_07~08` (413개)
 - 추가 잡담 대사 3개 묶음: `gossips_batch_01~03` (369개)
@@ -75,7 +77,7 @@
 - 첫 만남 대사 4개 묶음: `icebreakers_batch_01~04` (517개, 첫 만남 대사 전체 완료)
 - UI 추가 586개: `translations/ui_*_ko.json` 네 파일
 
-**누적 31,978 / 33,850개 위치(94.47%)**를 초벌 번역했습니다. 번역 완료 이벤트는 1,077개 중 1,010개이며, 게임 구동·표시 검증과 전체 한국어 번역은 아직 미완료입니다. 본편 주 스토리는 26,000 / 27,700개 위치(93.86%)가 번역되었습니다.
+**누적 32,590 / 33,850개 위치(96.28%)**를 초벌 번역했습니다. 번역 완료 이벤트는 1,077개 중 1,052개이며, 게임 구동·표시 검증과 전체 한국어 번역은 아직 미완료입니다. 본편 주 스토리는 26,446 / 27,700개 위치(95.47%)가 번역되었습니다. 엔딩 대사는 1,629 / 1,629개 위치(100%)로 번역 완료되었습니다.
 
 ## 로컬 재현
 
@@ -102,7 +104,7 @@ python -m unittest discover -s tests -v
 
 `build_preview.py`는 **텍스트 프리뷰만 생성**합니다. `build_mod.py`는 실제 게임의 `CustomLocalizationParser`가 읽는 2열 탭 구분 형식인 `build/MonsterCampKR/Localization.txt`를 생성합니다. 어떤 스크립트도 게임 원본 변경이나 창작마당 게시를 수행하지 않습니다.
 
-현재 모드 파일 출력은 **31,959개 ID**입니다. 검토한 번역 31,978개 중 원문에 번역 ID가 없는 **19개 행**(음료 이벤트 14개, `antterrarium2` 본편 대사 3개, `strandedinthelake` 대사 1개, `bandrehearsal` 대사 1개)은 공식 텍스트 오버라이드에서 제외하고 `build/MonsterCampKR/manifest.json`의 `requires_asset_patch`에 기록합니다. 이 항목들은 추후 별도 에셋 적용 경로 확인이 필요합니다. 대사 번역용 원문 위치 전체에는 이런 ID 없는 행이 총 19개 존재하며, 모두 현재 번역되어 있습니다.
+현재 모드 파일 출력은 **32,571개 ID**입니다. 검토한 번역 32,590개 중 원문에 번역 ID가 없는 **19개 행**(음료 이벤트 14개, `antterrarium2` 본편 대사 3개, `strandedinthelake` 대사 1개, `bandrehearsal` 대사 1개)은 공식 텍스트 오버라이드에서 제외하고 `build/MonsterCampKR/manifest.json`의 `requires_asset_patch`에 기록합니다. 이 항목들은 추후 별도 에셋 적용 경로 확인이 필요합니다. 대사 번역용 원문 위치 전체에는 이런 ID 없는 행이 총 19개 존재하며, 모두 현재 번역되어 있습니다.
 
 원본 ID·태그·변수 검사 외에도, PowerShell의 인코딩 오류로 한글이 `?`로 손상된 데이터를 사전 차단합니다. 번역·검수 기준은 [docs/TRANSLATION_GUIDE.md](docs/TRANSLATION_GUIDE.md)에 있습니다.
 
