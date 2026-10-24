@@ -25,6 +25,11 @@ $OutputEncoding = [Console]::OutputEncoding = New-Object System.Text.UTF8Encodin
 | Milo Belladonna | 마일로 벨라도나 |
 | Joy Johnson-Johjima | 조이 존슨-조지마 |
 | Dahlia Aquino | 달리아 아키노 |
+| Heatsy | 히트시 |
+| Hex | 헥스 |
+| Coach | 코치 |
+| Morty the Minotaur | 미노타우로스 모티 |
+| Camp Rival Camp | 라이벌 캠프 |
 | SMARTS | 지능 |
 | BOLDNESS | 대담함 |
 | CREATIVITY | 창의력 |
