@@ -37,6 +37,11 @@ $OutputEncoding = [Console]::OutputEncoding = New-Object System.Text.UTF8Encodin
 | FUN | 재미 |
 | MONEY | 돈 |
 | Meta-Shop | 메타 상점 |
+| CPUlysses | CPU율리시스 |
+| Botsworth | 봇스워스 |
+| Batniss | 배트니스 |
+| Cool Josh | 쿨 조시 |
+| Doom Perignon | 둠 페리뇽 |
 
 대사에서 인물 이름의 풀네임이 처음 나오는 문맥이면 성을 살리고, 친근한 부름말에서는 이름이나 별칭을 자연스럽게 씁니다. 의도적으로 영어로 된 상품명·유명 브랜드·고유명사는 고유명사의 성격을 고려해 표기하고, 맥락상 필요한 경우 뜻이 드러나는 한국어로 풉니다.
 
