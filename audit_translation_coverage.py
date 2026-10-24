@@ -126,6 +126,10 @@ def audit(include_working: bool) -> int:
 
     missing = set(catalog) - set(translated)
     meaningful_missing = missing - PRESERVED
+    accidentally_translated = PRESERVED & set(translated)
+    if accidentally_translated:
+        errors.append("Engine numeric/placeholder values must stay unchanged: "
+                      f"{sorted(accidentally_translated)}")
     unsupported = [k for k in translated if
                    catalog[k]["kind"] == "event" and
                    catalog[k]["key"].split("/")[-2].startswith("line-")]
