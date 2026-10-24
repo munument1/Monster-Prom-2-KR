@@ -1,0 +1,7 @@
+/work/
+/build/
+/backups/
+*.bundle
+__pycache__/
+*.pyc
+.venv/
