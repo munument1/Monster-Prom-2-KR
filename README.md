@@ -46,9 +46,10 @@
 - 추가 연속 스토리 8개: `dp_jerry3`, `dp_aaraviamends1~3`, `dp_milocat1~3`, `AnimeWorkout3` (855개)
 - 추가 본편 스토리 8개: `dp_DahliaRival1~3`, `dp_JoyCoven1~3`, `weirdchallengedm`, `slashermo` (1,269개)
 - 추가 본편 이벤트 8개: `weirdchallengej`, `weirdchallengec`, `chickenfight`, `weirdchallengeaa`, `hungergamesdm`, `hungergamesdh`, `manorglowup`, `sexyoutofwater` (614개)
+- 추가 본편 이벤트 8개: `threeleggedrace`, `pollination`, `truffles`, `slashernickname`, `slashercollection`, `babayaganewwitches`, `babayagacat`, `babayagaeatyou` (723개)
 - UI 추가 586개: `translations/ui_*_ko.json` 네 파일
 
-**누적 16,443 / 33,850개 위치(48.58%)**를 초벌 번역했습니다. 번역 완료 이벤트는 1,077개 중 595개이며, 게임 구동·표시 검증과 전체 한국어 번역은 아직 미완료입니다. 본편 주 스토리는 13,779 / 27,700개 위치(49.74%)가 번역되었습니다.
+**누적 17,166 / 33,850개 위치(50.71%)**를 초벌 번역했습니다. 번역 완료 이벤트는 1,077개 중 603개이며, 게임 구동·표시 검증과 전체 한국어 번역은 아직 미완료입니다. 본편 주 스토리는 14,502 / 27,700개 위치(52.35%)가 번역되었습니다.
 
 ## 로컬 재현
 
@@ -75,7 +76,7 @@ python -m unittest discover -s tests -v
 
 `build_preview.py`는 **텍스트 프리뷰만 생성**합니다. `build_mod.py`는 실제 게임의 `CustomLocalizationParser`가 읽는 2열 탭 구분 형식인 `build/MonsterCampKR/Localization.txt`를 생성합니다. 어떤 스크립트도 게임 원본 변경이나 창작마당 게시를 수행하지 않습니다.
 
-현재 모드 파일 출력은 **16,425개 ID**입니다. 검토한 번역 16,443개 중 원문에 번역 ID가 없는 **18개 행**(음료 이벤트 14개, `antterrarium2` 본편 대사 3개, `strandedinthelake` 대사 1개)은 공식 텍스트 오버라이드에서 제외하고 `build/MonsterCampKR/manifest.json`의 `requires_asset_patch`에 기록합니다. 이 항목들은 추후 별도 에셋 적용 경로 확인이 필요합니다. 대사 번역용 원문 위치 전체에는 이런 ID 없는 행이 총 19개 존재하며, 그중 18개가 현재 번역되었습니다.
+현재 모드 파일 출력은 **17,148개 ID**입니다. 검토한 번역 17,166개 중 원문에 번역 ID가 없는 **18개 행**(음료 이벤트 14개, `antterrarium2` 본편 대사 3개, `strandedinthelake` 대사 1개)은 공식 텍스트 오버라이드에서 제외하고 `build/MonsterCampKR/manifest.json`의 `requires_asset_patch`에 기록합니다. 이 항목들은 추후 별도 에셋 적용 경로 확인이 필요합니다. 대사 번역용 원문 위치 전체에는 이런 ID 없는 행이 총 19개 존재하며, 그중 18개가 현재 번역되었습니다.
 
 원본 ID·태그·변수 검사 외에도, PowerShell의 인코딩 오류로 한글이 `?`로 손상된 데이터를 사전 차단합니다. 번역·검수 기준은 [docs/TRANSLATION_GUIDE.md](docs/TRANSLATION_GUIDE.md)에 있습니다.
 
