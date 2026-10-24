@@ -29,7 +29,7 @@ class TranslationStyleTests(unittest.TestCase):
         self.assertEqual(untranslated, [])
 
     def test_player_name_placeholder_uses_consonant_final_particles(self) -> None:
-        invalid_suffixes = ("가", "는", "를", "와", "랑", "로")
+        invalid_suffixes = ("가", "는", "를", "와", "랑", "로", "잖아")
         invalid: list[str] = []
         for path in sorted(TRANSLATIONS.glob("*_ko.json")):
             data = json.loads(path.read_text(encoding="utf-8"))
