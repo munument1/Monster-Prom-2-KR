@@ -60,6 +60,20 @@ class TranslationSafetyTests(unittest.TestCase):
         self.assertNotEqual(Counter(build_preview.TOKEN.findall(source)),
                             Counter(build_preview.TOKEN.findall(corrupt)))
 
+    def test_uppercase_angle_tokens_are_preserved(self) -> None:
+        self.assertEqual(build_preview.TOKEN.findall("<ANGUISH>"), ["<ANGUISH>"])
+        self.assertNotEqual(build_preview.TOKEN.findall("<ANGUISH>"),
+                            build_preview.TOKEN.findall("<ANGUISH_KR>"))
+
+    def test_duplicate_keys_in_one_file_are_rejected(self) -> None:
+        self.target.write_text(
+            '{"TEST_0":"안녕, %CURRENTPLAYERNAME%!","TEST_0":"반가워, %CURRENTPLAYERNAME%!"}',
+            encoding="utf-8",
+        )
+        with patch.object(build_preview, "TRANSLATION_FILES", (self.target,)):
+            with self.assertRaisesRegex(ValueError, "Duplicate JSON translation key"):
+                build_preview.load_translations(self.catalog)
+
 
 if __name__ == "__main__":
     unittest.main()

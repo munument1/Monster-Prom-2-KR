@@ -20,7 +20,17 @@ TRANSLATION_FILES = tuple(sorted((ROOT / "translations").glob("*_ko.json")))
 # Preserve both lower-case markup ([n], [sub], [sp]) and the game's
 # bracketed uppercase UI parameters ([NPC], [ITEM], [PRICE]). The %...%
 # expression stays first so composite variables containing [sp] are atomic.
-TOKEN = re.compile(r"%[A-Z][^%\r\n]{0,96}%|\[/?[a-z0-9]+\]|\[[A-Z][A-Z0-9_]*\]|</?[a-z]+(?:\s[^<>]*?)?>")
+TOKEN = re.compile(r"%[A-Z][^%\r\n]{0,96}%|\[/?[a-z0-9]+\]|\[[A-Z][A-Z0-9_]*\]|<[A-Z][A-Z_0-9/-]{0,80}>|</?[a-z]+(?:\s[^<>]*?)?>")
+
+
+def _reject_duplicate_json_keys(pairs: list[tuple[str, object]]) -> dict:
+    """Prevent duplicate IDs in one translation JSON from silently disappearing."""
+    result = {}
+    for key, value in pairs:
+        if key in result:
+            raise ValueError(f"Duplicate JSON translation key: {key}")
+        result[key] = value
+    return result
 
 
 def load_catalog() -> dict[str, dict]:
@@ -32,7 +42,7 @@ def load_catalog() -> dict[str, dict]:
 def load_translations(catalog: dict[str, dict]) -> dict[str, str]:
     translations = {}
     for path in TRANSLATION_FILES:
-        data = json.loads(path.read_text(encoding="utf-8"))
+        data = json.loads(path.read_text(encoding="utf-8"), object_pairs_hook=_reject_duplicate_json_keys)
         # Windows console codepages may turn an entire Korean translation
         # into literal '?' characters while preserving valid JSON. Reject
         # that silent corruption before including it in any mod build.

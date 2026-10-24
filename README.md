@@ -30,9 +30,10 @@
 - 본편 곰 습격·마법 나무 이벤트 8개: `translations/maingame_bearattack*_ko.json`, `translations/maingame_magictree*_ko.json` (747개)
 - 추가 본편 이벤트 9개: `pokerwolves`, `firstaid`, `lakeonfiredm`, `repurposedeer`, `joinhermitcrab`, `spoilerlynx`, `opinionatedsealion`, `slasherdm`, `weirdchallengemo` (704개)
 - 추가 본편 이벤트 8개: `weirdchallengedh`, `slashercl`, `fishingcl`, `calmeetsfear`, `waterproofcl`, `holdingbreath`, `succulentnewhome`, `readingsafety` (673개)
+- 추가 본편 이벤트 8개: `scottisatree`, `landscape`, `elevatethathedgehog`, `sirensoundcloud`, `ultimateknot`, `macaroniart`, `glamping`, `hungergamesaa` (666개)
 - UI 추가 586개: `translations/ui_*_ko.json` 네 파일
 
-**누적 4,897 / 33,850개 위치(14.47%)**를 초벌 번역했습니다. 번역 완료 이벤트는 1,077개 중 473개이며, 게임 구동·표시 검증과 전체 한국어 번역은 아직 미완료입니다. 본편 주 스토리는 2,233 / 27,700개 위치가 번역되었습니다.
+**누적 5,563 / 33,850개 위치(16.43%)**를 초벌 번역했습니다. 번역 완료 이벤트는 1,077개 중 481개이며, 게임 구동·표시 검증과 전체 한국어 번역은 아직 미완료입니다. 본편 주 스토리는 2,899 / 27,700개 위치가 번역되었습니다.
 
 ## 로컬 재현
 
@@ -47,6 +48,7 @@ python .\extract_catalog.py
 python .\build_preview.py
 python .\build_mod.py
 python .\report_progress.py
+python .\next_translation_batch.py --limit 16
 python .\inspect_images.py
 python .\inspect_images.py --bundle drinks_assets_all.bundle --preview-count 2
 python -m unittest discover -s tests -v
@@ -58,9 +60,11 @@ python -m unittest discover -s tests -v
 
 `build_preview.py`는 **텍스트 프리뷰만 생성**합니다. `build_mod.py`는 실제 게임의 `CustomLocalizationParser`가 읽는 2열 탭 구분 형식인 `build/MonsterCampKR/Localization.txt`를 생성합니다. 어떤 스크립트도 게임 원본 변경이나 창작마당 게시를 수행하지 않습니다.
 
-현재 모드 파일 출력은 **4,883개 ID**입니다. 검토한 번역 4,897개 중 원문에 번역 ID가 아예 없는 음료 이벤트 행 14개는 공식 텍스트 오버라이드에서 제외하고 `build/MonsterCampKR/manifest.json`의 `requires_asset_patch`에 기록합니다. 이 항목들은 추후 별도 에셋 적용 경로 확인이 필요합니다. 대사 번역용 원문 위치 전체에는 이런 ID 없는 행이 총 19개 존재합니다.
+현재 모드 파일 출력은 **5,549개 ID**입니다. 검토한 번역 5,563개 중 원문에 번역 ID가 아예 없는 음료 이벤트 행 14개는 공식 텍스트 오버라이드에서 제외하고 `build/MonsterCampKR/manifest.json`의 `requires_asset_patch`에 기록합니다. 이 항목들은 추후 별도 에셋 적용 경로 확인이 필요합니다. 대사 번역용 원문 위치 전체에는 이런 ID 없는 행이 총 19개 존재합니다.
 
 원본 ID·태그·변수 검사 외에도, PowerShell의 인코딩 오류로 한글이 `?`로 손상된 데이터를 사전 차단합니다. 번역·검수 기준은 [docs/TRANSLATION_GUIDE.md](docs/TRANSLATION_GUIDE.md)에 있습니다.
+
+`next_translation_batch.py`는 완료 이벤트를 제외한 다음 미번역 이벤트와 권장 파일명을 카탈로그 순서대로 표시합니다. `--asset`, `--limit`, `--include-partial` 및 `--json` 옵션으로 범위를 바꿀 수 있습니다. 번역 파일 내 중복 JSON ID와 특수 대문자 꺾쇠 태그도 검증합니다.
 
 ### 이미지 안에 박힌 영어 번역
 
