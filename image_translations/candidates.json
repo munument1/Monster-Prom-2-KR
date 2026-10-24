@@ -1,0 +1,57 @@
+{
+  "format_version": 1,
+  "status": "draft_only_not_applied",
+  "note": "Texture artwork text translations are separate from Localization.txt. These are editable references, not a generated or installed texture.",
+  "items": [
+    {
+      "bundle": "drinks_assets_all.bundle",
+      "texture": "fake_spellpage",
+      "texture_path_id": 4314973737259893274,
+      "dimensions": [380, 380],
+      "workflow": "replace painted text, retain parchment/heart/pentagram artwork and transparency",
+      "text": [
+        {
+          "english": "FORBIDDEN COOL JOSH HEART SPELL",
+          "korean": "금단의 쿨 조시 하트 주문"
+        },
+        {
+          "english": "-1 COOL JOSH (DEAD)",
+          "korean": "-쿨 조시 한 명 (사망)"
+        },
+        {
+          "english": "-I CAN'T BELIEVE U KILLED HIM U MONSTER",
+          "korean": "-걔를 죽이다니, 이 괴물아!"
+        },
+        {
+          "english": "-MIX IN A BOWL",
+          "korean": "-그릇에 섞기"
+        }
+      ]
+    },
+    {
+      "bundle": "backgrounds_assets_all.bundle",
+      "texture": "background_spellpage",
+      "texture_path_id": 2207711453144935715,
+      "dimensions": [1276, 1076],
+      "workflow": "background version of the same Cool Josh spell page; use identical Korean lettering to fake_spellpage, preserve full frame and background",
+      "text": [
+        {
+          "english": "FORBIDDEN COOL JOSH HEART SPELL",
+          "korean": "금단의 쿨 조시 하트 주문"
+        },
+        {
+          "english": "-1 COOL JOSH (DEAD)",
+          "korean": "-쿨 조시 한 명 (사망)"
+        },
+        {
+          "english": "-I CAN'T BELIEVE U KILLED HIM U MONSTER",
+          "korean": "-걔를 죽이다니, 이 괴물아!"
+        },
+        {
+          "english": "-MIX IN A BOWL",
+          "korean": "-그릇에 섞기"
+        }
+      ]
+    }
+  ]
+}

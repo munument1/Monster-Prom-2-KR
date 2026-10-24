@@ -27,9 +27,10 @@
 - 아이스브레이커 첫 320개: `translations/icebreakers_001_160_ko.json`, `icebreakers_161_320_ko.json`
 - 엔딩 첫 260개: `translations/endings_001_130_ko.json`, `endings_131_260_ko.json`
 - 메인 게임 이벤트 `tasting`, `campfireflippers`, `robotsurvivalskills`: 109개
+- 본편 곰 습격·마법 나무 이벤트 8개: `translations/maingame_bearattack*_ko.json`, `translations/maingame_magictree*_ko.json` (747개)
 - UI 추가 586개: `translations/ui_*_ko.json` 네 파일
 
-**누적 2,773 / 33,850개 위치(8.19%)**를 초벌 번역했습니다. 번역 완료 이벤트는 1,077개 중 448개이며, 게임 구동·표시 검증과 전체 한국어 번역은 아직 미완료입니다.
+**누적 3,520 / 33,850개 위치(10.4%)**를 초벌 번역했습니다. 번역 완료 이벤트는 1,077개 중 456개이며, 게임 구동·표시 검증과 전체 한국어 번역은 아직 미완료입니다. 본편 주 스토리는 856 / 27,700개 위치가 번역되었습니다.
 
 ## 로컬 재현
 
@@ -44,6 +45,8 @@ python .\extract_catalog.py
 python .\build_preview.py
 python .\build_mod.py
 python .\report_progress.py
+python .\inspect_images.py
+python .\inspect_images.py --bundle drinks_assets_all.bundle --preview-count 2
 python -m unittest discover -s tests -v
 ```
 
@@ -53,9 +56,19 @@ python -m unittest discover -s tests -v
 
 `build_preview.py`는 **텍스트 프리뷰만 생성**합니다. `build_mod.py`는 실제 게임의 `CustomLocalizationParser`가 읽는 2열 탭 구분 형식인 `build/MonsterCampKR/Localization.txt`를 생성합니다. 어떤 스크립트도 게임 원본 변경이나 창작마당 게시를 수행하지 않습니다.
 
-현재 모드 파일 출력은 **2,759개 ID**입니다. 검토한 번역 2,773개 중 원문에 번역 ID가 아예 없는 음료 이벤트 행 14개는 공식 텍스트 오버라이드에서 제외하고 `build/MonsterCampKR/manifest.json`의 `requires_asset_patch`에 기록합니다. 이 항목들은 추후 별도 에셋 적용 경로 확인이 필요합니다. 대사 번역용 원문 위치 전체에는 이런 ID 없는 행이 총 19개 존재합니다.
+현재 모드 파일 출력은 **3,506개 ID**입니다. 검토한 번역 3,520개 중 원문에 번역 ID가 아예 없는 음료 이벤트 행 14개는 공식 텍스트 오버라이드에서 제외하고 `build/MonsterCampKR/manifest.json`의 `requires_asset_patch`에 기록합니다. 이 항목들은 추후 별도 에셋 적용 경로 확인이 필요합니다. 대사 번역용 원문 위치 전체에는 이런 ID 없는 행이 총 19개 존재합니다.
 
 원본 ID·태그·변수 검사 외에도, PowerShell의 인코딩 오류로 한글이 `?`로 손상된 데이터를 사전 차단합니다. 번역·검수 기준은 [docs/TRANSLATION_GUIDE.md](docs/TRANSLATION_GUIDE.md)에 있습니다.
+
+### 이미지 안에 박힌 영어 번역
+
+`Localization.txt`는 텍스트 ID를 덮어쓰는 형식이므로 그림의 픽셀 자체에 영어가 그려진 경우에는 영향을 주지 않습니다. 실제 `drinks_assets_all.bundle`의 `fake_spellpage` 텍스처(380×380)에는 영어 주문서 글씨가 직접 포함되어 있음을 확인했습니다. 별도의 이미지 편집 및 안전한 자산 교체 경로가 필요합니다.
+
+`inspect_images.py`는 Unity 이미지 파일을 **읽기 전용**으로 조사해 `work/image_inventory.json`에 번들·경로 ID·스프라이트 참조·크기·포맷 등을 기록합니다. 현재 설치본 번들 28개에서 `Texture2D` 2,316개와 `Sprite` 2,300개를 찾았습니다. 이름만으로 영어 글씨가 있을 것으로 추정한 텍스처는 109개이며, 이미지 실제 글자 수가 검증된 것은 아닙니다. 미리보기는 명시한 `--preview-count` 만큼만 무시되는 `work/images_preview/`에 만듭니다. 이미지 원본은 GitHub에 올리지 않습니다.
+
+[이미지 현지화 조사 보고서](docs/IMAGE_LOCALIZATION_AUDIT.md)는 배경·갤러리·상점·음료·아이콘 등 6개 주요 번들의 실제 그림 42종을 시각 검수하고, 영문이 그림에 인쇄된 구체적 사례와 텍스처 재직렬화의 기술적 한계를 정리했습니다. 임의 PNG 복사만으로 게임의 이미지가 바뀌는 것은 아니며, 게임 실행·번들 오버라이드 로더는 아직 검증하지 않았습니다.
+
+확인된 텍스처 하나의 한국어 문구 초안은 `image_translations/candidates.json`에 보존했습니다. 이 JSON은 실제 이미지 파일이 아니며 아직 게임에 적용되지 않았습니다.
 
 ### 게임에 적용할 때
 

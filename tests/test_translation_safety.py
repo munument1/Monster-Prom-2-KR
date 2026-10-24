@@ -50,6 +50,16 @@ class TranslationSafetyTests(unittest.TestCase):
         self.assertNotEqual(build_preview.TOKEN.findall(expected),
                             build_preview.TOKEN.findall(changed))
 
+    def test_uppercase_ui_variables_are_preserved(self) -> None:
+        source = "Name [NPC] costs [PRICE] and gives [ITEM]"
+        correct = "이름 [NPC] 가격 [PRICE], 보상 [ITEM]"
+        corrupt = "이름 [NPC] 가격 [PRICE], 보상 [ITEM_KR]"
+        from collections import Counter
+        self.assertEqual(Counter(build_preview.TOKEN.findall(source)),
+                         Counter(build_preview.TOKEN.findall(correct)))
+        self.assertNotEqual(Counter(build_preview.TOKEN.findall(source)),
+                            Counter(build_preview.TOKEN.findall(corrupt)))
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -17,7 +17,10 @@ from extract_catalog import BUNDLES, OUTPUT, UI_ENTRY
 
 ROOT = Path(__file__).resolve().parent
 TRANSLATION_FILES = tuple(sorted((ROOT / "translations").glob("*_ko.json")))
-TOKEN = re.compile(r"%[A-Z][^%\r\n]{0,96}%|\[/?[a-z0-9]+\]|</?[a-z]+(?:\s[^<>]*?)?>")
+# Preserve both lower-case markup ([n], [sub], [sp]) and the game's
+# bracketed uppercase UI parameters ([NPC], [ITEM], [PRICE]). The %...%
+# expression stays first so composite variables containing [sp] are atomic.
+TOKEN = re.compile(r"%[A-Z][^%\r\n]{0,96}%|\[/?[a-z0-9]+\]|\[[A-Z][A-Z0-9_]*\]|</?[a-z]+(?:\s[^<>]*?)?>")
 
 
 def load_catalog() -> dict[str, dict]:
