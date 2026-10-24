@@ -41,6 +41,28 @@ If all translatable text is to display in the game, investigate a safe
 mod-packaged asset override for these rows. Do **not** modify installed
 original game bundles in place or fabricate a native ID.
 
+### Read-only runtime-path review
+
+Inspection of the installed game's `Assembly-CSharp.dll` and Addressables
+catalog confirms that `CustomLocalizationParser.ValidateId` accepts
+only IDs present in the original game's localization key collection.
+`ModTool.CreateMod` creates a descriptor inside Unity's persistent-data
+`Mods` directory; `CustomLocalizationManager.PrepareMod` reads
+`Localization.txt`. The text events themselves are loaded via the
+Addressables-backed event parser. Consequently, the stock Fan Translation
+ModTool cannot reach these 19 lines merely by adding new invented IDs.
+
+A reversible runtime `TextAsset`/Addressables override might be technically
+possible, but **no supported asset-override registration/loader was verified
+in the installed game**. A bundle copied into `Mods` is not a demonstrated
+replacement method. Do not distribute a guessed loader or rewrite the
+installed original bundles. Treat these 19 lines as *translated source data
+awaiting a separately verified in-game application mechanism*.
+
+Proof of full in-game localization would require controlled installation and
+reversibility tests, a valid mod registration path, actual branch rendering
+for these 19 rows, and font/layout verification.
+
 ## Validation boundary
 
 Catalog JSON, variable/numeric equivalence checks, and in-memory Unity
