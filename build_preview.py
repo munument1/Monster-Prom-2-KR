@@ -30,6 +30,20 @@ def load_translations(catalog: dict[str, dict]) -> dict[str, str]:
     translations = {}
     for path in TRANSLATION_FILES:
         data = json.loads(path.read_text(encoding="utf-8"))
+        # Windows console codepages may turn an entire Korean translation
+        # into literal '?' characters while preserving valid JSON. Reject
+        # that silent corruption before including it in any mod build.
+        if len(data) >= 5 and not any(
+            '\uac00' <= char <= '\ud7a3' for value in data.values()
+            if isinstance(value, str) for char in value
+        ):
+            raise ValueError(f"Suspected lost Korean characters in {path.name}: no Hangul syllables")
+        # A partially recovered file may contain a mixture of Korean text
+        # and large runs of '?' left by lossy stdin encoding. Korean dialogue
+        # uses question marks, but never this densely across a whole batch.
+        values = ''.join(value for value in data.values() if isinstance(value, str))
+        if len(data) >= 5 and values and values.count('?') > max(20, len(values) * 0.15):
+            raise ValueError(f"Suspected encoding loss in {path.name}: excessive '?' characters")
         for key, text in data.items():
             entry_id = key if "/" in key else f"english_camp_metatexts/{key}"
             if entry_id in translations:
@@ -38,6 +52,8 @@ def load_translations(catalog: dict[str, dict]) -> dict[str, str]:
                 raise KeyError(f"Translation has no source entry: {entry_id}")
             if not isinstance(text, str) or not text.strip():
                 raise ValueError(f"Empty translation: {entry_id}")
+            if len(text) >= 14 and text.count('?') >= max(6, len(text) * 0.25):
+                raise ValueError(f"Suspected corrupted Korean text at {entry_id}: excessive '?' characters")
             if any(sep in text for sep in ("\r", "\n", "\t")):
                 raise ValueError(f"Use game markup for line breaks, not literal control characters: {entry_id}")
             english = catalog[entry_id]["english"]

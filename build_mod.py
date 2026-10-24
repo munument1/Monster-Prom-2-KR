@@ -36,8 +36,18 @@ def main() -> None:
     translations = load_translations(catalog)
     native = {}
     origin = {}
+    unsupported = []
     for entry_id, korean in translations.items():
-        key = localization_key(catalog[entry_id])
+        try:
+            key = localization_key(catalog[entry_id])
+        except ValueError:
+            # Some original content lines have no source localization ID.
+            # The game's ID-based override parser cannot address those rows.
+            # Keep the reviewed translations for a later asset-based patch.
+            if "/line-" not in catalog[entry_id]["key"]:
+                raise
+            unsupported.append(entry_id)
+            continue
         if key in native and native[key] != korean:
             raise ValueError(f"Conflicting native localization ID: {key}")
         native[key] = korean
@@ -49,13 +59,17 @@ def main() -> None:
     target = BUILD_DIR / "Localization.txt"
     target.write_bytes(content.encode("utf-8"))
     manifest = {"game": "Monster Prom 2: Monster Camp",
+                "reviewed_translation_entries": len(translations),
                 "native_translation_entries": len(native),
+                "requires_asset_patch": unsupported,
                 "sha256": hashlib.sha256(target.read_bytes()).hexdigest(),
                 "source_ids": origin,
-                "note": "Staged native localization text; a complete mod may also require Descriptor.mcmtd"}
+                "note": "Only rows with native IDs are exported. A complete mod also requires registration via the game's ModTool."}
     (BUILD_DIR / "manifest.json").write_text(
         json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Staged {len(native)} localized IDs: {target}")
+    if unsupported:
+        print(f"WARNING: {len(unsupported)} translated source rows lack native IDs; see manifest.json")
 
 
 if __name__ == "__main__":

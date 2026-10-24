@@ -13,13 +13,23 @@
 
 추출 기준 전체 **33,850개 위치**(이벤트/선택지 32,063, UI 1,787), 중복 영문 제거 시 **31,238개**. 이벤트는 약 1,077개. 전체 카탈로그에 포함된 원문을 무조건 게임에서 표시한다고 단정하지 않습니다. 대사의 일부는 결과 분기·이벤트 조건·DLC에 따라 노출됩니다.
 
-## 초벌 번역 상태
+## 초벌 번역 상태 · 2026-10-24
 
 - 메인 메뉴·설정·일부 캐릭터/의상 선택 관련 UI: `translations/menu_ko.json` (92개)
 - 오프닝 장면 전체: `translations/prologue_ko.json` (23개)
 - 캠프 도전 과제 53개에 딸린 문구 106개: `translations/challenges_ko.json`
 - 메타 상점·기본 이벤트·크레딧: `translations/small_events_ko.json` (36개)
-- 합계 257개. 게임 구동·표시 검증 전이며 전체 번역은 미완료.
+- 캠프 일반 이벤트 전체: `translations/standard_ko.json` (302개)
+- 캠프 음료 이벤트 전체: `translations/drinks_ko.json` (351개)
+- 러브로그 전체: `translations/lovelog_ko.json` (250개)
+- 소문 진술 전체: `translations/gossipstatements_ko.json` (178개)
+- 선택형 소문 이벤트 첫 160개: `translations/gossips_001_160_ko.json`
+- 아이스브레이커 첫 320개: `translations/icebreakers_001_160_ko.json`, `icebreakers_161_320_ko.json`
+- 엔딩 첫 260개: `translations/endings_001_130_ko.json`, `endings_131_260_ko.json`
+- 메인 게임 이벤트 `tasting`, `campfireflippers`, `robotsurvivalskills`: 109개
+- UI 추가 586개: `translations/ui_*_ko.json` 네 파일
+
+**누적 2,773 / 33,850개 위치(8.19%)**를 초벌 번역했습니다. 번역 완료 이벤트는 1,077개 중 448개이며, 게임 구동·표시 검증과 전체 한국어 번역은 아직 미완료입니다.
 
 ## 로컬 재현
 
@@ -33,6 +43,8 @@ python .\inspect_sources.py
 python .\extract_catalog.py
 python .\build_preview.py
 python .\build_mod.py
+python .\report_progress.py
+python -m unittest discover -s tests -v
 ```
 
 `work/catalog.jsonl`에는 키, 해당 에셋, 이벤트 ID, 원문 행 번호, 텍스트 열 번호, 영문 원문, 검증용 해시가 저장됩니다. `work/inventory.json`에는 구조 집계가 저장됩니다. 전체 원문 추출물과 미적용 텍스트 프리뷰는 `work/` 아래에 있으며 Git 추적에서 제외합니다.
@@ -40,6 +52,10 @@ python .\build_mod.py
 초벌 번역 딕셔너리는 해당 카탈로그의 ID에 매핑되고, 검증기는 `%CURRENTPLAYERNAME%`, `%WEEKS%`, `[n]`, `[sub]` 등 게임의 변수·서식 토큰이 그대로 유지되었는지 검사합니다. 실제 탭·개행을 번역 값에 삽입하는 것도 차단합니다.
 
 `build_preview.py`는 **텍스트 프리뷰만 생성**합니다. `build_mod.py`는 실제 게임의 `CustomLocalizationParser`가 읽는 2열 탭 구분 형식인 `build/MonsterCampKR/Localization.txt`를 생성합니다. 어떤 스크립트도 게임 원본 변경이나 창작마당 게시를 수행하지 않습니다.
+
+현재 모드 파일 출력은 **2,759개 ID**입니다. 검토한 번역 2,773개 중 원문에 번역 ID가 아예 없는 음료 이벤트 행 14개는 공식 텍스트 오버라이드에서 제외하고 `build/MonsterCampKR/manifest.json`의 `requires_asset_patch`에 기록합니다. 이 항목들은 추후 별도 에셋 적용 경로 확인이 필요합니다. 대사 번역용 원문 위치 전체에는 이런 ID 없는 행이 총 19개 존재합니다.
+
+원본 ID·태그·변수 검사 외에도, PowerShell의 인코딩 오류로 한글이 `?`로 손상된 데이터를 사전 차단합니다. 번역·검수 기준은 [docs/TRANSLATION_GUIDE.md](docs/TRANSLATION_GUIDE.md)에 있습니다.
 
 ### 게임에 적용할 때
 
